@@ -88,7 +88,7 @@ table, th, td {
 		min-width: 0px;
 	}
 }*/
-@media only screen and (max-width: 850px) {
+@media only screen and (max-width: 1000px) {
 	.header {
 		background-image: url(images/color_purple.png);
 	}
@@ -269,8 +269,8 @@ table, th, td {
 	padding: 0;
 }
 .cntrdtxt li {
-	float:center;
-	position:relative;
+	float: center;
+	position: relative;
 	display: inline-block;
 }
 .cntrdtxt a {
