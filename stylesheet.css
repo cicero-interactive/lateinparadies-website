@@ -3,6 +3,9 @@ table, th, td {
 	border-spacing: 0;
 	padding: 0;
 }
+a {
+	color: rgb(0, 0, 238)
+}
 
 .header {
 	height: 150px;
