@@ -35,14 +35,14 @@
 										<font size="4">
 											<li><a href="../">Home</a></li>
 											<span class="spc"><li>>></li></span>
-											<li><a href="../Jacobus-de-Voragine.html">Jacobus de Voragine</a></li>
+											<li><a href="../Jacobus-de-Voragine.php">Jacobus de Voragine</a></li>
 											<span class="spc"><li>>></li></span>
 											<li><a href="">Legenda Aurea</a></li>
 											<div class="impr ShowOnBigScreen">
 												<li>&nbsp;</li>
-												<li><a href="../Impressum.html">Impressum&nbsp;</a></li>
+												<li><a href="../Impressum.php">Impressum&nbsp;</a></li>
 												<li>|</li>
-												<li><a href="../Datenschutzerklaerung.html">Datenschutzerklärung&nbsp;</a></li>
+												<li><a href="../Datenschutzerklaerung.php">Datenschutzerklärung&nbsp;</a></li>
 											</div>
 										</font>
 									</ul>
@@ -61,7 +61,7 @@
 									</font>
 									<br><br><br>
 									
-									<div class="cntrdtxt" id="Ch82">
+									<div class="cntrdtxt" id="DSB">
 										<ul>
 											<li><font size="6" color="#FFCC00"><u>De Sancto Benedicto</u></font></li>
 										</ul>
@@ -91,7 +91,7 @@
 											<td>
 												<p>
 													<font size="4" color="#F2F2F2">
-														Er wurde entweder Benedikt genannt, weil er vieles esegnet hat,
+														Er wurde entweder Benedikt genannt, weil er vieles gesegnet hat,
 														weil er in diesem Leben viele Segnungen hatte, weil alle über ihn gut sprachen
 														oder weil er ewigen Segen verdient hat. Der heilige Gregor beschrieb dessen Leben.<font color="#FF9900" size="3"><sup>1</sup></font>
 														Als der in der Provinz Nursia geborene Benedikt für wissenschaftliche Studien nach Rom geschickt worden war,
@@ -101,7 +101,7 @@
 													</font>
 												</p>
 												<font size="3" color="#CCCCCC">
-													<font color="#FF9900"><sup>1</sup>:</font>Übersetzung: <a href="https://de.wikipedia.org/wiki/Legatus" target="new">Gregor der Große: Dialogorum liber secundus</a>
+													<font color="#FF9900"><sup>1</sup>: </font>Übersetzung: <a href="../Gregor-der-Grosse/Dialogorum-(B2).php" target="new">Gregor der Große: Dialogorum liber secundus</a>
 												</font>
 											</td>
 										</tr>
@@ -110,9 +110,9 @@
 												<div>
 													<font size="4" color="#F2F2F2">
 														<hr>
-														Als Einsiedler lebt Benedikt von nun an alleine in einer abgeschiedenen Höhle.
-														Sein treuer Diener Romanus ist der einzige Kontakt zur Außenwelt, der trotz
-														Benedikts schwer erreichbarer Behausung seinen Herrn regelmäßig mit Nahrung versorgt.
+														Als Einsiedler lebte Benedikt von nun an alleine in einer abgeschiedenen Höhle.
+														Sein treuer Diener Romanus war der einzige Kontakt zur Außenwelt, der trotz
+														Benedikts schwer erreichbarer Behausung seinen Herrn regelmäßig mit Nahrung versorgte.
 														<hr>
 													</font>
 												</div>
@@ -207,7 +207,7 @@
 												<div>
 													<font size="4" color="#F2F2F2">
 														<hr>
-														Auch kurz vor seinem Tod wirkt Benedikt noch Wunder:
+														Auch kurz vor seinem Tod wirkte Benedikt noch Wunder:
 														<hr>
 													</font>
 												</div>
@@ -235,13 +235,13 @@
 											</td>
 										</tr>
 										<tr>
-											<td colspan="3" style="padding: 25px 0px; text-align: center">
+											<td colspan="3" style="padding: 25px 0px 0px 0px; text-align: center">
 												<div>
 													<font size="4" color="#F2F2F2">
 														<hr>
-														Als Benedikt von Fieberanfällen gequält wird, lässt er
+														Als Benedikt von Fieberanfällen gequält wurde, ließ er
 														sich ins Oratorium tragen, wo er sich mit einer letzten
-														Eucharistie auf den Tod vorbereitet. Benedikt stirbt im
+														Eucharistie auf den Tod vorbereitete. Benedikt starb im
 														Kreise seiner Schüler am 21. März 547 n. Chr.
 														<hr>
 													</font>
@@ -294,7 +294,7 @@
 										<td>
 											<font size="3" color="#CCCCCC">
 												<div style="padding: 0px 20px 0px 20px">Besuche dieser Seite:<br>
-													<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zvueqnqq&nd=9&style=44" border="0" alt="visitor counter"></a>
+													<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zvueqnqq&nd=9&style=44" alt="visitor counter"></a>
 												</div>
 											</font>
 										</td>
@@ -310,9 +310,9 @@
 												<font size="3" color="#CCCCCC">
 													<div class="nav_btm" style="padding: 0px 25px 0px 25px">
 														<hr>
-														<li><font size="4"><a href="../Impressum.html">Impressum</a></font></li>
+														<li><font size="4"><a href="../Impressum.php">Impressum</a></font></li>
 														<li><font size="4">-</font></li>
-														<li><font size="4"><a href="../Datenschutzerklaerung.html">Datenschutzerklärung</a></font></li>
+														<li><font size="4"><a href="../Datenschutzerklaerung.php">Datenschutzerklärung</a></font></li>
 														<br><br>
 													</div>
 												</font>

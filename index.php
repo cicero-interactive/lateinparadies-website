@@ -21,7 +21,12 @@
 									<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
 									Cicero Interactive bedankt sich bei all den großzügigen Spendern,
 									durch deren selbstlosen Opfergaben wir das Lateinparadies für mindestens ein weiteres halbes Jahr konstant mit Updates und Fehlerverbesserungen versorgen können!
-									Auflistung aller Spender: <a href="Hall-of-Fame.html"><font color="#FFCC00">Hall of Fame</font></a>
+									Auflistung aller Spender: <a href="Hall-of-Fame.php"><font color="#FFCC00">Hall of Fame</font></a>
+								</div>								
+								<div class="alertRed">
+									<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+									Durch ein technisches Problem wurden alle "ä"-, "ö"- und "ü"-Zeichen in Kleinbuchstaben konvertiert.
+									Trotz detaillierter Fehlersuche kann es sein, dass ein paar übersehen wurden. Sollte Ihnen ein solcher Fehler auffallen, kontaktieren Sie uns bitte unter unserer E-Mail Adresse.
 								</div>
 							</td>
 						</tr>
@@ -50,9 +55,9 @@
 											<li><a href="">Home</a></li>
 											<div class="impr ShowOnBigScreen">
 												<li>&nbsp;</li>
-												<li><a href="Impressum.html">Impressum&nbsp;</a></li>
+												<li><a href="Impressum.php">Impressum&nbsp;</a></li>
 												<li>|</li>
-												<li><a href="Datenschutzerklaerung.html">Datenschutzerklärung&nbsp;</a></li>
+												<li><a href="Datenschutzerklaerung.php">Datenschutzerklärung&nbsp;</a></li>
 											</div>
 										</font>
 									</ul>
@@ -72,7 +77,7 @@
 								<font size="4" color="#F2F2F2">
 									<div style="max-width: 720px; margin: auto">
 										Nach 4 Jahren mühseliger Lateinarbeiten haben wir, eine Gruppe von Lateinschülern, beschlossen,
-										unsere Lösungen der Hausaufgaben und übungen, die sich über die Jahre angesammelt haben,
+										unsere Lösungen der Hausaufgaben und Übungen, die sich über die Jahre angesammelt haben,
 										mit den nachfolgenden Generationen zu teilen.<br><br>
 									</div>
 									<div style="max-width: 600px; margin: auto">
@@ -90,14 +95,17 @@
 								<font size="5" color="#F2F2F2">
 									Wähle den gewünschten Autor...
 								</font>	
-								<div class="cntrdtxt">
+								<div class="cntrdtxt" style="max-width: 720px; margin: auto">
 									<ul>
 										<font size="4">
 											<b>
-												<li><a href="Nepos.html">Nepos</a></li>
-												<li><a href="Ovid.html">Ovid</a></li>
-												<li><a href="Caesar.html">Cäsar</a></li>
-												<li><a href="Sueton.html">Sueton</a></li>
+												<li style="margin-bottom: 10px"><a href="Caesar.php">Cäsar</a></li>
+												<li style="margin-bottom: 10px"><a href="Gregor-der-Grosse.php">Gregor der Große</a></li>
+												<li style="margin-bottom: 10px"><a href="Martial.php">Martial</a></li>
+												<li style="margin-bottom: 10px"><a href="Nepos.php">Nepos</a></li>
+												<li style="margin-bottom: 10px"><a href="Ovid.php">Ovid</a></li>
+												<li style="margin-bottom: 10px"><a href="Sueton.php">Sueton</a></li>
+												<li style="margin-bottom: 10px"><a href="Jacobus-de-Voragine.php">Jacobus de Voragine</a></li>
 											</b>
 										</font>
 									</ul>
@@ -110,7 +118,7 @@
 									<ul>
 										<font size="4">
 											<b>
-												<li><a href="Carmina-Burana.html">Carmina Burana</a></li>
+												<li><a href="Carmina-Burana.php">Carmina Burana</a></li>
 											</b>
 										</font>
 									</ul>
@@ -161,9 +169,9 @@
 												<font size="3" color="#CCCCCC">
 													<div class="nav_btm" style="padding: 0px 25px 0px 25px">
 														<hr>
-														<li><font size="4"><a href="Impressum.html">Impressum</a></font></li>
+														<li><font size="4"><a href="Impressum.php">Impressum</a></font></li>
 														<li><font size="4">-</font></li>
-														<li><font size="4"><a href="Datenschutzerklaerung.html">Datenschutzerklärung</a></font></li>
+														<li><font size="4"><a href="Datenschutzerklaerung.php">Datenschutzerklärung</a></font></li>
 														<br><br>
 													</div>
 												</font>

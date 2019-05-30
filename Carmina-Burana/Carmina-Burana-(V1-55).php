@@ -35,14 +35,14 @@
 										<font size="4">
 											<li><a href="../">Home</a></li>
 											<span class="spc"><li>>></li></span>
-											<li><a href="../Carmina-Burana.html">Carmina Burana</a></li>
+											<li><a href="../Carmina-Burana.php">Carmina Burana</a></li>
 											<span class="spc"><li>>></li></span>
 											<li><a href="">Kapitel 1-55 (moralisch-satirische Dichtungen)</a></li>
 											<div class="impr ShowOnBigScreen">
 												<li>&nbsp;</li>
-												<li><a href="../Impressum.html">Impressum&nbsp;</a></li>
+												<li><a href="../Impressum.php">Impressum&nbsp;</a></li>
 												<li>|</li>
-												<li><a href="../Datenschutzerklaerung.html">Datenschutzerklärung&nbsp;</a></li>
+												<li><a href="../Datenschutzerklaerung.php">Datenschutzerklärung&nbsp;</a></li>
 											</div>
 										</font>
 									</ul>
@@ -53,7 +53,7 @@
 						
 					<!--CONTENT-->
 						<tr>
-							<td background="../images/color_blue.png" style="text-align: center">
+							<td background="../images/color_blue.png" style="text-align: center; padding-left:15px; padding-right:15px">
 								<br><br>
 								<font size="7" color="#F2F2F2">
 									<u>Carmina Burana</u>
@@ -602,9 +602,9 @@
 												<font size="3" color="#CCCCCC">
 													<div class="nav_btm" style="padding: 0px 25px 0px 25px">
 														<hr>
-														<li><font size="4"><a href="../Impressum.html">Impressum</a></font></li>
+														<li><font size="4"><a href="../Impressum.php">Impressum</a></font></li>
 														<li><font size="4">-</font></li>
-														<li><font size="4"><a href="../Datenschutzerklaerung.html">Datenschutzerklärung</a></font></li>
+														<li><font size="4"><a href="../Datenschutzerklaerung.php">Datenschutzerklärung</a></font></li>
 														<br><br>
 													</div>
 												</font>

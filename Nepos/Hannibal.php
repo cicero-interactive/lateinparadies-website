@@ -35,14 +35,14 @@
 										<font size="4">
 											<li><a href="../">Home</a></li>
 											<span class="spc"><li>>></li></span>
-											<li><a href="../Nepos.html">Nepos</a></li>
+											<li><a href="../Nepos.php">Nepos</a></li>
 											<span class="spc"><li>>></li></span>
 											<li><a href="">Hannibal</a></li>
 											<div class="impr ShowOnBigScreen">
 												<li>&nbsp;</li>
-												<li><a href="../Impressum.html">Impressum&nbsp;</a></li>
+												<li><a href="../Impressum.php">Impressum&nbsp;</a></li>
 												<li>|</li>
-												<li><a href="../Datenschutzerklaerung.html">Datenschutzerklärung&nbsp;</a></li>
+												<li><a href="../Datenschutzerklaerung.php">Datenschutzerklärung&nbsp;</a></li>
 											</div>
 										</font>
 										<br>
@@ -477,7 +477,7 @@
 														Als die Karthager dies erfuhren, bestraften sie Mago in seiner Abwesenheit genauso wie seinen Bruder.
 														Nachdem jene in dieser verzweifelten Lage die Anker gelichtet und Segel gesetzt hatten,
 														kehrte Hannibal zu Antiochus zurück.
-														über das Ende Magos ist eine doppelte Nachricht überliefert:
+														Über das Ende Magos ist eine doppelte Nachricht überliefert:
 														Die einen hinterließen die Nachricht, er sei durch einen Schiffbruch getötet worden,
 														die anderen, dass er von seinen eigenen Sklaven getötet worden war.
 														Wenn Antiochus beim Führen des Krieges aber Hannibals Plänen hätte genau befolgen wollen,
@@ -823,9 +823,9 @@
 												<font size="3" color="#CCCCCC">
 													<div class="nav_btm" style="padding: 0px 25px 0px 25px">
 														<hr>
-														<li><font size="4"><a href="../Impressum.html">Impressum</a></font></li>
+														<li><font size="4"><a href="../Impressum.php">Impressum</a></font></li>
 														<li><font size="4">-</font></li>
-														<li><font size="4"><a href="../Datenschutzerklaerung.html">Datenschutzerklärung</a></font></li>
+														<li><font size="4"><a href="../Datenschutzerklaerung.php">Datenschutzerklärung</a></font></li>
 														<br><br>
 													</div>
 												</font>

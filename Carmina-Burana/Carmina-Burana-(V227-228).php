@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Carmina Burana Kapitel 56-186 Übersetzung | Lateinparadies</title>
+		<title>Carmina Burana Kapitel Kapitel 227-228 Übersetzung | Lateinparadies</title>
 		<link rel="icon" href="../images/favicon.ico">
 		<link rel="stylesheet" href="../stylesheet.css">
 		<meta name="viewport" content="width=device-width, initial-scale=0.70">
@@ -35,14 +35,14 @@
 										<font size="4">
 											<li><a href="../">Home</a></li>
 											<span class="spc"><li>>></li></span>
-											<li><a href="../Carmina-Burana.html">Carmina Burana</a></li>
+											<li><a href="../Carmina-Burana.php">Carmina Burana</a></li>
 											<span class="spc"><li>>></li></span>
-											<li><a href="">Kapitel 56-186 (Liebeslieder)</a></li>
+											<li><a href="">Kapitel 227-228 (geistliche Dramen)</a></li>
 											<div class="impr ShowOnBigScreen">
 												<li>&nbsp;</li>
-												<li><a href="../Impressum.html">Impressum&nbsp;</a></li>
+												<li><a href="../Impressum.php">Impressum&nbsp;</a></li>
 												<li>|</li>
-												<li><a href="../Datenschutzerklaerung.html">Datenschutzerklärung&nbsp;</a></li>
+												<li><a href="../Datenschutzerklaerung.php">Datenschutzerklärung&nbsp;</a></li>
 											</div>
 										</font>
 									</ul>
@@ -104,7 +104,7 @@
 									<td>
 										<font size="3" color="#CCCCCC">
 											<div style="padding: 0px 20px 0px 20px">Besuche dieser Seite:<br>
-												<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zrevqnpa&nd=9&style=44" alt="web counter"></a>
+												<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zmqnpn&nd=9&style=44" alt="web counter"></a>
 											</div>
 											</font>
 										</td>
@@ -120,9 +120,9 @@
 												<font size="3" color="#CCCCCC">
 													<div class="nav_btm" style="padding: 0px 25px 0px 25px">
 														<hr>
-														<li><font size="4"><a href="../Impressum.html">Impressum</a></font></li>
+														<li><font size="4"><a href="../Impressum.php">Impressum</a></font></li>
 														<li><font size="4">-</font></li>
-														<li><font size="4"><a href="../Datenschutzerklaerung.html">Datenschutzerklärung</a></font></li>
+														<li><font size="4"><a href="../Datenschutzerklaerung.php">Datenschutzerklärung</a></font></li>
 														<br><br>
 													</div>
 												</font>

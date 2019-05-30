@@ -35,14 +35,14 @@
 										<font size="4">
 											<li><a href="../">Home</a></li>
 											<span class="spc"><li>>></li></span>
-											<li><a href="../Caesar.html">Cäsar</a></li>
+											<li><a href="../Caesar.php">Cäsar</a></li>
 											<span class="spc"><li>>></li></span>
 											<li><a href="">De Bello Gallico (Buch I)</a></li>
 											<div class="impr ShowOnBigScreen">
 												<li>&nbsp;</li>
-												<li><a href="../Impressum.html">Impressum&nbsp;</a></li>
+												<li><a href="../Impressum.php">Impressum&nbsp;</a></li>
 												<li>|</li>
-												<li><a href="../Datenschutzerklaerung.html">Datenschutzerklärung&nbsp;</a></li>
+												<li><a href="../Datenschutzerklaerung.php">Datenschutzerklärung&nbsp;</a></li>
 											</div>
 										</font>
 										<br>
@@ -396,7 +396,7 @@
 														so schnell er konnte ins jenseitige Gallien und erreichte Genf. Der ganzen Provinz befahl er, eine möglichst große Anzahl an Soldaten zu stellen
 														- In ganz Gallien war nämlich nur eine Legion stationiert - und die Brücke, die bei Genf war, ließ er abbrechen.
 														Sobald die Helvetier von seiner Ankunft benachrichtigt worden waren, schickten sie als Gesandte zu ihm, die Vornehmsten ihres Stammes.
-														Diese sollten sagen, dass sie vorhätten, ohne übeltaten durch die Provinz ziehen wollten: Deshalb, weil sie keinen anderen Weg hätten.
+														Diese sollten sagen, dass sie vorhätten, ohne Übeltaten durch die Provinz ziehen wollten: Deshalb, weil sie keinen anderen Weg hätten.
 														Sie bäten darum, dass es ihnen erlaubt sei, dies mit seiner Einwilligung zu tun.
 														Weil sich Cäsar erinnerte, dass von den Helvetiern der Konsul Lucius Cassius getötet und sein Heer besiegt und unters Joch geschickt worden war,
 														glaubte er, nicht einwilligen zu dürfen. Außerdem glaubte er nicht, dass Menschen von feindlicher Gesinnung, wenn ihnen die Gelegenheit gegeben würde,
@@ -486,7 +486,7 @@
 														und von der Machtgier erfasst, war er auf Umsturz aus und wollte möglichst viele Stämme durch seine Dienste sich verpflichtet wissen.
 														Daher übernahm er sich der Sache an und erreichte von den Sequanern, dass sie die Helvetier durch ihr Gebiet ziehen ließen, und setzte durch,
 														dass sie gegenseitig Geiseln stellten: die Sequaner, damit sie die Helvetier nicht am Durchzug hinderten;
-														die Helvetier, damit sie ohne rechtswidrige übergriffe hindurchzogen. 
+														die Helvetier, damit sie ohne rechtswidrige Übergriffe hindurchzogen.
 													</font>
 												</p>
 											</td>
@@ -1130,9 +1130,9 @@
 												<font size="3" color="#CCCCCC">
 													<div class="nav_btm" style="padding: 0px 25px 0px 25px">
 														<hr>
-														<li><font size="4"><a href="../Impressum.html">Impressum</a></font></li>
+														<li><font size="4"><a href="../Impressum.php">Impressum</a></font></li>
 														<li><font size="4">-</font></li>
-														<li><font size="4"><a href="../Datenschutzerklaerung.html">Datenschutzerklärung</a></font></li>
+														<li><font size="4"><a href="../Datenschutzerklaerung.php">Datenschutzerklärung</a></font></li>
 														<br><br>
 													</div>
 												</font>

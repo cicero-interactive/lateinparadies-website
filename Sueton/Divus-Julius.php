@@ -35,14 +35,14 @@
 										<font size="4">
 											<li><a href="../">Home</a></li>
 											<span class="spc"><li>>></li></span>
-											<li><a href="../Sueton.html">Sueton</a></li>
+											<li><a href="../Sueton.php">Sueton</a></li>
 											<span class="spc"><li>>></li></span>
 											<li><a href="">Divus Julius</a></li>
 											<div class="impr ShowOnBigScreen">
 												<li>&nbsp;</li>
-												<li><a href="../Impressum.html">Impressum&nbsp;</a></li>
+												<li><a href="../Impressum.php">Impressum&nbsp;</a></li>
 												<li>|</li>
-												<li><a href="../Datenschutzerklaerung.html">Datenschutzerklärung&nbsp;</a></li>
+												<li><a href="../Datenschutzerklaerung.php">Datenschutzerklärung&nbsp;</a></li>
 											</div>
 										</font>
 									</ul>
@@ -118,7 +118,7 @@
 							<td class="credits" background="../images/color_blue.png">
 								<font size="4" color="#CCCCCC">
 									<br>
-									Quelle des lateinischen Textes: <a target="_blank" href="http://www.thelatinlibrary.com/suetonius/suet.caesar.html">TheLatinLibrary</a></div>
+									Quelle des lateinischen Textes: <a target="_blank" href="http://www.thelatinlibrary.com/suetonius/suet.caesar.php">TheLatinLibrary</a></div>
 									<br>
 									Fehler gefunden? Kontaktieren Sie uns unter: <a href="mailto:lateinparadies.de.cool@gmail.com">lateinparadies.de.cool@gmail.com</a>!
 									<br><br>
@@ -168,9 +168,9 @@
 												<font size="3" color="#CCCCCC">
 													<div class="nav_btm" style="padding: 0px 25px 0px 25px">
 														<hr>
-														<li><font size="4"><a href="../Impressum.html">Impressum</a></font></li>
+														<li><font size="4"><a href="../Impressum.php">Impressum</a></font></li>
 														<li><font size="4">-</font></li>
-														<li><font size="4"><a href="../Datenschutzerklaerung.html">Datenschutzerklärung</a></font></li>
+														<li><font size="4"><a href="../Datenschutzerklaerung.php">Datenschutzerklärung</a></font></li>
 														<br><br>
 													</div>
 												</font>

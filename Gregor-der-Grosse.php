@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Sueton Übersetzungen | Lateinparadies</title>
+		<title>Gregor der Große Übersetzungen | Lateinparadies</title>
 		<link rel="icon" href="images/favicon.ico">
 		<link rel="stylesheet" href="stylesheet.css">
 		<meta name="viewport" content="width=device-width, initial-scale=0.70">
@@ -35,12 +35,12 @@
 										<font size="4">
 											<li><a href="./">Home</a></li>
 											<span class="spc"><li>>></li></span>
-											<li><a href="">Sueton</a></li>
+											<li><a href="">Gregor der Große</a></li>
 											<div class="impr ShowOnBigScreen">
 												<li>&nbsp;</li>
-												<li><a href="Impressum.html">Impressum&nbsp;</a></li>
+												<li><a href="Impressum.php">Impressum&nbsp;</a></li>
 												<li>|</li>
-												<li><a href="Datenschutzerklaerung.html">Datenschutzerklärung&nbsp;</a></li>
+												<li><a href="Datenschutzerklaerung.php">Datenschutzerklärung&nbsp;</a></li>
 											</div>
 										</font>
 									</ul>
@@ -54,13 +54,13 @@
 							<td background="images/color_blue.png" style="text-align: center; padding-left:15px; padding-right:15px">
 								<br><br>
 								<font size="6" color="#F2F2F2">
-									Wähle den gewünschten Sueton-Text:
+									Wähle den gewünschten Gregor der Große-Text:
 								</font>	
 								<div class="cntrdtxt">
 									<ul>
 										<font size="4">
 											<b>
-												<li><a href="Sueton/Divus-Julius.html">Divus Julius</a></li>
+												<li><a href="Gregor-der-Grosse/Dialogorum-(B2).php">Dialogorum (Buch II)</a></li>
 											</b>
 										</font>
 									</ul>
@@ -95,7 +95,8 @@
                                         <td>
                                             <font size="3" color="#CCCCCC">
                                                 <div style="padding: 0px 20px 0px 20px">Besuche dieser Seite:<br>
-                                                    <a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zmeeonaq&nd=9&style=44" alt="web counter"></a>
+													<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zruqncd&nd=9&style=44" alt="web counter"></a>
+
                                                 </div>
 											</font>
 										</td>
@@ -111,9 +112,9 @@
 												<font size="3" color="#CCCCCC">
 													<div class="nav_btm" style="padding: 0px 25px 0px 25px">
 														<hr>
-														<li><font size="4"><a href="Impressum.html">Impressum</a></font></li>
+														<li><font size="4"><a href="Impressum.php">Impressum</a></font></li>
 														<li><font size="4">-</font></li>
-														<li><font size="4"><a href="Datenschutzerklaerung.html">Datenschutzerklärung</a></font></li>
+														<li><font size="4"><a href="Datenschutzerklaerung.php">Datenschutzerklärung</a></font></li>
 														<br><br>
 													</div>
 												</font>

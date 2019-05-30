@@ -1,12 +1,12 @@
 <html>
 	<head>
-		<title>Jacobus de Voragine Übersetzungen | Lateinparadies</title>
+		<title>Ovid Übersetzungen | Lateinparadies</title>
 		<link rel="icon" href="images/favicon.ico">
 		<link rel="stylesheet" href="stylesheet.css">
 		<meta name="viewport" content="width=device-width, initial-scale=0.70">
 		<meta name="Copyright" content="Copyright (c) 2016-2019 by Cicero Interactive"/>
 		<meta charset="utf-8">
-	</head>
+	</head>	 
 	
 	<body>
 		<div class="background ShowOnSmallScreen"></div>
@@ -35,12 +35,12 @@
 										<font size="4">
 											<li><a href="./">Home</a></li>
 											<span class="spc"><li>>></li></span>
-											<li><a href="">Jacobus de Voragine</a></li>
+											<li><a href="">Ovid</a></li>
 											<div class="impr ShowOnBigScreen">
 												<li>&nbsp;</li>
-												<li><a href="Impressum.html">Impressum&nbsp;</a></li>
+												<li><a href="Impressum.php">Impressum&nbsp;</a></li>
 												<li>|</li>
-												<li><a href="Datenschutzerklaerung.html">Datenschutzerklärung&nbsp;</a></li>
+												<li><a href="Datenschutzerklaerung.php">Datenschutzerklärung&nbsp;</a></li>
 											</div>
 										</font>
 									</ul>
@@ -54,23 +54,24 @@
 							<td background="images/color_blue.png" style="text-align: center; padding-left:15px; padding-right:15px">
 								<br><br>
 								<font size="6" color="#F2F2F2">
-									Wähle den gewünschten Jacobus de Voragine-Text:
+									Wähle den gewünschten Ovid-Text:
 								</font>	
 								<div class="cntrdtxt">
 									<ul>
 										<font size="4">
 											<b>
-												<li><a href="Jacobus-de-Voragine/Legenda-Aurea.html">Legenda Aurea</a></li>
+												<li><a href="Ovid/Ars-Amatoria-(B1).php">Ars Amatoria (Buch I)</a></li><br><br>
+												<li><a href="Ovid/Ars-Amatoria-(B2).php">Ars Amatoria (Buch II)</a></li>
 											</b>
 										</font>
 									</ul>
 								</div>
-								<br><br><br><br>	
+								<br><br><br><br>
 							</td>
 						</tr>
 						<tr style="height: 2px"></tr>
-						
-	       			<!--FOOTER-->
+					
+					<!--FOOTER-->
 						<tr>
 							<td class="footer">
 								<table>
@@ -95,7 +96,7 @@
                                         <td>
                                             <font size="3" color="#CCCCCC">
                                                 <div style="padding: 0px 20px 0px 20px">Besuche dieser Seite:<br>
-													<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zmumqnqp&nd=9&style=44" alt="visitor counter"></a>
+                                                    <a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zuxnkp&nd=9&style=44" alt="hit counter"></a>
                                                 </div>
 											</font>
 										</td>
@@ -111,9 +112,9 @@
 												<font size="3" color="#CCCCCC">
 													<div class="nav_btm" style="padding: 0px 25px 0px 25px">
 														<hr>
-														<li><font size="4"><a href="Impressum.html">Impressum</a></font></li>
+														<li><font size="4"><a href="Impressum.php">Impressum</a></font></li>
 														<li><font size="4">-</font></li>
-														<li><font size="4"><a href="Datenschutzerklaerung.html">Datenschutzerklärung</a></font></li>
+														<li><font size="4"><a href="Datenschutzerklaerung.php">Datenschutzerklärung</a></font></li>
 														<br><br>
 													</div>
 												</font>
