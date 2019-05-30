@@ -13,6 +13,9 @@
 		<table style="width:100%; max-width: 1100px; margin: auto">
 			<tr>
 				<td>
+					<!--ALERTS-->
+					<?php include('../components/alerts.php'); ?>
+
 					<!--HEADER-->
 					<table style="width: 100%">
 						<tr>
@@ -130,7 +133,7 @@
 							<td class="credits" background="../images/color_blue.png">
 								<font size="4" color="#CCCCCC">
 									<br>
-									Quelle des lateinischen Textes: <a target="_blank" href="https://www.thelatinlibrary.com/martial.php">TheLatinLibrary</a></div>
+									Quelle des lateinischen Textes: <a target="_blank" href="https://www.thelatinlibrary.com/martial.html">TheLatinLibrary</a></div>
 									<br>
 									Fehler gefunden? Kontaktieren Sie uns unter: <a href="mailto:lateinparadies.de.cool@gmail.com">lateinparadies.de.cool@gmail.com</a>!
 									<br><br>

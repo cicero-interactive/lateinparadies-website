@@ -13,6 +13,9 @@
 		<table style="width:100%; max-width: 1100px; margin: auto">
 			<tr>
 				<td>
+					<!--ALERTS-->
+					<?php include('components/alerts.php'); ?>
+
 					<!--HEADER-->
 					<table style="width: 100%">
 						<tr>
@@ -61,9 +64,9 @@
 										<font size="4">
 											<b>
 												<li><a href="Martial/Epigrammaton-Libri-(B1).php">Epigramme (Buch I)</a></li><br><br>
-												<li><a href="Martial/Epigramme.php">Epigramme (Buch II)</a></li><br><br>
-												<li><a href="Martial/Epigramme.php">Epigramme (Buch III)</a></li><br><br>
-												<li><a href="Martial/Epigramme.php">Epigramme (Buch IV)</a></li>
+												<li><a href="Martial/Epigrammaton-Libri-(B2).php">Epigramme (Buch II)</a></li><br><br>
+												<li><a href="Martial/Epigrammaton-Libri-(B3).php">Epigramme (Buch III)</a></li><br><br>
+												<li><a href="Martial/Epigrammaton-Libri-(B4).php">Epigramme (Buch IV)</a></li>
 											</b>
 										</font>
 									</ul>

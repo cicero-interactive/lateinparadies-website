@@ -13,6 +13,9 @@
 		<table style="width:100%; max-width: 1100px; margin: auto">
 			<tr>
 				<td>
+					<!--ALERTS-->
+					<?php include('../components/alerts.php'); ?>
+
 					<!--HEADER-->
 					<table style="width: 100%">
 						<tr>

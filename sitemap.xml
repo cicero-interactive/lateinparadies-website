@@ -9,72 +9,127 @@
 
 <url>
   <loc>https://lateinparadies.de.cool/</loc>
-  <lastmod>2019-04-08T13:14:14+00:00</lastmod>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://lateinparadies.de.cool/Hall-of-Fame.php</loc>
-  <lastmod>2019-04-08T13:14:14+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
+  <priority>0.50</priority>
 </url>
 <url>
   <loc>https://lateinparadies.de.cool/Impressum.php</loc>
-  <lastmod>2019-04-08T13:14:14+00:00</lastmod>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
   <priority>0.50</priority>
 </url>
 <url>
   <loc>https://lateinparadies.de.cool/Datenschutzerklaerung.php</loc>
-  <lastmod>2019-04-08T13:14:14+00:00</lastmod>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
   <priority>0.50</priority>
 </url>
 <url>
+  <loc>https://lateinparadies.de.cool/Caesar.php</loc>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lateinparadies.de.cool/Gregor-der-Grosse.php</loc>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lateinparadies.de.cool/Martial.php</loc>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://lateinparadies.de.cool/Nepos.php</loc>
-  <lastmod>2019-04-08T13:14:14+00:00</lastmod>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://lateinparadies.de.cool/Ovid.php</loc>
-  <lastmod>2019-04-08T13:14:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://lateinparadies.de.cool/Caesar.php</loc>
-  <lastmod>2019-04-08T13:14:14+00:00</lastmod>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://lateinparadies.de.cool/Sueton.php</loc>
-  <lastmod>2019-04-08T13:14:14+00:00</lastmod>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://lateinparadies.de.cool/Nepos/Hannibal.php</loc>
-  <lastmod>2019-04-08T13:14:14+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://lateinparadies.de.cool/Jacobus-de-Voragine.php</loc>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://lateinparadies.de.cool/Ovid/Ars-Amatoria-(B1).php</loc>
-  <lastmod>2019-04-08T13:14:14+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://lateinparadies.de.cool/Ovid/Ars-Amatoria-(B2).php</loc>
-  <lastmod>2019-04-08T13:14:14+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://lateinparadies.de.cool/Carmina-Burana.php</loc>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://lateinparadies.de.cool/Caesar/De-Bello-Gallico-(B1).php</loc>
-  <lastmod>2019-04-08T13:14:14+00:00</lastmod>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://lateinparadies.de.cool/Caesar/De-Bello-Gallico-(B6).php</loc>
-  <lastmod>2019-04-08T13:14:14+00:00</lastmod>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://lateinparadies.de.cool/Gregor-der-Grosse/Dialogorum-(B2).php</loc>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://lateinparadies.de.cool/Martial/Epigrammaton-Libri-(B1).php</loc>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://lateinparadies.de.cool/Nepos/Hannibal.php</loc>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://lateinparadies.de.cool/Ovid/Ars-Amatoria-(B1).php</loc>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://lateinparadies.de.cool/Ovid/Ars-Amatoria-(B2).php</loc>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://lateinparadies.de.cool/Sueton/Divus-Julius.php</loc>
-  <lastmod>2019-04-08T13:14:14+00:00</lastmod>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://lateinparadies.de.cool/Jacobus-de-Voragine/Legenda-Aurea.php</loc>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://lateinparadies.de.cool/Carmina-Burana/Carmina-Burana-(V1-55).php</loc>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://lateinparadies.de.cool/Carmina-Burana/Carmina-Burana-(V56-186).php</loc>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://lateinparadies.de.cool/Carmina-Burana/Carmina-Burana-(V187-226).php</loc>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://lateinparadies.de.cool/Carmina-Burana/Carmina-Burana-(V227-228).php</loc>
+  <lastmod>2019-05-30T18:38:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
