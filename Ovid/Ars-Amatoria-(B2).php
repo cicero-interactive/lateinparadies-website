@@ -283,8 +283,8 @@
 						<tr>
 							<td class="footer">
 								<table>
+									<span class="ShowOnSmallScreen"><br></span>
                                     <tr>
-										<span class="ShowOnSmallScreen"><br></span>
                                         <td>
 											<font size="3" color="#CCCCCC">
 												<div style="padding: 0px 20px 0px 20px">Besuche insgesamt:<br>
