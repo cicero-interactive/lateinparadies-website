@@ -1,13 +1,13 @@
 <html>
 	<head>
-		<title>Carmina Burana Übersetzung (Kapitel 227-228) | Lateinparadies</title>
+		<title>Martial: Epigramme Übersetzung (Buch III) | Lateinparadies</title>
 		<link rel="icon" href="../images/favicon.ico">
 		<link rel="stylesheet" href="../stylesheet.css">
 		<meta name="viewport" content="width=device-width, initial-scale=0.70">
 		<meta name="Copyright" content="Copyright (c) 2016-2019 by Cicero Interactive"/>
 		<meta charset="utf-8">
-	</head>	
-	
+	</head>	 
+
 	<body>
 		<div class="background ShowOnSmallScreen"></div>
 		<table style="width:100%; max-width: 1100px; margin: auto">
@@ -38,9 +38,9 @@
 										<font size="4">
 											<li><a href="../">Home</a></li>
 											<span class="spc"><li>>></li></span>
-											<li><a href="../Carmina-Burana.php">Carmina Burana</a></li>
+											<li><a href="../Martial.php">Martial</a></li>
 											<span class="spc"><li>>></li></span>
-											<li><a href="">Kapitel 227-228 (geistliche Dramen)</a></li>
+											<li><a href="">Epigramme (Buch III)</a></li>
 											<div class="impr ShowOnBigScreen">
 												<li>&nbsp;</li>
 												<li><a href="../Impressum.php">Impressum&nbsp;</a></li>
@@ -56,14 +56,74 @@
 						
 					<!--CONTENT-->
 						<tr>
-							<td background="../images/color_blue.png" style="text-align: center">
+							<td background="../images/color_blue.png" style="text-align: center; padding-left:15px; padding-right:15px">
 								<br><br>
 								<font size="7" color="#F2F2F2">
-									<u>Carmina Burana</u>
+									<u>Martial: Epigramme</u>
 								</font>
+								<div class="idReferrer">
+									<ul>
+										<font size="3">
+											<li><a href="#Ep008">8</a></li>
+										</font>
+									</ul>
+								</div>
 								<br><br><br>
-								<font size="4" color="#F2F2F2">In Arbeit!</font>
-								<br><br><br>
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<table style="width: 100%">
+									<tr>
+										<td style="background-image: url(../images/color_blue.png)">
+											<div class="cntrdtxt" id="Ch008" style="text-align: center">
+												<ul>
+													<li><font size="6" color="#FFCC00"><u>Epigramm 8</u></font></li>
+												</ul>
+											</div>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<table class="trlPoem">
+												<tr>
+													<td>
+														<font size="4" color="#FF9900">
+															1
+														</font>
+													</td>
+													<td></td>
+													<td>
+														<font size="4" color="#F2F2F2">
+															"Thaida Quintus amat." "Quam Thaida?" "Thaida luscam."<span class="ShowOnBigScreen"></span>
+															Unum oculum Thais non habet, ille duos.
+														</font>
+													</td>
+													<td></td>
+													<td>
+														<font size="4" color="#F2F2F2">
+															"Quintus liebt Thais." "Welche Thais?" "Die einäugie Thais."<span class="ShowOnBigScreen"></span>
+															Thais hat ein Auge nicht, jener zwei.
+														</font>
+													</td>
+												</tr>
+												<tr>
+													<td>
+														<br><br><br>
+													</td>
+													<td></td>
+													<td>
+														<br><br><br>
+													</td>
+													<td></td>
+													<td>
+														<br><br><br>
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
 							</td>
 						</tr>
 						<tr style="height: 2px"></tr>
@@ -73,7 +133,7 @@
 							<td class="credits" background="../images/color_blue.png">
 								<font size="4" color="#CCCCCC">
 									<br>
-									Quelle des lateinischen Textes: <a target="_blank" href="http://daten.digitale-sammlungen.de/0008/bsb00085130/images/index.html?id=00085130&groesser=&fip=xsyztsxdsydenfsdreayaewqsdaseayayztseaya">digitale-sammlungen.de</a></div>
+									Quelle des lateinischen Textes: <a target="_blank" href="https://www.thelatinlibrary.com/martial.html">TheLatinLibrary</a></div>
 									<br>
 									Fehler gefunden? Kontaktieren Sie uns unter: <a href="mailto:lateinparadies.de.cool@gmail.com">lateinparadies.de.cool@gmail.com</a>!
 									<br><br>
@@ -91,11 +151,11 @@
                                         <td>
 											<font size="3" color="#CCCCCC">
 												<div style="padding: 0px 20px 0px 20px">Besuche insgesamt:<br>
-												<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zvmxnka&nd=9&style=44" alt="hit counter"></a>
-											</div>
-										</font>
-									</td>
-									<td class="credits ShowOnBigScreen" style="text-align: center">
+													<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zvmxnka&nd=9&style=44" alt="hit counter"></a>
+												</div>
+											</font>
+										</td>
+										<td class="credits ShowOnBigScreen" style="text-align: center">
 											<font size="4" color="#FFFFFF">
 												Copyright © 2016 - 2019 Cicero Interactive.
 											</font>
@@ -104,11 +164,11 @@
 												Fragen oder Verbesserungsvorschläge? Kontaktieren Sie uns unter: <a href="mailto:lateinparadies.de.cool@gmail.com">lateinparadies.de.cool@gmail.com</a>!
 											</font>
 										</td>
-									<td>
-										<font size="3" color="#CCCCCC">
-											<div style="padding: 0px 20px 0px 20px">Besuche dieser Seite:<br>
-												<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zmqnpn&nd=9&style=44" alt="web counter"></a>
-											</div>
+										<td>
+											<font size="3" color="#CCCCCC">
+												<div style="padding: 0px 20px 0px 20px">Besuche dieser Seite:<br>
+													<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zumqpno&nd=9&style=44" alt="hit counter"></a>
+												</div>
 											</font>
 										</td>
 									</tr>

@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Martial: Epigramme Übersetzungen | Lateinparadies</title>
+		<title>Martial: Epigramme Übersetzung (Buch I) | Lateinparadies</title>
 		<link rel="icon" href="../images/favicon.ico">
 		<link rel="stylesheet" href="../stylesheet.css">
 		<meta name="viewport" content="width=device-width, initial-scale=0.70">
@@ -65,6 +65,8 @@
 									<ul>
 										<font size="3">
 											<li><a href="#Ep016">016</a></li>
+											<li><a href="#Ep091">091</a></li>
+											<li><a href="#Ep110">110</a></li>
 										</font>
 									</ul>
 								</div>
@@ -76,7 +78,7 @@
 								<table style="width: 100%">
 									<tr>
 										<td style="background-image: url(../images/color_blue.png)">
-											<div class="cntrdtxt" id="Ch016" style="text-align: center">
+											<div class="cntrdtxt" id="Ep016" style="text-align: center">
 												<ul>
 													<li><font size="6" color="#FFCC00"><u>Epigramm 16</u></font></li>
 												</ul>
@@ -85,7 +87,7 @@
 									</tr>
 									<tr>
 										<td>
-											<table class="trlPoem" id="Vers273-285">
+											<table class="trlPoem">
 												<tr>
 													<td>
 														<font size="4" color="#FF9900">
@@ -102,8 +104,110 @@
 													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
-															Es gibt gute, einige mittelmäßige und mehrere schlechte <font color="#CCCCCC">[Stücke]</font>,
+															Es gibt gute, einige mittelmäßige und mehrere schlechte <font color="#CCCCCC">[Stücke]</font>,<span class="ShowOnBigScreen"></span>
 															die du hier liest: Anders entsteht kein Buch, Avitus.
+														</font>
+													</td>
+												</tr>
+												<tr>
+													<td>
+														<br>
+													</td>
+													<td></td>
+													<td>
+														<br>
+													</td>
+													<td></td>
+													<td>
+														<br>
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<tr style="height: 1px"></tr>
+									<tr>
+										<td style="background-image: url(../images/color_blue.png)">
+											<div class="cntrdtxt" id="Ep091" style="text-align: center">
+												<br><br>
+												<ul>
+													<li><font size="6" color="#FFCC00"><u>Epigramm 91</u></font></li>
+												</ul>
+											</div>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<table class="trlPoem">
+												<tr>
+													<td>
+														<font size="4" color="#FF9900">
+															1
+														</font>
+													</td>
+													<td></td>
+													<td>
+														<font size="4" color="#F2F2F2">
+															Cum tua non edas, carpis mea carmina, Laeli.<span class="ShowOnBigScreen"></span>
+															Carpere uel noli nostra uel ede tua.
+														</font>
+													</td>
+													<td></td>
+													<td>
+														<font size="4" color="#F2F2F2">
+															Obwohl du deine Gedichte nicht heraussgibst, zerpflückst du meine Gedichte, Laelius.<span class="ShowOnBigScreen"></span>
+															Entweder kritisiere meine nicht, oder bringe deine heraus!
+														</font>
+													</td>
+												</tr>
+												<tr>
+													<td>
+														<br>
+													</td>
+													<td></td>
+													<td>
+														<br>
+													</td>
+													<td></td>
+													<td>
+														<br>
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<tr style="height: 1px"></tr>
+									<tr>
+										<td style="background-image: url(../images/color_blue.png)">
+											<br><br>
+											<div class="cntrdtxt" id="Ep110" style="text-align: center">
+												<ul>
+													<li><font size="6" color="#FFCC00"><u>Epigramm 110</u></font></li>
+												</ul>
+											</div>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<table class="trlPoem">
+												<tr>
+													<td>
+														<font size="4" color="#FF9900">
+															1
+														</font>
+													</td>
+													<td></td>
+													<td>
+														<font size="4" color="#F2F2F2">
+															Scribere me quereris, Velox, epigrammata longa.<span class="ShowOnBigScreen"></span>
+															Ipse nihil scribis: tu breuiora facis.
+														</font>
+													</td>
+													<td></td>
+													<td>
+														<font size="4" color="#F2F2F2">
+															Du beklagst dich, Velox, dass ich lange Epigramme schreibe.<span class="ShowOnBigScreen"></span>
+															Du selbst schreibst nichts: Du machst kürzere.
 														</font>
 													</td>
 												</tr>

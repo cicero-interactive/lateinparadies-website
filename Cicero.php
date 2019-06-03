@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Lateinparadies - kostenlose Latein Übersetzungen</title>
+		<title>Cicero Übersetzungen | Lateinparadies</title>
 		<link rel="icon" href="images/favicon.ico">
 		<link rel="stylesheet" href="stylesheet.css">
 		<meta name="viewport" content="width=device-width, initial-scale=0.70">
@@ -15,7 +15,7 @@
 				<td>
 					<!--ALERTS-->
 					<?php include('components/alerts.php'); ?>
-					
+
 					<!--HEADER-->
 					<table style="width: 100%">
 						<tr>
@@ -36,7 +36,9 @@
 									<hr style="margin: 6px 0px 8px 0px">
 									<ul>
 										<font size="4">
-											<li><a href="">Home</a></li>
+											<li><a href="./">Home</a></li>
+											<span class="spc"><li>>></li></span>
+											<li><a href="">Cicero</a></li>
 											<div class="impr ShowOnBigScreen">
 												<li>&nbsp;</li>
 												<li><a href="Impressum.php">Impressum&nbsp;</a></li>
@@ -49,84 +51,42 @@
 								</div>
 							</td>
 						</tr>
-					
+						
 					<!--CONTENT-->
 						<tr>
 							<td background="images/color_blue.png" style="text-align: center; padding-left:15px; padding-right:15px">
 								<br><br>
-								<font size="7" color="#F2F2F2">
-									<u>Hilfe bei der Lateinhausaufgabe!</u>
-								</font>
-								<br><br>
-								<font size="4" color="#F2F2F2">
-									<div style="max-width: 720px; margin: auto">
-										Nach 4 Jahren mühseliger Lateinarbeiten haben wir, eine Gruppe von Lateinschülern, beschlossen,
-										unsere Lösungen der Hausaufgaben und Übungen, die sich über die Jahre angesammelt haben,
-										mit den nachfolgenden Generationen zu teilen.<br><br>
-									</div>
-									<div style="max-width: 600px; margin: auto">
-										<b>
-											Wir bitten jedoch um Verständnis, dass auch wir nicht allwissend sind
-											und sich somit in den Lösungsvorschlägen trotzdem Fehler befinden können.
-										</b>
-									</div>
-								</font>
-								<br><br><br><br><br>
-								<font size="7" color="#F2F2F2">
-									<u>Los geht's!</u>
-								</font>
-								<br><br>
-								<font size="5" color="#F2F2F2">
-									Wähle den gewünschten Autor...
-								</font>	
-								<div class="cntrdtxt" style="max-width: 720px; margin: auto">
-									<ul>
-										<font size="4">
-											<b>
-												<li style="margin-bottom: 10px"><a href="Caesar.php">Cäsar</a></li>
-												<li style="margin-bottom: 10px"><a href="Cicero.php">Cicero</a></li>
-												<li style="margin-bottom: 10px"><a href="Gregor-der-Grosse.php">Gregor der Große</a></li>
-												<li style="margin-bottom: 10px"><a href="Martial.php">Martial</a></li>
-												<li style="margin-bottom: 10px"><a href="Nepos.php">Nepos</a></li>
-												<li style="margin-bottom: 10px"><a href="Ovid.php">Ovid</a></li>
-												<li style="margin-bottom: 10px"><a href="Sueton.php">Sueton</a></li>
-												<li style="margin-bottom: 10px"><a href="Jacobus-de-Voragine.php">Jacobus de Voragine</a></li>
-											</b>
-										</font>
-									</ul>
-								</div>
-								<br><br>
-								<font size="5" color="#F2F2F2">
-									...oder Text:
+								<font size="6" color="#F2F2F2">
+									Wähle den gewünschten Cicero-Text:
 								</font>	
 								<div class="cntrdtxt">
 									<ul>
 										<font size="4">
 											<b>
-												<li><a href="Carmina-Burana.php">Carmina Burana</a></li>
+												<li><a href="Cicero/In-Verrem-II-(B1).php">In Verrem II (Buch I)</a></li>
 											</b>
 										</font>
 									</ul>
 								</div>
-								<br><br><br><br>
+								<br><br><br><br>	
 							</td>
 						</tr>
 						<tr style="height: 2px"></tr>
 						
-					<!--FOOTER-->
+	       			<!--FOOTER-->
 						<tr>
 							<td class="footer">
 								<table>
-									<tr>
-										<span class="ShowOnSmallScreen"><br></span>
-										<td>
+									<span class="ShowOnSmallScreen"><br></span>
+                                    <tr>
+                                        <td>
 											<font size="3" color="#CCCCCC">
 												<div style="padding: 0px 20px 0px 20px">Besuche insgesamt:<br>
-													<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zvmxnka&nd=9&style=44" alt="hit counter"></a>
-												</div>
-											</font>
-										</td>
-										<td class="credits ShowOnBigScreen" style="text-align: center">
+                                                    <a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zvmxnka&nd=9&style=44" alt="hit counter"></a>
+                                                </div>
+                                            </font>
+                                        </td>
+                                        <td class="credits ShowOnBigScreen" style="text-align: center">
 											<font size="4" color="#FFFFFF">
 												Copyright © 2016 - 2019 Cicero Interactive.
 											</font>
@@ -135,11 +95,11 @@
 												Fragen oder Verbesserungsvorschläge? Kontaktieren Sie uns unter: <a href="mailto:lateinparadies.de.cool@gmail.com">lateinparadies.de.cool@gmail.com</a>!
 											</font>
 										</td>
-										<td>
-											<font size="3" color="#CCCCCC">
-												<div style="padding: 0px 20px 0px 20px">Besuche dieser Seite:<br>
-													<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zuuumxnkf&nd=9&style=44" alt="hit counter"></a>
-												</div>
+                                        <td>
+                                            <font size="3" color="#CCCCCC">
+                                                <div style="padding: 0px 20px 0px 20px">Besuche dieser Seite:<br>
+													<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zuevqppn&nd=9&style=44" alt="hit counter"></a>
+                                                </div>
 											</font>
 										</td>
 									</tr>

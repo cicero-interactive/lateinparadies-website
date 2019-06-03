@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Carmina Burana Kapitel 187-226 Übersetzung | Lateinparadies</title>
+		<title>Carmina Burana Übersetzung (Kapitel 187-226) | Lateinparadies</title>
 		<link rel="icon" href="../images/favicon.ico">
 		<link rel="stylesheet" href="../stylesheet.css">
 		<meta name="viewport" content="width=device-width, initial-scale=0.70">
@@ -1145,15 +1145,15 @@
 												
 												<tr>
 													<td>
-														<br><br><br>
+														<br>
 													</td>
 													<td></td>
 													<td>
-														<br><br><br>
+														<br>
 													</td>
 													<td></td>
 													<td>
-														<br><br><br>
+														<br>
 													</td>
 													</tr>
 											</table>
@@ -1162,8 +1162,8 @@
 									<tr style="height: 1px"></tr>
 									<tr>
 										<td style="background-image: url(../images/color_blue.png)">
+											<br><br>
 											<div class="cntrdtxt" id="Ch222" style="text-align: center">
-												<br>
 												<ul>
 													<li><font size="6" color="#FFCC00"><u>Kapitel 222</u></font></li>
 												</ul>

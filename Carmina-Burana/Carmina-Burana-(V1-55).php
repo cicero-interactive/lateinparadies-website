@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Carmina Burana Kapitel 1-55 Übersetzung | Lateinparadies</title>
+		<title>Carmina Burana Übersetzung (Kapitel 1-55) | Lateinparadies</title>
 		<link rel="icon" href="../images/favicon.ico">
 		<link rel="stylesheet" href="../stylesheet.css">
 		<meta name="viewport" content="width=device-width, initial-scale=0.70">
@@ -104,7 +104,7 @@
 														<td>
 															<p>
 																<font size="4" color="#F2F2F2">
-																	"Antworte, der du so viel wünschtst!", möchte Copia <font color="#CCCCCC">(Göttin des Überflusses)</font> sagen.
+																	"Antworte, der du so viel wünschst!", möchte Copia <font color="#CCCCCC">(Göttin des Überflusses)</font> sagen.
 																	"Setze ein Maß! Ich schenke dir, was du willst."
 																	- "Ich will, dass die Geldtruhe voll ist."
 																	- "Sie soll voll sein!"

@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Carmina Burana Kapitel 56-186 Übersetzung | Lateinparadies</title>
+		<title>Carmina Burana Übersetzung (Kapitel 56-186) | Lateinparadies</title>
 		<link rel="icon" href="../images/favicon.ico">
 		<link rel="stylesheet" href="../stylesheet.css">
 		<meta name="viewport" content="width=device-width, initial-scale=0.70">
