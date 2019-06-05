@@ -530,7 +530,7 @@
 														Deswegen stellte er die Befestigung, die er hatte anlegen lassen, unter den Befehl des Legaten<font color="#FF9900" size="3"><sup>1</sup></font> Titus Labienus.
 														Er selbst eilte so schnell wie möglich nach Italien, hob zwei Legionen aus, führte die drei Legionen, die bei Aquileja überwintern,
 														aus dem Winterlager heraus und beeilte sich, wo der nächste Weg ins jenseitige Gallien über die Alpen führte, mit diesen fünf Legionen zurückzukehren.
-														Dort versucthen die Ceutronen, Grajoceler und Caturigen nach Besetzung der beherrschenden Anhöhen das Heer am Weitermarsch zu hindern.
+														Dort versuchten die Ceutronen, Grajoceler und Caturigen nach Besetzung der beherrschenden Anhöhen das Heer am Weitermarsch zu hindern.
 														Nachdem diese in mehreren Gemetzeln geschlagen worden sind, gelangte Cäsar von Ocelum, welches die außerste Stadt der diesseitigen Provinz ist,
 														in das Gebiet der Vocontier in der jenseitigen Provinz in sieben Tagen. Von dort führte er sein Heer ins Gebiet der Allobroger,
 														dann vom Gebiet der Allobroger ins Gebiet der Segusiaver. Diese sind die ersten außerhalb der Provinz jenseits der Rhone.

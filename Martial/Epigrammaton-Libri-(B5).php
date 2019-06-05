@@ -64,7 +64,7 @@
 								<div class="idReferrer">
 									<ul>
 										<font size="3">
-											<li><a href="#Ep08">45</a></li>
+											<li><a href="#Ep45">45</a></li>
 										</font>
 									</ul>
 								</div>
@@ -76,9 +76,9 @@
 								<table style="width: 100%">
 									<tr>
 										<td style="background-image: url(../images/color_blue.png)">
-											<div class="cntrdtxt" id="Ch88" style="text-align: center">
+											<div class="cntrdtxt" id="Ch45" style="text-align: center">
 												<ul>
-													<li><font size="6" color="#FFCC00"><u>Epigramm 8</u></font></li>
+													<li><font size="6" color="#FFCC00"><u>Epigramm 45</u></font></li>
 												</ul>
 											</div>
 										</td>

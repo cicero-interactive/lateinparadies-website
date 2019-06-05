@@ -40,7 +40,7 @@
 											<span class="spc"><li>>></li></span>
 											<li><a href="../Martial.php">Martial</a></li>
 											<span class="spc"><li>>></li></span>
-											<li><a href="">Epigramme (Buch V)</a></li>
+											<li><a href="">Epigramme (Buch VI)</a></li>
 											<div class="impr ShowOnBigScreen">
 												<li>&nbsp;</li>
 												<li><a href="../Impressum.php">Impressum&nbsp;</a></li>
@@ -64,7 +64,7 @@
 								<div class="idReferrer">
 									<ul>
 										<font size="3">
-											<li><a href="#Ep08">45</a></li>
+											<li><a href="#Ep60">60</a></li>
 										</font>
 									</ul>
 								</div>
@@ -76,9 +76,9 @@
 								<table style="width: 100%">
 									<tr>
 										<td style="background-image: url(../images/color_blue.png)">
-											<div class="cntrdtxt" id="Ch88" style="text-align: center">
+											<div class="cntrdtxt" id="Ch60" style="text-align: center">
 												<ul>
-													<li><font size="6" color="#FFCC00"><u>Epigramm 8</u></font></li>
+													<li><font size="6" color="#FFCC00"><u>Epigramm 60</u></font></li>
 												</ul>
 											</div>
 										</td>
@@ -95,15 +95,36 @@
 													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
-															Dicis formonsam, dicis te, Bassa, puellam:<span class="ShowOnBigScreen"></span>
-															Istud quae non est dicere, Bassa, solet.
+															Laudat, amat, cantat nostros mea Roma libellos,<span class="ShowOnBigScreen"></span>
+															meque sinus omnes, me manus omnis habet.
 														</font>
 													</td>
 													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
-															Du sagst, du wärst ein schönes Mädchen, Bassa:<span class="ShowOnBigScreen"></span>
-															Sie pflegt das zu sagen, was sie nicht ist.
+															Mein Rom lobt, liebt, singt meine Bücher,<span class="ShowOnBigScreen"></span>
+															mich haben alle Taschen, mich hat jede Hand.
+														</font>
+													</td>
+												</tr>
+												<tr>
+													<td>
+														<font size="4" color="#FF9900">
+															1
+														</font>
+													</td>
+													<td></td>
+													<td>
+														<font size="4" color="#F2F2F2">
+															Ecce rubet quidam, pallet, stupet, oscitat, odit.<span class="ShowOnBigScreen"></span>
+															Hoc uolo: nunc nobis carmina nostra placent.
+														</font>
+													</td>
+													<td></td>
+													<td>
+														<font size="4" color="#F2F2F2">
+															Schau da, ein Gewisser errötet, erblasst, stutzt oder hasst.<span class="ShowOnBigScreen"></span>
+															Dies will ich: Meine Gedichte gefallen mir nun.
 														</font>
 													</td>
 												</tr>

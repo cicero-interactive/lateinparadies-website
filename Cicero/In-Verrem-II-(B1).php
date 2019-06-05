@@ -92,7 +92,7 @@
 														Er kam nach Delos. Dort hat er aus einem sehr ehrwürdigen Tempel Apolls
 														heimlich in der Nacht sehr schöne und uralte Standbilder beseitigt und ließ diese auf sein Lastschiff bringen.
 														Als am Tag darauf die Bewohner von Delos den ausgeplünderten Tempel sahen, ertrugen sie es schwer.
-														Denn die religöse Verehrung und das hohe Alter diese Tempels ist bei ihnen so groß, dass sie glauben,
+														Denn die religöse Verehrung und das hohe Alter dieses Tempels ist bei ihnen so groß, dass sie glauben,
 														dass Apoll selbst an diesem Ort geboren sei. Dennoch wagten sie kein Wort zu äußern, aus Besorgnis,
 														die Sache möchte vielleicht Dolabella selbst berühren. Dann erhoben sich sofort sehr große Unwetter, Richter,
 														dass nicht nur nicht Dolabella,	obwohl er wollte, aufbrechen konnte, sondern kaum in der Stadt bleiben konnte:
