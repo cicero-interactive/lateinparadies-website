@@ -143,14 +143,14 @@
 													<td>
 														<font size="4" color="#F2F2F2">
 															O Fortuna,<br>
-															velut Iuna<br>
+															velut Iuna
 														</font>
 													</td>
 													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Oh Fortuna,<br>
-															wie der Mond<br>
+															wie der Mond
 														</font>
 													</td>
 												</tr>
@@ -161,18 +161,18 @@
 															3
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															statu variabilis,<br>
-															semper crescis<br>
+															semper crescis
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															veränderlich im Zustand,<br>
-															immer wächst du<br>
+															immer wächst du
 														</font>
 													</td>
 												</tr>
@@ -183,18 +183,18 @@
 															5
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															aut decrescis;<br>
-															vita detestabilis<br>
+															vita detestabilis
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															oder schrumpfst du,<br>
-															das abscheuliche Leben<br>
+															das abscheuliche Leben
 														</font>
 													</td>
 												</tr>
@@ -205,18 +205,18 @@
 															7
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															nunc obdurat<br>
-															et tunc curat<br>
+															et tunc curat
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															ist jetzt hart<br>
-															und sorgt sich dann<br>
+															und sorgt sich dann
 														</font>
 													</td>
 												</tr>
@@ -227,18 +227,18 @@
 															9
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Iudo mentis aciem,<br>
-															egestatem,<br>
+															egestatem,
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															spielerisch um die Schärfe des Geistes,<br>
-															die Armut,<br>
+															die Armut,
 														</font>
 													</td>
 												</tr>
@@ -249,14 +249,14 @@
 															11
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															potestatem<br>
 															dissolvit ut glaciem.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															die Macht<br>
@@ -271,18 +271,18 @@
 															13
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Sors inmanis<br>
-															et inanis,<br>
+															et inanis,
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Grausames und<br>
-															eitles Schicksal,<br>
+															eitles Schicksal,
 														</font>
 													</td>
 												</tr>
@@ -293,18 +293,18 @@
 															15
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															rota tu volubilis,<br>
-															status malus,<br>
+															status malus,
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															du rollendes Rad,<br>
-															schlechter Zustand,<br>
+															schlechter Zustand,
 														</font>
 													</td>
 												</tr>
@@ -315,18 +315,18 @@
 															17
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															vana salus<br>
-															semper dissolubilis,<br>
+															semper dissolubilis,
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															vergängliches Heil,<br>
-															immer auflösbar,<br>
+															immer auflösbar,
 														</font>
 													</td>
 												</tr>
@@ -337,18 +337,18 @@
 															19
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															obumbrata<br>
-															et velata<br>
+															et velata
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															in Dunkel gehüllt<br>
-															ergreifst du auch mich,<br>
+															ergreifst du auch mich,
 														</font>
 													</td>
 												</tr>
@@ -359,18 +359,18 @@
 															21
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															michi quoque niteris;<br>
-															nunc per ludum<br>
+															nunc per ludum
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															ich ertrage nun<br>
-															durch dein<br>
+															durch dein
 														</font>
 													</td>
 												</tr>
@@ -381,14 +381,14 @@
 															23
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															dorsum nudum<br>
 															fero tui sceleris.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															verbrecherisches Spiel<br>
@@ -403,18 +403,18 @@
 															25
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Sors salutis<br>
-															et virtutis<br>
+															et virtutis
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Schicksal des Heils<br>
-															und der Tugend,<br>
+															und der Tugend,
 														</font>
 													</td>
 												</tr>
@@ -425,18 +425,18 @@
 															27
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															michi nunc contraria,<br>
-															est affectus<br>
+															est affectus
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															mir jetzt feindlich,<br>
-															ist ein Aufbäumen<br>
+															ist ein Aufbäumen
 														</font>
 													</td>
 												</tr>
@@ -447,18 +447,18 @@
 															29
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															et defectus<br>
-															semper in angaria.<br>
+															semper in angaria.
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															und eine Erschöpfung<br>
-															immer im Frondienst.<br>
+															immer im Frondienst.
 														</font>
 													</td>
 												</tr>
@@ -469,18 +469,18 @@
 															31
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Hac in hora<br>
-															sine mora<br>
+															sine mora
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															In dieser Stunde,<br>
-															ohne Verzug,<br>
+															ohne Verzug,
 														</font>
 													</td>
 												</tr>
@@ -491,18 +491,18 @@
 															33
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															corde pulsum tangite;<br>
-															quod per sortem<br>
+															quod per sortem
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															zupf die Saite;<br>
-															weil durch das Schicksal<br>
+															weil durch das Schicksal
 														</font>
 													</td>
 												</tr>
@@ -513,35 +513,21 @@
 															35
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															sternit fortem,<br>
-															mecum omnes plangite!<br>
+															mecum omnes plangite!<br><br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															der Starke fällt,<br>
-															klagt alle laut mit mir!<br>
+															klagt alle laut mit mir!<br><br><br>
 														</font>
 													</td>
 												</tr>
-												
-												<tr>
-													<td>
-														<br><br><br>
-													</td>
-													<td></td>
-													<td>
-														<br><br><br>
-													</td>
-													<td></td>
-													<td>
-														<br><br><br>
-													</td>
-													</tr>
 											</table>
 										</td>
 									</tr>

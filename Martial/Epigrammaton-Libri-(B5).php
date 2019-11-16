@@ -96,28 +96,15 @@
 													<td>
 														<font size="4" color="#F2F2F2">
 															Dicis formonsam, dicis te, Bassa, puellam:<span class="ShowOnBigScreen"></span>
-															Istud quae non est dicere, Bassa, solet.
+															Istud quae non est dicere, Bassa, solet.<br><br><br>
 														</font>
 													</td>
 													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Du sagst, du wärst ein schönes Mädchen, Bassa:<span class="ShowOnBigScreen"></span>
-															Sie pflegt das zu sagen, was sie nicht ist.
+															Sie pflegt das zu sagen, was sie nicht ist.<br><br><br>
 														</font>
-													</td>
-												</tr>
-												<tr>
-													<td>
-														<br><br><br>
-													</td>
-													<td></td>
-													<td>
-														<br><br><br>
-													</td>
-													<td></td>
-													<td>
-														<br><br><br>
 													</td>
 												</tr>
 											</table>

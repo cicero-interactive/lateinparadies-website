@@ -117,28 +117,15 @@
 													<td>
 														<font size="4" color="#F2F2F2">
 															Ecce rubet quidam, pallet, stupet, oscitat, odit.<span class="ShowOnBigScreen"></span>
-															Hoc uolo: nunc nobis carmina nostra placent.
+															Hoc uolo: nunc nobis carmina nostra placent.<br><br><br>
 														</font>
 													</td>
 													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Schau da, ein Gewisser errötet, erblasst, stutzt oder hasst.<span class="ShowOnBigScreen"></span>
-															Dies will ich: Meine Gedichte gefallen mir nun.
+															Dies will ich: Meine Gedichte gefallen mir nun.<br><br><br>
 														</font>
-													</td>
-												</tr>
-												<tr>
-													<td>
-														<br><br><br>
-													</td>
-													<td></td>
-													<td>
-														<br><br><br>
-													</td>
-													<td></td>
-													<td>
-														<br><br><br>
 													</td>
 												</tr>
 											</table>

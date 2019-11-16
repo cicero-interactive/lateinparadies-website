@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=0.70">
 		<meta name="Copyright" content="Copyright (c) 2016-2019 by Cicero Interactive"/>
 		<meta charset="utf-8">
-	</head>	
+	</head>
 	
 	<body>
 		<div class="background ShowOnSmallScreen"></div>
@@ -100,14 +100,14 @@
 													<td>
 														<font size="4" color="#F2F2F2">
 															Quid tibi praecipiam teneros quoque mittere versus?<span class="ShowOnBigScreen"></span>
-															Ei mihi, non multum carmen honoris habet.<br>
+															Ei mihi, non multum carmen honoris habet.
 														</font>
 													</td>
 													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Warum soll ich dir vorschreiben, Liebesbriefe zu schicken?<span class="ShowOnBigScreen"></span>
-															Wehe mir, ein Gedicht hat nicht viel Ehre.<br>
+															Wehe mir, ein Gedicht hat nicht viel Ehre.
 														</font>
 													</td>
 												</tr>
@@ -118,18 +118,18 @@
 															275
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Carmina laudantur, sed munera magna petuntur:<span class="ShowOnBigScreen"></span>
-															Dummodo sit dives, barbarus ipse placet.<br>
+															Dummodo sit dives, barbarus ipse placet.
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Gedichte werden gelobt, aber große Geschenke sind erwünscht.<span class="ShowOnBigScreen"></span>
-															Wenn er nur reich ist, dann würde selbst ein Barbar gefallen.<br>
+															Wenn er nur reich ist, dann würde selbst ein Barbar gefallen.
 														</font>
 													</td>
 												</tr>
@@ -140,18 +140,18 @@
 															277
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Aurea sunt vere nunc saecula: plurimus auro<span class="ShowOnBigScreen"></span>
-															Venit honos: auro conciliatur amor.<br>
+															Venit honos: auro conciliatur amor.
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Golden sind wahrhaftig jetzt die Zeiten: Die meiste(n) Ehre(nämter)<span class="ShowOnBigScreen"></span>
-															verschafft man sich durch Gold, mit Gold wird Liebe verschafft.<br>
+															verschafft man sich durch Gold, mit Gold wird Liebe verschafft.
 														</font>
 													</td>
 												</tr>
@@ -162,18 +162,18 @@
 															279
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Ipse licet venias Musis comitatus, Homere,<span class="ShowOnBigScreen"></span>
-															Si nihil attuleris, ibis, Homere, foras.<br>
+															Si nihil attuleris, ibis, Homere, foras.
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Magst du auch persönlich kommen, Homer, begleitet von den Musen;<span class="ShowOnBigScreen"></span>
-															wenn du nichts mitbringst, dann wirst du, Homer, vor die Tür gesetzt werden.<br>
+															wenn du nichts mitbringst, dann wirst du, Homer, vor die Tür gesetzt werden.
 														</font>
 													</td>
 												</tr>
@@ -184,18 +184,18 @@
 															281
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Sunt tamen et doctae, rarissima turba, puellae;<span class="ShowOnBigScreen"></span>
-															Altera non doctae turba, sed esse volunt.<br>
+															Altera non doctae turba, sed esse volunt.
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Dennoch gibt es auch gebildete Mädchen, allerdings nur selten;<span class="ShowOnBigScreen"></span>
-															die anderen sind nicht gebildet, aber wollen es sein.<br>
+															die anderen sind nicht gebildet, aber wollen es sein.
 														</font>
 													</td>
 												</tr>
@@ -206,18 +206,18 @@
 															283
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Utraque laudetur per carmina: carmina lector<span class="ShowOnBigScreen"></span>
-															Commendet dulci qualiacumque sono;<br>
+															Commendet dulci qualiacumque sono;
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Beide Arten möchten gelobt werden: Der Vorleser <font color="#CCCCCC">[dieses Gedichts]</font> empfiehlt,<span class="ShowOnBigScreen"></span>
-															Gedichte jeglicher Art durch gute Betonung / mit süßer Stimme vorzulesen;<br>
+															Gedichte jeglicher Art durch gute Betonung / mit süßer Stimme vorzulesen;
 														</font>
 													</td>
 												</tr>
@@ -228,35 +228,21 @@
 															285
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															His ergo aut illis vigilatum carmen in ipsas<span class="ShowOnBigScreen"></span>
-															Forsitan exigui muneris instar erit.<br>
+															Forsitan exigui muneris instar erit.<br><br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															ein Gedicht, das in der Nacht entstanden ist, wird vielleicht wie ein kleines Geschenk sein,<span class="ShowOnBigScreen"></span>
-															wenn es auf sie selbst verfasst ist / sie selbst darin vorkommt.<br>
+															wenn es auf sie selbst verfasst ist / sie selbst darin vorkommt.<br><br><br>
 														</font>
 													</td>
 												</tr>
-												
-												<tr>
-													<td>
-														<br><br><br>
-													</td>
-													<td></td>
-													<td>
-														<br><br><br>
-													</td>
-													<td></td>
-													<td>
-														<br><br><br>
-													</td>
-													</tr>
 											</table>
 										</td>
 									</tr>

@@ -96,28 +96,15 @@
 													<td>
 														<font size="4" color="#F2F2F2">
 															"Thaida Quintus amat." "Quam Thaida?" "Thaida luscam."<span class="ShowOnBigScreen"></span>
-															Unum oculum Thais non habet, ille duos.
+															Unum oculum Thais non habet, ille duos.<br><br><br>
 														</font>
 													</td>
 													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															"Quintus liebt Thais." "Welche Thais?" "Die einäugie Thais."<span class="ShowOnBigScreen"></span>
-															Thais hat ein Auge nicht, jener zwei.
+															Thais hat ein Auge nicht, jener zwei.<br><br><br>
 														</font>
-													</td>
-												</tr>
-												<tr>
-													<td>
-														<br><br><br>
-													</td>
-													<td></td>
-													<td>
-														<br><br><br>
-													</td>
-													<td></td>
-													<td>
-														<br><br><br>
 													</td>
 												</tr>
 											</table>

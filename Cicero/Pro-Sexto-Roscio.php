@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Martial: Epigramme Übersetzung (Buch II) | Lateinparadies</title>
+		<title>Cicero: In Verrem Übersetzung (Buch I) | Lateinparadies</title>
 		<link rel="icon" href="../images/favicon.ico">
 		<link rel="stylesheet" href="../stylesheet.css">
 		<meta name="viewport" content="width=device-width, initial-scale=0.70">
@@ -38,9 +38,9 @@
 										<font size="4">
 											<li><a href="../">Home</a></li>
 											<span class="spc"><li>>></li></span>
-											<li><a href="../Martial.php">Martial</a></li>
+											<li><a href="../Nepos.php">Cicero</a></li>
 											<span class="spc"><li>>></li></span>
-											<li><a href="">Epigramme (Buch II)</a></li>
+											<li><a href="">In Verrem II (Buch I)</a></li>
 											<div class="impr ShowOnBigScreen">
 												<li>&nbsp;</li>
 												<li><a href="../Impressum.php">Impressum&nbsp;</a></li>
@@ -48,8 +48,9 @@
 												<li><a href="../Datenschutzerklaerung.php">Datenschutzerklärung&nbsp;</a></li>
 											</div>
 										</font>
+										<br>
+										<hr>
 									</ul>
-									<hr style="margin: 6px 0px 8px 0px">
 								</div>
 							</td>
 						</tr>
@@ -57,60 +58,46 @@
 					<!--CONTENT-->
 						<tr>
 							<td background="../images/color_blue.png" style="text-align: center; padding-left:15px; padding-right:15px">
-								<br><br>
-								<font size="7" color="#F2F2F2">
-									<u>Martial: Epigramme</u>
-								</font>
-								<div class="idReferrer">
-									<ul>
-										<font size="3">
-											<li><a href="#Ep88">88</a></li>
-										</font>
-									</ul>
+								<div style="max-width: 1000px; margin: auto">
+									<br><br>
+									<font size="7" color="#F2F2F2">
+										<u>Cicero: Pro Sexto Roscio</u>
+									</font>
+									<br><br><br>
+									
+									<div class="cntrdtxt" id="Ch46">
+										<ul>
+											<li><font size="6" color="#FFCC00"><u>Kapitel 46</u></font></li>
+										</ul>
+									</div>
+									<table class="trlChapter">
+										<tr>
+											<td>
+												<p>
+													<font size="4" color="#F2F2F2">
+														Delum venit. Ibi ex fano Apollinis religiosissimo noctu clam sustulit signa pulcherrima atque antiquissima,
+													 	eaque in onerariam navem. suam conicienda curavit. Postridie cum fanum spoliatum viderent ii qui Delum incolebant,
+													  	graviter ferebant; est enim tanta apud eos eius fani religio atque antiquitas ut in eo loco ipsum Apollinem natum esse arbitrentur.
+														Verbum tamen facere non audebant, ne forte ea res ad Dolabellam ipsum pertineret. Tum subito tempestates coortae sunt maximae,
+													    iudices, ut non modo proficisci cum cuperet Dolabella non posset sed vix in oppido consisteret: ita magni fluctus eiciebantur.
+														Hic navis illa praedonis istius, onusta signis religiosis, expulsa atque eiecta fluctu frangitur;
+														in litore signa illa Apollinis reperiuntur; iussu Dolabellae reponuntur. Tempestas sedatur, Dolabella Delo proficiscitur. 
+													</font>
+												</p>
+											</td>
+											<td></td>
+											<td>
+												<p>
+													<font size="4" color="#F2F2F2">
+														Alle diese, die ihr in diesem Prozess anwesend seht, glauben, dass das durch ein neues Verbrechen ausgeheckte Unrecht verteidigt gehört,
+														sie selbst aber wagen es nicht, diese aufgrund der ungünstigen Zeitumstände zu verteidigen.
+													</font>
+												</p>
+											</td>
+										</tr>
+									</table>
+									<br><br><br>
 								</div>
-								<br><br><br>
-							</td>
-						</tr>
-						<tr>
-							<td>
-								<table style="width: 100%">
-									<tr>
-										<td style="background-image: url(../images/color_blue.png)">
-											<div class="cntrdtxt" id="Ch88" style="text-align: center">
-												<ul>
-													<li><font size="6" color="#FFCC00"><u>Epigramm 88</u></font></li>
-												</ul>
-											</div>
-										</td>
-									</tr>
-									<tr>
-										<td>
-											<table class="trlPoem">
-												<tr>
-													<td>
-														<font size="4" color="#FF9900">
-															1
-														</font>
-													</td>
-													<td></td>
-													<td>
-														<font size="4" color="#F2F2F2">
-															Nil recitas et uis, Mamerce, poeta uideri:<span class="ShowOnBigScreen"></span>
-															quidquid uis esto, dummodo nil recites.<br><br><br>
-														</font>
-													</td>
-													<td></td>
-													<td>
-														<font size="4" color="#F2F2F2">
-															Du trägst nichts vor und willst als Dichter erscheinen, Mamercus.<span class="ShowOnBigScreen"></span>
-															Alles was du willst, kannst du sein, wenn du nur nichts vorträgst.<br><br><br>
-														</font>
-													</td>
-												</tr>
-											</table>
-										</td>
-									</tr>
-								</table>
 							</td>
 						</tr>
 						<tr style="height: 2px"></tr>
@@ -120,7 +107,7 @@
 							<td class="credits" background="../images/color_blue.png">
 								<font size="4" color="#CCCCCC">
 									<br>
-									Quelle des lateinischen Textes: <a target="_blank" href="https://www.thelatinlibrary.com/martial.html">TheLatinLibrary</a></div>
+									Quelle des lateinischen Textes: <a target="_blank" href="http://www.thelatinlibrary.com/cicero/ver.shtml">TheLatinLibrary</a></div>
 									<br>
 									Fehler gefunden? Kontaktieren Sie uns unter: <a href="mailto:lateinparadies.de.cool@gmail.com">lateinparadies.de.cool@gmail.com</a>!
 									<br><br>
@@ -154,7 +141,7 @@
 										<td>
 											<font size="3" color="#CCCCCC">
 												<div style="padding: 0px 20px 0px 20px">Besuche dieser Seite:<br>
-													<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zevqpnn&nd=9&style=44" alt="visitor counter"></a>
+													<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zmqppo&nd=9&style=44" alt="hit counter"></a>
 												</div>
 											</font>
 										</td>
