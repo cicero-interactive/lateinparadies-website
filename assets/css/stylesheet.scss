@@ -1,0 +1,20 @@
+---
+---
+$baseurl: "{{ site.baseurl }}";
+
+
+$color_font: #F2F2F2;
+$color_orange: #FFCC00;
+$color_orange-dark: #FF9900;
+$color_grey: #CCCCCC;
+$color_blue_light: #0099FF;
+$color_blue-dark: #0000CC;
+
+$color_link-orange: $color_orange;
+$color_link-orange_hover: $color_blue-dark;
+$color_link-blue: $color_blue_light;
+$color_link-blue_hover: $color_orange;
+$color_link-grey: $color_grey;
+$color_link-grey_hover: $color_blue-dark;
+
+@import "main";

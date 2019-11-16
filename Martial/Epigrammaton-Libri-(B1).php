@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<title>Martial: Epigramme Übersetzung (Buch I) | Lateinparadies</title>
-		<link rel="icon" href="../images/favicon.ico">
+		<link rel="icon" href="../{{ site.baseurl }}/assets/img/favicon.ico">
 		<link rel="stylesheet" href="../stylesheet.css">
 		<meta name="viewport" content="width=device-width, initial-scale=0.70">
 		<meta name="Copyright" content="Copyright (c) 2016-2019 by Cicero Interactive"/>
@@ -20,18 +20,18 @@
 					<table style="width: 100%">
 						<tr>
 							<td class="header">
-								<div class="ShowOnBigScreen" style="background-image: url(../images/header_text.png); width: 100%; height: 100%">
-									<div style="background-image: url(../images/header_cicero.png); background-size: contain; width: 100px; height: 100%; padding-left: 40px; float: left"></div>
-									<div style="background-image: url(../images/header_nepos.png); background-size: contain; width: 100px; height: 100%; padding-right: 20px; float: right"></div>
+								<div class="ShowOnBigScreen" style="background-image: url(../{{ site.baseurl }}/assets/img/header_text.png); width: 100%; height: 100%">
+									<div style="background-image: url(../{{ site.baseurl }}/assets/img/header_cicero.png); background-size: contain; width: 100px; height: 100%; padding-left: 40px; float: left"></div>
+									<div style="background-image: url(../{{ site.baseurl }}/assets/img/header_nepos.png); background-size: contain; width: 100px; height: 100%; padding-right: 20px; float: right"></div>
 								</div>								
-								<img class="ShowOnSmallScreen" src="../images/header_mobile.png" style="margin: auto">
+								<img class="ShowOnSmallScreen" src="../{{ site.baseurl }}/assets/img/header_mobile.png" style="margin: auto">
 							</td>
 						</tr>
 					
 					<!--NAVIGATION-->
 						<tr style="height: 2px"></tr>
 						<tr>
-							<td background="../images/color_blue.png">
+							<td background="../{{ site.baseurl }}/assets/img/color_blue.png">
 								<div class="nav">
 									<hr style="margin: 6px 0px 8px 0px">
 									<ul>
@@ -56,7 +56,7 @@
 						
 					<!--CONTENT-->
 						<tr>
-							<td background="../images/color_blue.png" style="text-align: center; padding-left:15px; padding-right:15px">
+							<td background="../{{ site.baseurl }}/assets/img/color_blue.png" style="text-align: center; padding-left:15px; padding-right:15px">
 								<br><br>
 								<font size="7" color="#F2F2F2">
 									<u>Martial: Epigramme</u>
@@ -82,7 +82,7 @@
 							<td>
 								<table style="width: 100%">
 									<tr>
-										<td style="background-image: url(../images/color_blue.png)">
+										<td style="background-image: url(../{{ site.baseurl }}/assets/img/color_blue.png)">
 											<div class="cntrdtxt" id="Proömium" style="text-align: center">
 												<ul>
 													<li><font size="6" color="#FFCC00"><u>Proömium</u></font></li>
@@ -91,7 +91,7 @@
 										</td>
 									</tr>
 									<tr>
-										<td style="background-image: url(../images/color_blue.png); text-align: center; padding-left:15px; padding-right:15px">
+										<td style="background-image: url(../{{ site.baseurl }}/assets/img/color_blue.png); text-align: center; padding-left:15px; padding-right:15px">
 											<div style="max-width: 1000px; margin: auto">
 												<table class="trlChapter">
 													<tr>
@@ -147,7 +147,7 @@
 										</td>
 									</tr>
 									<tr>
-										<td style="background-image: url(../images/color_blue.png)">
+										<td style="background-image: url(../{{ site.baseurl }}/assets/img/color_blue.png)">
 											<div class="cntrdtxt" id="Ep001" style="text-align: center">
 												<ul>
 													<li><font size="6" color="#FFCC00"><u>Epigramm 1</u></font></li>
@@ -226,7 +226,7 @@
 									</tr>
 									<tr style="height: 1px"></tr>
 									<tr>
-										<td style="background-image: url(../images/color_blue.png)">
+										<td style="background-image: url(../{{ site.baseurl }}/assets/img/color_blue.png)">
 											<div class="cntrdtxt" id="Ep002" style="text-align: center">
 												<br><br>
 												<ul>
@@ -327,7 +327,7 @@
 									</tr>
 									<tr style="height: 1px"></tr>
 									<tr>
-										<td style="background-image: url(../images/color_blue.png)">
+										<td style="background-image: url(../{{ site.baseurl }}/assets/img/color_blue.png)">
 											<div class="cntrdtxt" id="Ep003" style="text-align: center">
 												<br><br>
 												<ul>
@@ -428,7 +428,7 @@
 									</tr>
 									<tr style="height: 1px"></tr>
 									<tr>
-										<td style="background-image: url(../images/color_blue.png)">
+										<td style="background-image: url(../{{ site.baseurl }}/assets/img/color_blue.png)">
 											<div class="cntrdtxt" id="Ep016" style="text-align: center">
 												<br><br>
 												<ul>
@@ -466,7 +466,7 @@
 									</tr>
 									<tr style="height: 1px"></tr>
 									<tr>
-										<td style="background-image: url(../images/color_blue.png)">
+										<td style="background-image: url(../{{ site.baseurl }}/assets/img/color_blue.png)">
 											<div class="cntrdtxt" id="Ep029" style="text-align: center">
 												<br><br>
 												<ul>
@@ -525,7 +525,7 @@
 									</tr>
 									<tr style="height: 1px"></tr>
 									<tr>
-										<td style="background-image: url(../images/color_blue.png)">
+										<td style="background-image: url(../{{ site.baseurl }}/assets/img/color_blue.png)">
 											<div class="cntrdtxt" id="Ep032" style="text-align: center">
 												<br><br>
 												<ul>
@@ -563,7 +563,7 @@
 									</tr>
 									<tr style="height: 1px"></tr>
 									<tr>
-										<td style="background-image: url(../images/color_blue.png)">
+										<td style="background-image: url(../{{ site.baseurl }}/assets/img/color_blue.png)">
 											<div class="cntrdtxt" id="Ep047" style="text-align: center">
 												<br><br>
 												<ul>
@@ -601,7 +601,7 @@
 									</tr>
 									<tr style="height: 1px"></tr>
 									<tr>
-										<td style="background-image: url(../images/color_blue.png)">
+										<td style="background-image: url(../{{ site.baseurl }}/assets/img/color_blue.png)">
 											<div class="cntrdtxt" id="Ep057" style="text-align: center">
 												<br><br>
 												<ul>
@@ -660,7 +660,7 @@
 									</tr>
 									<tr style="height: 1px"></tr>
 									<tr>
-										<td style="background-image: url(../images/color_blue.png)">
+										<td style="background-image: url(../{{ site.baseurl }}/assets/img/color_blue.png)">
 											<div class="cntrdtxt" id="Ep091" style="text-align: center">
 												<br><br>
 												<ul>
@@ -698,7 +698,7 @@
 									</tr>
 									<tr style="height: 1px"></tr>
 									<tr>
-										<td style="background-image: url(../images/color_blue.png)">
+										<td style="background-image: url(../{{ site.baseurl }}/assets/img/color_blue.png)">
 											<br><br>
 											<div class="cntrdtxt" id="Ep110" style="text-align: center">
 												<ul>
@@ -741,7 +741,7 @@
 						
 						<!--Quellen + Fehlerreport-->
 						<tr>
-							<td class="credits" background="../images/color_blue.png">
+							<td class="credits" background="../{{ site.baseurl }}/assets/img/color_blue.png">
 								<font size="4" color="#CCCCCC">
 									<br>
 									Quelle des lateinischen Textes: <a target="_blank" href="https://www.thelatinlibrary.com/martial.html">TheLatinLibrary</a></div>
