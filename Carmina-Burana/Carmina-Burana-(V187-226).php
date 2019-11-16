@@ -97,14 +97,14 @@
 													<td>
 														<font size="4" color="#F2F2F2">
 															Estuans intrinsecus ira vehementi<span class="ShowOnBigScreen"></span>
-															in amaritudine loquor mee menti.<br>
+															in amaritudine loquor mee menti.
 														</font>
 													</td>
 													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Brennend im Innern vor heftigem Zorn,<span class="ShowOnBigScreen"></span>
-															spreche ich mit Erbitterung zu meinem Herz.<br>
+															spreche ich mit Erbitterung zu meinem Herz.
 														</font>
 													</td>
 												</tr>
@@ -115,14 +115,14 @@
 															3
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															factus de materia levis elementi<span class="ShowOnBigScreen"></span>
 															folio sum similis, de quo ludunt venti.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Aus dem Stoff des leichten Elements bin ich gemacht,<span class="ShowOnBigScreen"></span>
@@ -137,18 +137,18 @@
 															5
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Cum sit enim proprium viro sapienti,<span class="ShowOnBigScreen"></span>
-															supra petram ponere sedem fudamenti,<br>
+															supra petram ponere sedem fudamenti,
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Während es des weisen Mannes Art ist,<span class="ShowOnBigScreen"></span>
-															auf den Fels sein Fundament zu setzen,<br>
+															auf den Fels sein Fundament zu setzen,
 														</font>
 													</td>
 												</tr>
@@ -159,14 +159,14 @@
 															7
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															stultus ego comparor fluvio labenti,<span class="ShowOnBigScreen"></span>
 															sub eodem aere numquam permanenti.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															bin ich Dummkopf dem dahintreibenden Flusse gleich,<span class="ShowOnBigScreen"></span>
@@ -181,18 +181,18 @@
 															9
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Feror ego veluti sine nauta navis,<span class="ShowOnBigScreen"></span>
-															ut per vias aeris vaga fertur avis;<br>
+															ut per vias aeris vaga fertur avis;
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Ich werde dahingetragen wie ein Boot ohne Steuermann,<span class="ShowOnBigScreen"></span>
-															wie auf luftigen Wegen ein Vogel getragen wird;<br>
+															wie auf luftigen Wegen ein Vogel getragen wird;
 														</font>
 													</td>
 												</tr>
@@ -203,14 +203,14 @@
 															11
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															non me tenent vincula, non me tenet clavis,<span class="ShowOnBigScreen"></span>
 															quero mei similes et adiungor pravis.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															mich hält keine Fessel, mich hält kein Schlüssel,<span class="ShowOnBigScreen"></span>
@@ -225,18 +225,18 @@
 															13
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Michi cordis gravitas res videtur gravis,<span class="ShowOnBigScreen"></span>
-															iocus est amabilis dulciorque favis.<br>
+															iocus est amabilis dulciorque favis.
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Mir scheint dem Herzen der Ernst viel zu schwer,<span class="ShowOnBigScreen"></span>
-															der Scherz ist mir angenehm und süßer noch als Honig.<br>
+															der Scherz ist mir angenehm und süßer noch als Honig.
 														</font>
 													</td>
 												</tr>
@@ -247,14 +247,14 @@
 															15
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															quicquid Venus imperat, labor est suavis,<span class="ShowOnBigScreen"></span>
 															que numquam in cordibus habitat ignavis.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Was Venus auch befiehlt, das ist ein angenehmer Dienst,<span class="ShowOnBigScreen"></span>
@@ -269,18 +269,18 @@
 															17
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Via lata gradior more iuventutis,<span class="ShowOnBigScreen"></span>
-															implico me vitiis immemor virtutis,<br>
+															implico me vitiis immemor virtutis,
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Ich schreite auf dem breiten Weg nach Sitte der Jugend,<span class="ShowOnBigScreen"></span>
-															ich verstricke mich in Laster ohne Rücksicht auf die Tugend,<br>
+															ich verstricke mich in Laster ohne Rücksicht auf die Tugend,
 														</font>
 													</td>
 												</tr>
@@ -291,14 +291,14 @@
 															19
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															voluptatis avidus magis quam salutis,<span class="ShowOnBigScreen"></span>
 															mortuus in anima curam gero cutis.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															nach Lust begierig mehr als nach dem Heil,<span class="ShowOnBigScreen"></span>
@@ -313,18 +313,18 @@
 															21
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Presul discretissime, veniam te precor,<span class="ShowOnBigScreen"></span>
-															morte bona morior, dulci nece necor,<br>
+															morte bona morior, dulci nece necor,
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															du erhabenster Bischof, ich bitte dich um Nachsicht,<span class="ShowOnBigScreen"></span>
-															ich sterbe einen guten Tod, ich werde getötet durch einen süßen Tod,<br>
+															ich sterbe einen guten Tod, ich werde getötet durch einen süßen Tod,
 														</font>
 													</td>
 												</tr>
@@ -335,14 +335,14 @@
 															23
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															meum pectus sauciat puellarum decor,<span class="ShowOnBigScreen"></span>
 															et quas tactu nequeo, saltem corde mechor.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															die Liebreiz der Mädchen verwundet mein Herz,<span class="ShowOnBigScreen"></span>
@@ -357,18 +357,18 @@
 															25
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Res est arduissima vincere naturam,<span class="ShowOnBigScreen"></span>
-															in aspectu virginis mentem esse puram;<br>
+															in aspectu virginis mentem esse puram;
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Es ist überaus schwer, die Natur zu überwinden,<span class="ShowOnBigScreen"></span>
-															beim Anblick eines Mädchens reinen Sinnes zu bleiben;<br>
+															beim Anblick eines Mädchens reinen Sinnes zu bleiben;
 														</font>
 													</td>
 												</tr>
@@ -379,14 +379,14 @@
 															27
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															iuvenes non possumus legem sequi duram<span class="ShowOnBigScreen"></span>
 															leviumque corporum non habere curam.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															wir jungen Männer können keine strengen Vorschriften einhalten<span class="ShowOnBigScreen"></span>
@@ -401,18 +401,18 @@
 															29
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Quis in igne positus igne non uratur?<span class="ShowOnBigScreen"></span>
-															Quis Papie demorans castus habeatur,<br>
+															Quis Papie demorans castus habeatur,
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Wer wird nicht gebrannt, wenn er im Feuer steht?<span class="ShowOnBigScreen"></span>
-															Wer kann als keusch bestehen, der in Pavia verweilt,<br>
+															Wer kann als keusch bestehen, der in Pavia verweilt,
 														</font>
 													</td>
 												</tr>
@@ -423,14 +423,14 @@
 															31
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															ubi Venus digito iuvenes venatur,<span class="ShowOnBigScreen"></span>
 															oculis illaqueat, facie predatur?<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															wo Venus mit dem Finger die jungen Männer jagt,<span class="ShowOnBigScreen"></span>
@@ -445,18 +445,18 @@
 															33
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Si ponas Hippolytum hodie Papie,<span class="ShowOnBigScreen"></span>
-															non erit Hyppolytus in sequenti die.<br>
+															non erit Hyppolytus in sequenti die.
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Wenn du Hippotylus heute zur Brücke Pavias bringst,<span class="ShowOnBigScreen"></span>
-															wird er daraus folgend morgen kein Hippolytus mehr sein.<br>
+															wird er daraus folgend morgen kein Hippolytus mehr sein.
 														</font>
 													</td>
 												</tr>
@@ -467,14 +467,14 @@
 															35
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Veneris in thalamos ducunt omnes vie,<span class="ShowOnBigScreen"></span>
 															non est in tot turribus turris Alethie.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Alle Wege führen in das Schlafgemach der Venus,<span class="ShowOnBigScreen"></span>
@@ -489,18 +489,18 @@
 															37
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Secundo redarguor etiam de ludo,<span class="ShowOnBigScreen"></span>
-															sed cum ludus corpore me dimittit nudo,<br>
+															sed cum ludus corpore me dimittit nudo,
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Im zweiten Kapitel hält man mir das Spiel auch vor,<span class="ShowOnBigScreen"></span>
-															aber wenn das spiel mich mit nacktem Körper gehen lässt,<br>
+															aber wenn das spiel mich mit nacktem Körper gehen lässt,
 														</font>
 													</td>
 												</tr>
@@ -511,14 +511,14 @@
 															39
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															frigidus exterius, mentis estu sudo;<span class="ShowOnBigScreen"></span>
 															tunc versus et carmina meliora cudo.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															dampfe ich, nur außen kalt, von der Glut des Geistes,<span class="ShowOnBigScreen"></span>
@@ -533,18 +533,18 @@
 															41
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Tertio capitulo memoro tabernam:<span class="ShowOnBigScreen"></span>
-															illam nullo tempore sprevi neque spernam,<br>
+															illam nullo tempore sprevi neque spernam,
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Im dritten Kapitel gedenke ich der Schenke:<span class="ShowOnBigScreen"></span>
-															Die habe ich zu keiner Zeit verschmäht noch werde ich sie je verschmähen,<br>
+															Die habe ich zu keiner Zeit verschmäht noch werde ich sie je verschmähen,
 														</font>
 													</td>
 												</tr>
@@ -555,14 +555,14 @@
 															43
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															donec sanctos angelos venientes cernam,<span class="ShowOnBigScreen"></span>
 															cantantes pro mortuis: "Requiem eternam."<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															bis ich die heiligen Engel kommen sehe,<span class="ShowOnBigScreen"></span>
@@ -577,18 +577,18 @@
 															45
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Meum est propositum in taberna mori,<span class="ShowOnBigScreen"></span>
-															ut sint vina proxima morientis ori;<br>
+															ut sint vina proxima morientis ori;
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Mein Vorsatz ist, in der Schenke zu sterben,<span class="ShowOnBigScreen"></span>
-															damit der Wein dem Mund des Sterbenden ganz nahe sei;<br>
+															damit der Wein dem Mund des Sterbenden ganz nahe sei;
 														</font>
 													</td>
 												</tr>
@@ -599,14 +599,14 @@
 															47
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															tunc cantabunt letius angelorum chori:<span class="ShowOnBigScreen"></span>
 															"Sit Deus propitius huic potatori."<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															dann werden freudiger die Engelschöre singen:<span class="ShowOnBigScreen"></span>
@@ -621,18 +621,18 @@
 															49
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Poculis accenditur animi lucerna,<span class="ShowOnBigScreen"></span>
-															cor imbutum nectare volt ad superna.<br>
+															cor imbutum nectare volt ad superna.
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Mit den Bechern wird das Licht des Geistes angezündet,<span class="ShowOnBigScreen"></span>
-															das Herz fliegt vom Nektar getränkt zu den Sternen.<br>
+															das Herz fliegt vom Nektar getränkt zu den Sternen.
 														</font>
 													</td>
 												</tr>
@@ -643,14 +643,14 @@
 															51
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															michi sapit dulcius vinum de taberna,<span class="ShowOnBigScreen"></span>
 															quam quod aqua miscuit presulis pincerna.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Mir schmeckt der Wein aus der Schenke süßer als der,<span class="ShowOnBigScreen"></span>
@@ -665,18 +665,18 @@
 															53
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Loca vitant publica quidam poetarum<span class="ShowOnBigScreen"></span>
-															et secretas eligunt sedes latebrarum,<br>
+															et secretas eligunt sedes latebrarum,
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Manche Dichter meiden öffentliche Orte,<span class="ShowOnBigScreen"></span>
-															und sie wählen abgesonderte Plätze im Verborgenen aus,<br>
+															und sie wählen abgesonderte Plätze im Verborgenen aus,
 														</font>
 													</td>
 												</tr>
@@ -687,14 +687,14 @@
 															55
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															student, instant, vigilant nec laborant parum,<span class="ShowOnBigScreen"></span>
 															et vix tandem reddere possunt opus clarum.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															sie bemühen sich, plagen sich, wachen und arbeiten nicht wenig,<span class="ShowOnBigScreen"></span>
@@ -709,18 +709,18 @@
 															57
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Ieiunant et abstinent poetarum chori,<span class="ShowOnBigScreen"></span>
-															vitant rixas publicas et tumultus fori,<br>
+															vitant rixas publicas et tumultus fori,
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Sie fasten und enthalten sich, die Scharen der Poeten,<span class="ShowOnBigScreen"></span>
-															meiden den Zank des Volkes und das Gewühl des Marktes,<br>
+															meiden den Zank des Volkes und das Gewühl des Marktes,
 														</font>
 													</td>
 												</tr>
@@ -731,14 +731,14 @@
 															59
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															et ut opus faciant, quod non possit mori,<span class="ShowOnBigScreen"></span>
 															moriuntur studio subditi labori.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															und um ein Werk zu schaffen, das unsterblich wäre,<span class="ShowOnBigScreen"></span>
@@ -753,18 +753,18 @@
 															61
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Unicuique proprium dat Natura donum:<span class="ShowOnBigScreen"></span>
-															ego versus faciens bibo vinum bonum,<br>
+															ego versus faciens bibo vinum bonum,
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Einem jeden gibt die Natur seine eigene Gabe:<span class="ShowOnBigScreen"></span>
-															ich trinke, wenn ich Verse mache, guten Wein,<br>
+															ich trinke, wenn ich Verse mache, guten Wein,
 														</font>
 													</td>
 												</tr>
@@ -775,14 +775,14 @@
 															63
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															et quod habent purius dolia cauponum;<span class="ShowOnBigScreen"></span>
 															vinum tale generat copiam sermonum.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															und was die Fässer der Wirte an Reinstem enthalten;<span class="ShowOnBigScreen"></span>
@@ -797,18 +797,18 @@
 															65
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Tales versus facio, quale vinum bibo,<span class="ShowOnBigScreen"></span>
-															nihil possum facere nisi sumpto cibo;<br>
+															nihil possum facere nisi sumpto cibo;
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Verse mache ich von der Art, wie der Wein beschaffen ist, den ich trinke,<span class="ShowOnBigScreen"></span>
-															nichts kann ich machen, wenn ich nicht eine Speise aufgenommen habe;<br>
+															nichts kann ich machen, wenn ich nicht eine Speise aufgenommen habe;
 														</font>
 													</td>
 												</tr>
@@ -819,14 +819,14 @@
 															67
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															nihil valent penitus que ieiunus scribo,<span class="ShowOnBigScreen"></span>
 															Nasonem post calices carmine preibo.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															es ist nichts wert, was ich nüchtern schreibe,<span class="ShowOnBigScreen"></span>
@@ -841,18 +841,18 @@
 															69
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Michi nunquam spiritus poetrie datur,<span class="ShowOnBigScreen"></span>
-															nisi prius fuerit venter bene satur;<br>
+															nisi prius fuerit venter bene satur;
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Mir wird nie der Geist der Poesie verliehen,<span class="ShowOnBigScreen"></span>
-															wenn der Bauch nicht vorher gut gesättigt worden ist;<br>
+															wenn der Bauch nicht vorher gut gesättigt worden ist;
 														</font>
 													</td>
 												</tr>
@@ -863,14 +863,14 @@
 															71
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															dum in arce cerebri Bacchus dominatur,<span class="ShowOnBigScreen"></span>
 															in me Phebus irruit et miranda fatur.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															wenn in der Festung des Hirns Bacchus die Herrschaft hat,<span class="ShowOnBigScreen"></span>
@@ -885,18 +885,18 @@
 															73
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Ecce meae proditor pravitatis fui,<span class="ShowOnBigScreen"></span>
-															de qua me redarguunt servientes tui.<br>
+															de qua me redarguunt servientes tui.
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Schau, ich war der Offenbarer meiner eigenen Verdorbenheit,<span class="ShowOnBigScreen"></span>
-															deren deine Diener mich anklagen.<br>
+															deren deine Diener mich anklagen.
 														</font>
 													</td>
 												</tr>
@@ -907,14 +907,14 @@
 															75
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															sed eorum nullus est accusator sui,<span class="ShowOnBigScreen"></span>
 															quamvis velint ludere seculoque frui.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															aber von diesen ist keiner ein Ankläger seiner selbst,<span class="ShowOnBigScreen"></span>
@@ -929,18 +929,18 @@
 															77
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Iam nunc in presentia presulus beati<span class="ShowOnBigScreen"></span>
-															secundum dominici regulam madati<br>
+															secundum dominici regulam madati
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Jetzt schon soll der in Gegenwart des glücklichen Bischofs<span class="ShowOnBigScreen"></span>
-															nach der Richtschnur des Gebots des Herrn<br>
+															nach der Richtschnur des Gebots des Herrn
 														</font>
 													</td>
 												</tr>
@@ -951,14 +951,14 @@
 															79
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															mittat in me lapidem neque parcat vati,<span class="ShowOnBigScreen"></span>
 															cuius non est animus conscius peccati.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															einen Stein auf mich werfen und nicht den Dichter schonen,<span class="ShowOnBigScreen"></span>
@@ -973,18 +973,18 @@
 															81
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Sum locutus contra me, quicquid de me novi,<span class="ShowOnBigScreen"></span>
-															et virus evomui, quod tam diu fovi.<br>
+															et virus evomui, quod tam diu fovi.
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Ich habe gegen mich gesprochen, alles was ich von mir weiß,<span class="ShowOnBigScreen"></span>
-															und ausgespien das Gift, das ich so lange förderte,<br>
+															und ausgespien das Gift, das ich so lange förderte,
 														</font>
 													</td>
 												</tr>
@@ -995,14 +995,14 @@
 															83
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															vita vetus displicet, mores placent novi;<span class="ShowOnBigScreen"></span>
 															homo videt faciem, sed cor patet Iovi.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															mein altes Leben misfällt mir, die neuen Sitten gefallen mir;<span class="ShowOnBigScreen"></span>
@@ -1017,18 +1017,18 @@
 															85
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Iam virtutes diligo, vitiis irascor,<span class="ShowOnBigScreen"></span>
-															renovatus animo spiritu renascor;<br>
+															renovatus animo spiritu renascor;
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Schon liebe ich die Tugenden, den Lastern bin ich erzornt,<span class="ShowOnBigScreen"></span>
-															mit neuem Herzen werde ich im Geiste wiedergeboren;<br>
+															mit neuem Herzen werde ich im Geiste wiedergeboren;
 														</font>
 													</td>
 												</tr>
@@ -1039,14 +1039,14 @@
 															87
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															quasi modo genitus novo lacte pascor,<span class="ShowOnBigScreen"></span>
 															ne sit meum amplius vanitatis vas cor.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															gleich einem neugebornen Kind ernähr ich mich mit neuer Milch,<span class="ShowOnBigScreen"></span>
@@ -1061,18 +1061,18 @@
 															89
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Electe Colonie, parce penitenti,<span class="ShowOnBigScreen"></span>
-															fac misericordiam veniam petenti,<br>
+															fac misericordiam veniam petenti,
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Erwählter Kölns, schone den Bereuenden,<span class="ShowOnBigScreen"></span>
-															schenke dein Erbarmen dem, der um Verzeihung bittet,<br>
+															schenke dein Erbarmen dem, der um Verzeihung bittet,
 														</font>
 													</td>
 												</tr>
@@ -1083,14 +1083,14 @@
 															91
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															et da penitentiam culpam confitenti;<span class="ShowOnBigScreen"></span>
 															feram, quicquid iusseris, animo libenti.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															und gib dem, der seine Schuld bekennt, Reue;<span class="ShowOnBigScreen"></span>
@@ -1105,18 +1105,18 @@
 															93
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Parcit enim subditis leo, rex ferarum,<span class="ShowOnBigScreen"></span>
-															et est erga subditos immemor irarum;<br>
+															et est erga subditos immemor irarum;
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															Es schont nämlich die Untertanen der Löwe, der König der Tiere,<span class="ShowOnBigScreen"></span>
-															und gedenkt nicht seines Zorns gegen die Untertanen;<br>
+															und gedenkt nicht seines Zorns gegen die Untertanen;
 														</font>
 													</td>
 												</tr>
@@ -1127,35 +1127,21 @@
 															95
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															et vos idem facite, principes terrarum:<span class="ShowOnBigScreen"></span>
-															quod caret dulcedine, nimis est amarum.<br>
+															quod caret dulcedine, nimis est amarum.<br><br>
 														</font>
 													</td>
-													<td width="1"></td>
+													<td></td>
 													<td>
 														<font size="4" color="#F2F2F2">
 															dasselbe tut auch ihr, ihr Herrscher dieser Erde:<span class="ShowOnBigScreen"></span>
-															was der Milde ganz entbehrt, allzu bitter ist's.<br>
+															was der Milde ganz entbehrt, allzu bitter ist's.<br><br>
 														</font>
 													</td>
 												</tr>
-												
-												<tr>
-													<td>
-														<br>
-													</td>
-													<td></td>
-													<td>
-														<br>
-													</td>
-													<td></td>
-													<td>
-														<br>
-													</td>
-													</tr>
 											</table>
 										</td>
 									</tr>
