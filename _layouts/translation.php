@@ -4,7 +4,7 @@ layout: wrapper
 <main>
 	{% include translation-heading.php %}
 
-	<div style="max-width: 1000px; margin: auto">
+	<div style="margin: auto">
 		{% for chapter in page.chapters %}
 			<div id="Ch{{ chapter.number }}" class="chapter">
 				{% assign str = "" %}
@@ -19,19 +19,21 @@ layout: wrapper
 				<h2>{{ str }}</h2>
 
 				{% if chapter.latin and chapter.german %}
-					<p>
-						{{ chapter.latin }}
-					</p>
-					<div></div>
-					<p>
-						{{ chapter.german }}
-						<br><br>
-						<span class="footnotes">
-							{% for footnote in chapter.footnotes %}
-								<sup>{{footnote.number}}</sup>: {{footnote.content}}<br>
-							{% endfor %}
-						</span>
-					</p>
+					<div class="chapter-item">
+						<p>
+							{{ chapter.latin }}
+						</p>
+						<div></div>
+						<p>
+							{{ chapter.german }}
+							<br><br>
+							<span class="footnotes">
+								{% for footnote in chapter.footnotes %}
+									<sup>{{footnote.number}}</sup>: {{footnote.content}}<br>
+								{% endfor %}
+							</span>
+						</p>
+					</div>
 				{% elsif chapter.sections %}
 					{% for section in chapter.sections %}
 						{% if section.type == nil or section.type == "translation" %}
@@ -50,19 +52,21 @@ layout: wrapper
 									</p>
 								</div>
 							{% elsif section.style == nil or section.style == "default" %}
-								<p>
-									{{ section.latin }}
-								</p>
-								<div></div>
-								<p>
-								{{ section.german }}
-									<br><br>
-									<span class="footnotes">
-										{% for footnote in section.footnotes %}
-											<sup>{{footnote.number}}</sup>: {{footnote.content}}<br>
-										{% endfor %}
-									</span>
-								</p>
+								<div class="chapter-item">
+									<p>
+										{{ section.latin }}
+									</p>
+									<div></div>
+									<p>
+									{{ section.german }}
+										<br><br>
+										<span class="footnotes">
+											{% for footnote in section.footnotes %}
+												<sup>{{footnote.number}}</sup>: {{footnote.content}}<br>
+											{% endfor %}
+										</span>
+									</p>
+								</div>
 							{% endif %}
 						{% elsif section.type == "story" %}
 							<div class="story"><hr>{{ section.content }}<hr></div>
