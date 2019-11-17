@@ -3,8 +3,8 @@
     <!--Cicero Interactive bedankt sich bei all den großzügigen Spendern,
     durch deren selbstlosen Opfergaben wir das Lateinparadies für mindestens ein weiteres halbes Jahr konstant mit Updates und Fehlerverbesserungen versorgen können!
     Auflistung aller Spender:-->
-    Auflistung aller Unterstützer des Lateinparadieses: <a href="{{ site.baseurl }}/Hall-of-Fame.php"><span style="text-decoration: underline; color: #FFCC00; text-decoration-color: #FFCC00;">Hall of Fame</span></a>
-</div>								
+    Auflistung aller Unterstützer des Lateinparadieses: <a style="text-decoration: underline;" href="{{ site.baseurl }}/Hall-of-Fame.php">Hall of Fame</a>
+</div>
 <div class="alert alertRed">
     <!--<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>-->
     Durch ein technisches Problem wurden alle "ä"-, "ö"- und "ü"-Zeichen in Kleinbuchstaben konvertiert.
@@ -19,7 +19,7 @@
 
     <script>
         // Set the date we're counting down to
-        var countDownDate = new Date("Nov 17, 2019 12:00:00").getTime();
+        var countDownDate = new Date("Nov 24, 2019 18:00:00").getTime();
 
         // Update the count down every 1 second
         var x = setInterval(function() {

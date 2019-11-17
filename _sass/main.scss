@@ -164,7 +164,6 @@ footer {
 		}
 	}
 	.nav_btm {
-		
 		li {
 			display: inline-block;
 			font-size: 1.12em;
@@ -280,13 +279,13 @@ div.td {
 
 .chapter {
 	display: grid;
-	grid-template-rows: auto auto;
 
 	p {
 		margin: unset;
 	}
 	h2 {
 		color: $color_orange;
+		grid-column: 1/10;
 		margin-bottom: 10px;
 	}
 	sup {
@@ -297,10 +296,14 @@ div.td {
 		color: $color_grey;
 	}
 	.story {
-		grid-column: 1/4;
+		grid-column: 1/10;
+		width: 100%;
+		max-width: 1000px;
+		margin: auto;
 	}
 
 	.chapter-item {
+		grid-column: 1/10;
 		max-width: 1000px;
 		margin: auto;
 		display: grid;
@@ -311,6 +314,7 @@ div.td {
 		}
 	}
 	.poem-item {
+		grid-column: 1/10;
 		display: grid;
 		grid-template-rows: auto;
 		grid-template-columns: 43px 1px 40% 1px auto;
