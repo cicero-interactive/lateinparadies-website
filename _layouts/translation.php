@@ -44,7 +44,7 @@ layout: wrapper
 						</p>
 					</div>
 				{% elsif chapter.sections %}
-					{% assign  lastPoemLine = -1 %}
+					{% assign lastPoemLine = -1 %}
 					{% for section in chapter.sections %}
 						{% if section.type == nil or section.type == "translation" %}
 							{% if section.style == "poem" or section.style == nil and chapter.style == "poem" %}

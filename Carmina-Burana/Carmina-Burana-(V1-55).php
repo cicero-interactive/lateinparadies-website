@@ -43,70 +43,107 @@ chapters:
           spielerisch um die Schärfe des Geistes,
           die Armut,
       - latin: |
-          Iudo mentis aciem,
-          egestatem,
+          potestatem
+          dissolvit ut glaciem.
         german: |
-          spielerisch um die Schärfe des Geistes,
-          die Armut,
+          die Macht
+          löst es auf wie Eis.
       - latin: |
-          Iudo mentis aciem,
-          egestatem,
+          Sors inmanis
+          et inanis,
         german: |
-          spielerisch um die Schärfe des Geistes,
-          die Armut,
+          Grausames und
+          eitles Schicksal,
       - latin: |
-          Iudo mentis aciem,
-          egestatem,
+          rota tu volubilis,
+          status malus,
         german: |
-          spielerisch um die Schärfe des Geistes,
-          die Armut,
+          du rollendes Rad,
+          schlechter Zustand,
+      - latin: |
+          Sors inmanis
+          et inanis,
+        german: |
+          Grausames und
+          eitles Schicksal,
+      - latin: |
+          vana salus
+          semper dissolubilis,
+        german: |
+          vergängliches Heil,
+          immer auflösbar,
+      - latin: |
+          obumbrata
+          et velata
+        german: |
+          in Dunkel gehüllt
+          ergreifst du auch mich,
+      - latin: |
+          Sors inmanis
+          et inanis,
+        german: |
+          Grausames und
+          eitles Schicksal,
+      - latin: |
+          Sors inmanis
+          et inanis,
+        german: |
+          Grausames und
+          eitles Schicksal,
+      - latin: |
+          Sors inmanis
+          et inanis,
+        german: |
+          Grausames und
+          eitles Schicksal,
+      - latin: |
+          Sors inmanis
+          et inanis,
+        german: |
+          Grausames und
+          eitles Schicksal,
+      - latin: |
+          Sors inmanis
+          et inanis,
+        german: |
+          Grausames und
+          eitles Schicksal,
+      - latin: |
+          Sors inmanis
+          et inanis,
+        german: |
+          Grausames und
+          eitles Schicksal,
+      - latin: |
+          Sors inmanis
+          et inanis,
+        german: |
+          Grausames und
+          eitles Schicksal,
+      - latin: |
+          Sors inmanis
+          et inanis,
+        german: |
+          Grausames und
+          eitles Schicksal,
 source_latin: http://daten.digitale-sammlungen.de/0008/bsb00085130/images/index.html?id=00085130&groesser=&fip=xsyztsxdsydenfsdreayaewqsdaseayayztseaya
 counter: https://www.webfreecounter.com/hit.php?id=zeqnpx&nd=9&style=44
 ---
 
 
-
-11
-
-potestatem
-dissolvit ut glaciem.
-
-die Macht
-löst es auf wie Eis.
-
-13
-
-Sors inmanis
-et inanis,
-
-Grausames und
-eitles Schicksal,
-
-15
-
-rota tu volubilis,
-status malus,
-
-du rollendes Rad,
-schlechter Zustand,
-
 17
 
-vana salus
-semper dissolubilis,
 
-vergängliches Heil,
-immer auflösbar,
+
+
 
     
 
 19
 
-obumbrata
-et velata
 
-in Dunkel gehüllt
-ergreifst du auch mich,
+
+
 
     
 
