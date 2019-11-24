@@ -8,7 +8,7 @@
 <div class="alert alertRed">
     <!--<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>-->
     Durch ein technisches Problem wurden alle "ä"-, "ö"- und "ü"-Zeichen in Kleinbuchstaben konvertiert.
-    Trotz detaillierter Fehlersuche kann es sein, dass ein paar übersehen wurden. Sollte Ihnen ein solcher Fehler auffallen, kontaktieren Sie uns bitte unter unserer E-Mail Adresse.
+    Trotz detaillierter Fehlersuche kann es sein, dass ein paar übersehen wurden. Sollte Dir ein solcher Fehler auffallen, kontaktiere uns bitte unter unserer E-Mail Adresse.
 </div>
 <div class="alert alertGreen">
     <!--<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>-->
@@ -19,7 +19,7 @@
 
     <script>
         // Set the date we're counting down to
-        var countDownDate = new Date("Nov 24, 2019 18:00:00").getTime();
+        var countDownDate = new Date("Nov 24, 2019 22:00:00").getTime();
 
         // Update the count down every 1 second
         var x = setInterval(function() {

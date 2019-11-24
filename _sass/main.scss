@@ -340,9 +340,12 @@ div.td {
 			}
 		}
 	}
+	.verse-seperator {
+		height: 20px;
+	}
 
 	&:last-child {
-		.poem-item {
+		.poem-item:last-child {
 			margin-bottom: -50px;
 
 			p:not(:first-child) {
@@ -451,7 +454,7 @@ div.td {
 		.poem-item {
 			p {
 				&:not(:nth-child(1)) {
-					padding: 0px 5px;
+					padding: 0px 30px;
 				}
 			}
 		}
@@ -464,7 +467,17 @@ div.td {
 		display: none;
 	}
 }
-
+@media only screen and (max-width: 800px) {
+	.chapter {
+		.poem-item {
+			p {
+				&:not(:nth-child(1)) {
+					padding: 0px 20px;
+				}
+			}
+		}
+	}
+}
 @media only screen and (max-width: 400px) {
 	footer {
 		grid-template-columns: 1fr 1fr;
@@ -490,7 +503,7 @@ div.td {
 		.poem-item {
 			p {
 				&:not(:nth-child(1)) {
-					padding: 0px 5px;
+					padding: 0px 10px;
 				}
 			}
 		}

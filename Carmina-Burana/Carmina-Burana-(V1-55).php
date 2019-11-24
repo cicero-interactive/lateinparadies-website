@@ -11,6 +11,7 @@ chapters:
       "Antworte, der du so viel wünschst!", möchte Copia <span class="annotation">(Göttin des Überflusses)</span> sagen. "Setze ein Maß! Ich schenke dir, was du willst." - "Ich will, dass die Geldtruhe voll ist." - "Sie soll voll sein!" - "Füge zwei weitere hinzu!" - "Ich füge sie hinzu." - "Wenn es vier Truhen wären, würden sie ausreichen." - "So handelst du immer: Immer wenn ich dir sehr viel gebe, fragst du nach mehr; du wirst nicht voll <span class="annotation">(zufrieden)</span> sein, bis du sterben wirst."
   - number: 17
     style: poem
+    poem-style: thin
     sections:
       - latin: |
           O Fortuna,
@@ -48,6 +49,7 @@ chapters:
         german: |
           die Macht
           löst es auf wie Eis.
+      - style: verse-seperator
       - latin: |
           Sors inmanis
           et inanis,
@@ -61,12 +63,6 @@ chapters:
           du rollendes Rad,
           schlechter Zustand,
       - latin: |
-          Sors inmanis
-          et inanis,
-        german: |
-          Grausames und
-          eitles Schicksal,
-      - latin: |
           vana salus
           semper dissolubilis,
         german: |
@@ -79,150 +75,54 @@ chapters:
           in Dunkel gehüllt
           ergreifst du auch mich,
       - latin: |
-          Sors inmanis
-          et inanis,
+          michi quoque niteris;
+          nunc per ludum
         german: |
-          Grausames und
-          eitles Schicksal,
+          ich ertrage nun
+          durch dein
       - latin: |
-          Sors inmanis
-          et inanis,
+          dorsum nudum
+          fero tui sceleris.
         german: |
-          Grausames und
-          eitles Schicksal,
+          verbrecherisches Spiel
+          einen nackten Rücken.
+      - style: verse-seperator
       - latin: |
-          Sors inmanis
-          et inanis,
+          Sors salutis
+          et virtutis
         german: |
-          Grausames und
-          eitles Schicksal,
+          Schicksal des Heils
+          und der Tugend,
       - latin: |
-          Sors inmanis
-          et inanis,
+          michi nunc contraria,
+          est affectus
         german: |
-          Grausames und
-          eitles Schicksal,
+          mir jetzt feindlich,
+          ist ein Aufbäumen
       - latin: |
-          Sors inmanis
-          et inanis,
+          et defectus
+          semper in angaria.
         german: |
-          Grausames und
-          eitles Schicksal,
+          und eine Erschöpfung
+          immer im Frondienst.
       - latin: |
-          Sors inmanis
-          et inanis,
+          Hac in hora
+          sine mora
         german: |
-          Grausames und
-          eitles Schicksal,
+          In dieser Stunde,
+          ohne Verzug,
       - latin: |
-          Sors inmanis
-          et inanis,
+          corde pulsum tangite;
+          quod per sortem
         german: |
-          Grausames und
-          eitles Schicksal,
+          zupf die Saite;
+          weil durch das Schicksal
       - latin: |
-          Sors inmanis
-          et inanis,
+          sternit fortem,
+          mecum omnes plangite!
         german: |
-          Grausames und
-          eitles Schicksal,
+          der Starke fällt,
+          klagt alle laut mit mir!
 source_latin: http://daten.digitale-sammlungen.de/0008/bsb00085130/images/index.html?id=00085130&groesser=&fip=xsyztsxdsydenfsdreayaewqsdaseayayztseaya
 counter: https://www.webfreecounter.com/hit.php?id=zeqnpx&nd=9&style=44
 ---
-
-
-17
-
-
-
-
-
-    
-
-19
-
-
-
-
-
-    
-
-21
-
-michi quoque niteris;
-nunc per ludum
-
-ich ertrage nun
-durch dein
-
-
-
-23
-
-dorsum nudum
-fero tui sceleris.
-
-verbrecherisches Spiel
-einen nackten Rücken.
-
-    
-
-25
-
-Sors salutis
-et virtutis
-
-Schicksal des Heils
-und der Tugend,
-
-    
-
-27
-
-michi nunc contraria,
-est affectus
-
-mir jetzt feindlich,
-ist ein Aufbäumen
-
-    
-
-29
-
-et defectus
-semper in angaria.
-
-und eine Erschöpfung
-immer im Frondienst.
-
-    
-
-31
-
-Hac in hora
-sine mora
-
-In dieser Stunde,
-ohne Verzug,
-
-    
-
-33
-
-corde pulsum tangite;
-quod per sortem
-
-zupf die Saite;
-weil durch das Schicksal
-
-    
-
-35
-
-sternit fortem,
-mecum omnes plangite!
-
-der Starke fällt,
-klagt alle laut mit mir!
-
-</table>

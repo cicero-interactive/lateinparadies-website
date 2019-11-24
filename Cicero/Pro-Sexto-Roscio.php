@@ -1,6 +1,6 @@
 ---
 layout: translation
-title: Cicero&#58; Pro Sextio Roscio
+title: Cicero&#58; Pro Sextio Roscio Übersetzung
 title_nav: Pro Sextio Roscio
 heading: Cicero&#58; Pro Sextio Roscio
 chapters: 

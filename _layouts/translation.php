@@ -5,6 +5,10 @@ layout: wrapper
 	{% include translation-heading.php %}
 
 	<div style="margin: auto">
+		{% if page.chapters == nil %}
+			<div class="alert alertYellow" style="max-width: 600px; margin: -30px auto 10px auto;">Diese Seite Seite ist momentan im Aufbau. Versuche es bitte in ein paar Tagen erneut!</div>
+		{% endif %}
+		
 		{% assign chapterNumber = 0 %}
 		{% for chapter in page.chapters %}
 			{% if chapter.number == nil %}
@@ -36,36 +40,55 @@ layout: wrapper
 							{% if chapter.footnotes != nil %}
 								<br><br>
 								<span class="footnotes">
+									{% assign footnoteNumber = 0 %}
 									{% for footnote in chapter.footnotes %}
-										<sup>{{footnote.number}}</sup>: {{footnote.content}}<br>
+										{% if footnote.number == nil %}
+											{% assign footnoteNumber = footnoteNumber | plus: 1 %}
+										{% else %}
+											{% assign footnoteNumber = footnote.number %}
+										{% endif %}
+										<sup>{{ footnoteNumber }}</sup>: {{footnote.content}}<br>
 									{% endfor %}
 								</span>
 							{% endif %}
 						</p>
 					</div>
 				{% elsif chapter.sections %}
-					{% assign lastPoemLine = -1 %}
+					{% assign poemLine = -1 %}
 					{% for section in chapter.sections %}
 						{% if section.type == nil or section.type == "translation" %}
 							{% if section.style == "poem" or section.style == nil and chapter.style == "poem" %}
+								{% if section.number  == nil %}
+									{% assign poemLine = poemLine | plus: 2 %}
+								{% else %}
+									{% assign poemLine = section.number %}
+								{% endif %}
+
+								{% if chapter.poem-style == nil or chapter.poem-style == "wide" %}
+									{% assign suffix = "<span class='ShowOnBigScreen'></span>" %}
+								{% elsif chapter.poem-style == "thin" %}
+									{% assign suffix = "<br>" %}
+								{% endif %}
 								<div class="poem-item">
 									<p>
-										{% if section.number != nil %}
-											{{ section.number }}
-											{% assign lastPoemLine = section.number %}
-										{% else %}
-											{% assign lastPoemLine = lastPoemLine | plus: 2 %}
-											{{ lastPoemLine }}
-										{% endif %}
+										{{ poemLine }}
 									</p>
 									<div></div>
 									<p>
-										{{ section.latin | newline_to_br }}
+										{{ section.latin | newline_to_br | replace: "<br />", suffix }}
 									</p>
 									<div></div>
 									<p>
-										{{ section.german | newline_to_br }}
+										{{ section.german | newline_to_br | replace: "<br />", suffix }}
 									</p>
+								</div>
+							{% elsif section.style == "verse-seperator" %}
+								<div class="poem-item verse-seperator">
+									<p></p>
+									<div></div>
+									<p></p>
+									<div></div>
+									<p></p>
 								</div>
 							{% elsif section.style == nil or section.style == "default" %}
 								<div class="chapter-item">
@@ -93,8 +116,8 @@ layout: wrapper
 				{% endif %}
 
 			</div>
-			{% unless chapter.number == page.chapters.last.number %}
-				<br><br><br>
+			{% unless chapter.latin == page.chapters.last.latin %}
+				<br><br>
 			{% endunless %}
 		{% endfor %}
 	</div>

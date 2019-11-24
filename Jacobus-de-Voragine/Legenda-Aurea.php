@@ -12,8 +12,7 @@ chapters:
         german: >-
           Er wurde entweder Benedikt genannt, weil er vieles gesegnet hat, weil er in diesem Leben viele Segnungen hatte, weil alle über ihn gut sprachen oder weil er ewigen Segen verdient hat. Der heilige Gregor beschrieb dessen Leben.<sup>1</sup> Als der in der Provinz Nursia geborene Benedikt für wissenschaftliche Studien nach Rom geschickt worden war, gab er in seiner Jugend die Wissenschaft auf und beschloss, die Einöde aufzusuchen. [...] Er kam zu einem gewissen Ort, wo er den Menschen drei Jahre lang unbekannt blieb, ausgenommen eines gewissen Mönches namens Romanus, der ihm fleißig das Notwendige verschaffte.
         footnotes:
-          - number: 1
-            content: Übersetzung&#58; <a href="../Gregor-der-Grosse/Dialogorum-(B2).php">Gregor der Große&#58; Dialogorum liber secundus</a>
+          - content: Übersetzung&#58; <a href="../Gregor-der-Grosse/Dialogorum-(B2).php">Gregor der Große&#58; Dialogorum liber secundus</a>
       - type: story
         content: Als Einsiedler lebte Benedikt von nun an alleine in einer abgeschiedenen Höhle. Sein treuer Diener Romanus war der einzige Kontakt zur Außenwelt, der trotz Benedikts schwer erreichbarer Behausung seinen Herrn regelmäßig mit Nahrung versorgte.
       - latin: >-
@@ -39,5 +38,3 @@ source_latin:
   - http://digital.ub.uni-duesseldorf.de/ink/content/pageview/5128710
 counter: https://www.webfreecounter.com/hit.php?id=zvueqnqq&nd=9&style=44
 ---
-
-                      <td colspan="3" style="padding: 25px 0px; text-align: center">
