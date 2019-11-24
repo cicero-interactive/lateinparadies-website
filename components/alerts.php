@@ -16,12 +16,12 @@
                 <!--<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>-->
                 Das Lateinparadies wird momentan großflächig geupdatet. Freut Euch auf neue Übersetzungen, Infotexte und generell mehr Konsistenz! Verbleibende Zeit bis zum Release:
                 <!-- Display the countdown timer in an element -->
-                <span id="countdown" style="color: #FFCC00"></span>
+                <span id="countdown" style="color: #FFCC00"></span> (Zur Qualitätskontrolle wurde der Release nochmals um eine Woche verschoben, die Features sind allerdings alle schon integriert!)
                 <span id="countdownSuffix"></span>
 
                 <script>
                     // Set the date we're counting down to
-                    var countDownDate = new Date("Nov 24, 2019 22:00:00").getTime();
+                    var countDownDate = new Date("Dec 01, 2019 22:00:00").getTime();
 
                     // Update the count down every 1 second
                     var x = setInterval(function() {
