@@ -1,6 +1,46 @@
 ---
 layout: wrapper
 ---
+
+<!-- Assign missing chapter numbers -->
+{% assign chapterNumber = 0 %}
+{% for chapter in page.chapters %}
+	{% assign chapter.number = 0 %}
+	{% if chapter.number == nil %}
+		{% assign chapter.number = chapterNumber | plus: 1 %}
+		{% assign chapterNumber = chapterNumber | plus: 1 %}
+		{{ chapter.number | append: "x" }}
+	{% else %}
+		{% assign chapterNumber = chapter.number %}
+	{% endif %}
+
+	<!-- Assign display name -->
+	{% if chapter.number == 0 %}
+		{% assign chapter.display-name = "Prolog" %}
+	{% else %}
+		{% assign chapter.display-name = "Kapitel " | append: chapter.number %}
+	{% endif %}
+	{% if chapter.name != '/' %}
+		{% assign chapter.display-name = chapter.display-name | append: ": " | append: chapter.name %}
+	{% endif %}
+
+	<!-- Assign missing footnote numbers -->
+	{% assign footnoteNumber = 0 %}
+	{% for footnote in chapter.footnotes %}
+		{% if footnote.number == nil %}
+			{% assign footnote.number = footnoteNumber | plus: 1 %}
+			{% assign footnoteNumber = footnote.number %}
+		{% else %}
+			{% assign footnoteNumber = footnote.number %}
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+
+
+
+
+
+
 <main>
 	{% include translation-heading.php %}
 
@@ -8,26 +48,10 @@ layout: wrapper
 		{% if page.chapters == nil %}
 			<div class="alert alertYellow" style="max-width: 600px; margin: -30px auto 10px auto;">Diese Seite Seite ist momentan im Aufbau. Versuche es bitte in ein paar Tagen erneut!</div>
 		{% endif %}
-		
-		{% assign chapterNumber = 0 %}
-		{% for chapter in page.chapters %}
-			{% if chapter.number == nil %}
-				{% assign chapterNumber = chapterNumber | plus: 1 %}
-			{% else %}
-				{% assign chapterNumber = chapter.number %}
-			{% endif %}
 
-			<div id="Ch{{ chapterNumber }}" class="chapter">
-				{% assign str = "" %}
-				{% if chapter.number == 0 %}
-					{% assign str = "Prolog" %}
-				{% else %}
-					{% assign str = "Kapitel " | append: chapterNumber %}
-				{% endif %}
-				{% if chapter.name %}
-					{% assign str = str | append: ": " | append: chapter.name %}
-				{% endif %}
-				<h2>{{ str }}</h2>
+		{% for chapter in page.chapters %}
+			<div id="Ch{{ chapter.number }}" class="chapter">
+				<h2>{{ chapter.display-name }}</h2>
 
 				{% if chapter.latin and chapter.german %}
 					<div class="chapter-item">
@@ -40,14 +64,8 @@ layout: wrapper
 							{% if chapter.footnotes != nil %}
 								<br><br>
 								<span class="footnotes">
-									{% assign footnoteNumber = 0 %}
 									{% for footnote in chapter.footnotes %}
-										{% if footnote.number == nil %}
-											{% assign footnoteNumber = footnoteNumber | plus: 1 %}
-										{% else %}
-											{% assign footnoteNumber = footnote.number %}
-										{% endif %}
-										<sup>{{ footnoteNumber }}</sup>: {{footnote.content}}<br>
+										<sup>{{ footnote.number }}</sup>: {{footnote.content}}<br>
 									{% endfor %}
 								</span>
 							{% endif %}
@@ -84,6 +102,14 @@ layout: wrapper
 								</div>
 							{% elsif section.style == "verse-seperator" %}
 								<div class="poem-item verse-seperator">
+									<p></p>
+									<div></div>
+									<p></p>
+									<div></div>
+									<p></p>
+								</div>
+							{% elsif section.style == "verse-missing" %}
+								<div class="poem-item verse-missing">
 									<p></p>
 									<div></div>
 									<p></p>

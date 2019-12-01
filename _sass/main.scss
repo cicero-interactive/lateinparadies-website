@@ -343,6 +343,12 @@ div.td {
 	.verse-seperator {
 		height: 20px;
 	}
+	.verse-missing {
+		margin: 20px 0px;
+		height: 1px;
+		background-position: fixed;
+		background: url($baseurl + "/assets/img/background.jpg") no-repeat center center fixed;
+	}
 
 	&:last-child {
 		.poem-item:last-child {
