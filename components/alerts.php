@@ -16,7 +16,8 @@
                 <!--<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>-->
                 Das Lateinparadies wird momentan großflächig geupdatet. Freut Euch auf neue Übersetzungen, Infotexte und generell mehr Konsistenz! Verbleibende Zeit bis zum Release:
                 <!-- Display the countdown timer in an element -->
-                <span id="countdown" style="color: #FFCC00"></span> (Zur Qualitätskontrolle wurde der Release nochmals um eine Woche verschoben, die Features sind allerdings alle schon integriert!)
+                <span id="countdown" style="color: #FFCC00"></span>
+                <span id="countdownPostponementInfo">(Zur Qualitätskontrolle wurde der Release nochmals um eine Woche verschoben, die Features sind allerdings alle schon integriert!)</span>
                 <span id="countdownSuffix"></span>
 
                 <script>
@@ -44,7 +45,8 @@
                         // If the count down is finished, write some text
                         if (distance < 0) {
                             document.getElementById("countdown").innerHTML = '0d 0h 0m 0s';
-                            document.getElementById("countdownSuffix").innerHTML = '| Klicke <a href="">hier</a>, um die Seite zu aktualisieren!';
+                            document.getElementById("countdownPostponementInfo").innerHTML = '';
+                            document.getElementById("countdownSuffix").innerHTML = '| Klicke <a href="" style="color: #FFCC00">hier</a>, um die Seite zu aktualisieren!';
                         }
                     }, 1000);
                 </script>
