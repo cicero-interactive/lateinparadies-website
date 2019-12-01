@@ -3,7 +3,8 @@
     <!--Cicero Interactive bedankt sich bei all den großzügigen Spendern,
     durch deren selbstlosen Opfergaben wir das Lateinparadies für mindestens ein weiteres halbes Jahr konstant mit Updates und Fehlerverbesserungen versorgen können!
     Auflistung aller Spender:-->
-    Auflistung aller Unterstützer des Lateinparadieses: <a style="text-decoration: underline;" href="{{ site.baseurl }}/Hall-of-Fame.php">Hall of Fame</a>
+    Auflistung aller Unterstützer des Lateinparadieses: <a style="text-decoration: underline;" href="{{ site.baseurl }}/Hall-of-Fame.php">Hall of Fame</a>.
+    Aktuelle News zum Lateinparadies gibt es  <a style="text-decoration: underline;" href="https://cicero-interactive.de.cool/news.php">hier</a>.
 </div>
 <div class="alert alertRed">
     <!--<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>-->
