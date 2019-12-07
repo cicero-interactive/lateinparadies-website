@@ -254,7 +254,7 @@ div.td {
 }
 
 .idReferrer {
-	margin: 0px auto 75px auto;
+	margin: 0px auto 60px auto;
 	max-width: 80%;
 
 	ul {
@@ -279,6 +279,12 @@ div.td {
 
 .chapter {
 	display: grid;
+
+	&:first-child {
+		h2 {
+			margin-top: 15px;
+		}
+	}
 
 	p {
 		margin: unset;

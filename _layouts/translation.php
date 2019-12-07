@@ -2,46 +2,12 @@
 layout: wrapper
 ---
 
-<!-- Assign missing chapter numbers -->
-{% assign chapterNumber = 0 %}
-{% for chapter in page.chapters %}
-	{% assign chapter.number = 0 %}
-	{% if chapter.number == nil %}
-		{% assign chapter.number = chapterNumber | plus: 1 %}
-		{% assign chapterNumber = chapterNumber | plus: 1 %}
-		{{ chapter.number | append: "x" }}
-	{% else %}
-		{% assign chapterNumber = chapter.number %}
-	{% endif %}
-
-	<!-- Assign display name -->
-	{% if chapter.number == 0 %}
-		{% assign chapter.display-name = "Prolog" %}
-	{% else %}
-		{% assign chapter.display-name = "Kapitel " | append: chapter.number %}
-	{% endif %}
-	{% if chapter.name != '/' %}
-		{% assign chapter.display-name = chapter.display-name | append: ": " | append: chapter.name %}
-	{% endif %}
-
-	<!-- Assign missing footnote numbers -->
-	{% assign footnoteNumber = 0 %}
-	{% for footnote in chapter.footnotes %}
-		{% if footnote.number == nil %}
-			{% assign footnote.number = footnoteNumber | plus: 1 %}
-			{% assign footnoteNumber = footnote.number %}
-		{% else %}
-			{% assign footnoteNumber = footnote.number %}
-		{% endif %}
-	{% endfor %}
-{% endfor %}
-
-
-
-
+<!-- Process chapters, add missing information -->
+{% assign page.chapters = page.chapters | process_chapters %}
 
 
 <main>
+	<!-- Include heading with chapter links -->
 	{% include translation-heading.php %}
 
 	<div style="margin: auto">
@@ -50,9 +16,13 @@ layout: wrapper
 		{% endif %}
 
 		{% for chapter in page.chapters %}
-			<div id="Ch{{ chapter.number }}" class="chapter">
-				<h2>{{ chapter.display-name }}</h2>
+			<!-- Set ID to be able to be linked from above -->
+			<div {% if chapter.display-name %}id="Ch{{ chapter.number }}"{% endif %} class="chapter">
+				{% if chapter.display-name %}
+					<h2>{{ chapter.display-name }}</h2>
+				{% endif %}
 
+				<!-- If chapter is basic chapter -->
 				{% if chapter.latin and chapter.german %}
 					<div class="chapter-item">
 						<p>
@@ -65,16 +35,20 @@ layout: wrapper
 								<br><br>
 								<span class="footnotes">
 									{% for footnote in chapter.footnotes %}
-										<sup>{{ footnote.number }}</sup>: {{footnote.content}}<br>
+										<sup>{{ footnote.number }}</sup>: {{ footnote.content }}<br>
 									{% endfor %}
 								</span>
 							{% endif %}
 						</p>
 					</div>
+
+				<!-- If chapter consists of multiple sections -->
 				{% elsif chapter.sections %}
 					{% assign poemLine = -1 %}
 					{% for section in chapter.sections %}
+						<!-- If section contains translations -->
 						{% if section.type == nil or section.type == "translation" %}
+							<!-- If section is a poem -->
 							{% if section.style == "poem" or section.style == nil and chapter.style == "poem" %}
 								{% if section.number  == nil %}
 									{% assign poemLine = poemLine | plus: 2 %}
@@ -100,6 +74,7 @@ layout: wrapper
 										{{ section.german | newline_to_br | replace: "<br />", suffix }}
 									</p>
 								</div>
+							<!-- If section is a poem verse seperator -->
 							{% elsif section.style == "verse-seperator" %}
 								<div class="poem-item verse-seperator">
 									<p></p>
@@ -108,6 +83,7 @@ layout: wrapper
 									<div></div>
 									<p></p>
 								</div>
+							<!-- If section indicates missing of verse(s) -->
 							{% elsif section.style == "verse-missing" %}
 								<div class="poem-item verse-missing">
 									<p></p>
@@ -116,6 +92,7 @@ layout: wrapper
 									<div></div>
 									<p></p>
 								</div>
+							<!-- If section is default chapter-based -->
 							{% elsif section.style == nil or section.style == "default" %}
 								<div class="chapter-item">
 									<p>
@@ -123,18 +100,19 @@ layout: wrapper
 									</p>
 									<div></div>
 									<p>
-									{{ section.german }}
-									{% if chapter.footnotes != nil %}
-										<br><br>
-										<span class="footnotes">
-											{% for footnote in section.footnotes %}
-												<sup>{{footnote.number}}</sup>: {{footnote.content}}<br>
-											{% endfor %}
-										</span>
-									{% endif %}
+										{{ section.german }}
+										{% if chapter.footnotes != nil %}
+											<br><br>
+											<span class="footnotes">
+												{% for footnote in section.footnotes %}
+													<sup>{{ footnote.number }}</sup>: {{ footnote.content }}<br>
+												{% endfor %}
+											</span>
+										{% endif %}
 									</p>
 								</div>
 							{% endif %}
+						<!-- If section contains sidestory -->
 						{% elsif section.type == "story" %}
 							<div class="story"><hr>{{ section.content }}<hr></div>
 						{% endif %}
@@ -142,6 +120,7 @@ layout: wrapper
 				{% endif %}
 
 			</div>
+			<!-- Spacing on the bottom of the page -->
 			{% unless chapter.latin == page.chapters.last.latin %}
 				<br><br>
 			{% endunless %}
