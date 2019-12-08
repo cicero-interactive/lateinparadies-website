@@ -120,10 +120,9 @@ layout: wrapper
 						{% endif %}
 					{% endfor %}
 				{% endif %}
-
 			</div>
-			<!-- Spacing on the bottom of the page -->
-			{% unless chapter.latin == page.chapters.last.latin %}
+			<!-- Spacing on the bottom of the chapter -->
+			{% unless chapter.id == page.chapters.last.id %}
 				<br><br>
 			{% endunless %}
 		{% endfor %}
