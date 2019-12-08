@@ -1,5 +1,5 @@
 module ChapterProcessingFilter
-	def process_chapters(chapterArray)
+	def process_chapters(chapterArray, page)
 		chapterNumber = 0
 
 		if chapterArray
@@ -19,14 +19,14 @@ module ChapterProcessingFilter
 				end
 
 				# Assign display name
-				if chapter["chapter-name"] == nil
-					chapter["chapter-name"] = "Kapitel"
+				if page["chapter-name"] == nil
+					page["chapter-name"] = "Kapitel"
 				end
 				if chapter["number"] && chapter["number"] != "/"
 					if chapter["number"] == 0
 						chapter["display-name"] = "Prolog"
 					else
-						chapter["display-name"] = chapter["chapter-name"] + " " + chapter["number"].to_s
+						chapter["display-name"] = page["chapter-name"] + " " + chapter["number"].to_s
 					end
 				end
 				if chapter["name"] && chapter["name"] != "/"

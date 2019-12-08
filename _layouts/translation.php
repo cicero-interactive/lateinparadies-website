@@ -3,7 +3,7 @@ layout: wrapper
 ---
 
 <!-- Process chapters, add missing information -->
-{% assign page.chapters = page.chapters | process_chapters %}
+{% assign page.chapters = page.chapters | process_chapters: page %}
 
 
 <main>
