@@ -8,12 +8,16 @@
 
 			<!-- TODO: comments and clean-up -->
 			{% if page.chapters.size <= 1 %}
+				{% assign processedSpansOfSections = 0 %}
 				{% assign lastSpanOfSectionsBeginningIndex = 0 %}
 				{% assign lastSectionIndex = -2 %}
 				{% for section in chapter.sections %}
 					{% assign lastSectionIndex = lastSectionIndex | plus: 1 %}
 					{% if section.style == "verse-missing" or section.id == chapter.sections.last.id and section.style == "poem" %}
 						{% if section.id == chapter.sections.last.id %}
+							{% if processedSpansOfSections == 0 %}
+								{% continue %}
+							{% endif %}
 							{% assign lastSectionIndex = lastSectionIndex | plus: 1 %}
 						{% endif %}
 						{% if chapter.sections[lastSectionIndex].id and chapter.sections[lastSectionIndex].id != "/" and chapter.sections[lastSectionIndex].id-display and chapter.sections[lastSectionIndex].id-display != "/" %}
@@ -22,6 +26,7 @@
 							</li>
 						{% endif %}
 						{% assign lastSpanOfSectionsBeginningIndex = lastSectionIndex | plus: 2 %}
+						{% assign processedSpansOfSections = processedSpansOfSections | plus: 1 %}
 					{% endif %}
 				{% endfor %}
 			{% endif %}
