@@ -17,7 +17,16 @@ layout: wrapper
 
 		{% for chapter in page.chapters %}
 			<!-- Set ID to be able to be linked from above -->
-			<div {% if chapter.display-name %}id="Ch{{ chapter.number }}"{% endif %} class="chapter">
+			<div
+				{% if chapter.display-name %}
+					{% if chapter.number and chapter.number != "/" %}
+						id="Ch{{ chapter.number }}"
+					{% elsif chapter.name and chapter.name != "/" %}
+						id="Ch{{ chapter.name }}"
+					{% endif %}
+				{% endif %}
+			class="chapter">
+
 				{% if chapter.display-name %}
 					<h2>{{ chapter.display-name }}</h2>
 				{% endif %}
@@ -44,26 +53,19 @@ layout: wrapper
 
 				<!-- If chapter consists of multiple sections -->
 				{% elsif chapter.sections %}
-					{% assign poemLine = -1 %}
 					{% for section in chapter.sections %}
 						<!-- If section contains translations -->
 						{% if section.type == nil or section.type == "translation" %}
 							<!-- If section is a poem -->
-							{% if section.style == "poem" or section.style == nil and chapter.style == "poem" %}
-								{% if section.number  == nil %}
-									{% assign poemLine = poemLine | plus: 2 %}
-								{% else %}
-									{% assign poemLine = section.number %}
-								{% endif %}
-
+							{% if section.style == "poem" %}
 								{% if chapter.poem-style == nil or chapter.poem-style == "wide" %}
 									{% assign suffix = "<span class='ShowOnBigScreen'></span>" %}
 								{% elsif chapter.poem-style == "thin" %}
 									{% assign suffix = "<br>" %}
 								{% endif %}
-								<div class="poem-item">
+								<div id="{{ section.id }}" class="poem-item">
 									<p>
-										{{ poemLine }}
+										{{ section.number }}
 									</p>
 									<div></div>
 									<p>
@@ -93,7 +95,7 @@ layout: wrapper
 									<p></p>
 								</div>
 							<!-- If section is default chapter-based -->
-							{% elsif section.style == nil or section.style == "default" %}
+							{% elsif section.style == "default" %}
 								<div class="chapter-item">
 									<p>
 										{{ section.latin }}

@@ -188,7 +188,8 @@ chapters:
           wie viele Sterne der Himmel hat: So viele Mädchen hat dein Rom.
           Die Mutter ließ sich in Äneas' Stadt nieder.
       - style: verse-missing
-      - latin: |
+      - number: 79
+        latin: |
           Et fora conveniunt (quis credere possit?) amori:
           Flammaque in arguto saepe reperta foro:
         german: |
@@ -465,12 +466,14 @@ chapters:
           stöhnt er verwundet auf, spürt den geflügelten Pfeil Amors
           und wird selbst Teil des Spektakels.
       - style: verse-missing
-      - latin: |
+      - number: 229
+        latin: |
           Dant etiam positis aditum convivia mensis:
           Est aliquid praeter vina, quod inde petas.
         german: |
           Auch Gastmähler geben Gelegenheiten mit ihren aufgestellten Tischen:
           Es gibt etwas außer dem Wein, was du dir dort wünschen könntest.
+      - latin: |
           Saepe illic positi teneris adducta lacertis
           Purpureus Bacchi cornua pressit Amor:
         german: |
@@ -537,7 +540,8 @@ chapters:
           Befrage den Tag über die Edelsteine, die purpurne Wolle,
           ihr Gesicht und ihren Körper.
       - style: verse-missing
-      - latin: |
+      - number: 475
+        latin: |
           Quid magis est saxo durum, quid mollius unda?
           Dura tamen molli saxa cavantur aqua.
         german: |          

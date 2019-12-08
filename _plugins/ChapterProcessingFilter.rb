@@ -1,10 +1,15 @@
 module ChapterProcessingFilter
 	def process_chapters(chapterArray)
-		chapterNumber = 0;
+		chapterNumber = 0
 
 		if chapterArray
-			for chapter in chapterArray do
+			if chapterArray.size > 1
+				linkChapter = true
+			else
+				linkChapter = false
+			end
 
+			for chapter in chapterArray do
 				# Assign missing chapter numbers
 				if chapter["number"] == nil
 					chapter["number"] = chapterNumber + 1;
@@ -22,7 +27,11 @@ module ChapterProcessingFilter
 					end
 				end
 				if chapter["name"] && chapter["name"] != "/"
-					chapter["display-name"] += ": " + chapter["name"]
+					if chapter["display-name"]
+						chapter["display-name"] += ": " + chapter["name"]
+					else
+						chapter["display-name"] = chapter["name"]
+					end
 				end
 
 				# Assign missing footnote numbers
@@ -34,6 +43,71 @@ module ChapterProcessingFilter
 							footnoteNumber = footnote["number"];
 						else
 							footnoteNumber = footnote["number"];
+						end
+					end
+				end
+
+				# Assign IDs
+				if linkChapter == true
+					if chapter["number"] && chapter["number"] != "/"
+						chapter["id"] = "Ch" + chapter["number"].to_s
+						chapter["id-display"] = chapter["number"].to_s
+					elsif chapter["name"] && chapter["name"] != "/"
+						chapter["id"] = "Ch" + chapter["name"]
+						chapter["id-display"] = chapter["name"]
+					end
+				end
+
+
+				unless chapter["latin"] && chapter["german"]
+					# Assign missing section numbers
+					sectionNumber = -1
+					for section in chapter["sections"] do
+						if section["number"] == nil
+							section["number"] = sectionNumber + 2;
+							sectionNumber = section["number"];
+						else
+							sectionNumber = section["number"];
+						end
+
+						# Assign missing footnote numbers
+						if chapter["footnotes"]
+							footnoteNumber = 0;
+							for footnote in chapter["footnotes"] do
+								if footnote["number"] == nil
+									footnote["number"] = footnoteNumber + 1;
+									footnoteNumber = footnote["number"];
+								else
+									footnoteNumber = footnote["number"];
+								end
+							end
+						end
+
+						# Assign type
+						if section["type"] == nil 
+							section["type"] = "translation"
+						end
+
+						# Assign style
+						if section["style"] == nil
+							if chapter["style"] == "poem"
+								section["style"] = "poem"
+							else
+								section["style"] = "default"
+							end
+						end
+
+						# Assign IDs
+						if section["type"] == "translation"
+							if section["number"] && section["number"] != "/"
+								section["id"] = "Vr" + section["number"].to_s
+								section["id-display"] = section["number"].to_s
+							end
+						elsif section["type"] == "story"
+							if section["name"] && section["name"] != "/"
+								section["id"] = "Ch" + section["name"]
+								section["id-display"] = section["name"]
+							end
 						end
 					end
 				end
