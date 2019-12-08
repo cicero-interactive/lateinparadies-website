@@ -3,6 +3,7 @@ layout: translation
 title: Martial&#58; Epigramme Übersetzungen (Buch I)
 title_nav: Epigramme (Buch I)
 heading: Martial&#58; Epigramme
+chapter-name: Epigramm
 chapters:
   - number: 0
     sections:
