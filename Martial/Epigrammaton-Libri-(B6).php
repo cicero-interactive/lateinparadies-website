@@ -3,6 +3,7 @@ layout: translation
 title: Martial&#58; Epigramme Übersetzungen (Buch VI)
 title_nav: Epigramme (Buch VI)
 heading: Martial&#58; Epigramme
+chapter-name: Epigramm
 chapters:
   - number: 60
     style: poem

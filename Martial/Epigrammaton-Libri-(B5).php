@@ -3,6 +3,7 @@ layout: translation
 title: Martial&#58; Epigramme Übersetzungen (Buch V)
 title_nav: Epigramme (Buch V)
 heading: Martial&#58; Epigramme
+chapter-name: Epigramm
 chapters:
   - number: 45
     style: poem

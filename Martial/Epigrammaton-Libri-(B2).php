@@ -3,6 +3,7 @@ layout: translation
 title: Martial&#58; Epigramme Übersetzungen (Buch II)
 title_nav: Epigramme (Buch II)
 heading: Martial&#58; Epigramme
+chapter-name: Epigramm
 chapters:
   - number: 88
     style: poem

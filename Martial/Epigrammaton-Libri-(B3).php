@@ -3,6 +3,7 @@ layout: translation
 title: Martial&#58; Epigramme Übersetzungen (Buch III)
 title_nav: Epigramme (Buch III)
 heading: Martial&#58; Epigramme
+chapter-name: Epigramm
 chapters:
   - number: 8
     style: poem
