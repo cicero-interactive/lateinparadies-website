@@ -26,6 +26,7 @@ counter: https://www.webfreecounter.com/hit.php?id=zuuumxnkf&nd=9&style=44
 	<div class="sectionLinksTranslation" style="margin-bottom: 50px;">
 		<ul>
 			<li><a href="Caesar.php">Cäsar</a></li>
+			<li><a href="Catull.php">Catull</a></li>
 			<li><a href="Cicero.php">Cicero</a></li>
 			<li><a href="Gregor-der-Grosse.php">Gregor der Große</a></li>
 			<li><a href="Jacobus-de-Voragine.php">Jacobus de Voragine</a></li>
