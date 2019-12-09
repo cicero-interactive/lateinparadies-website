@@ -28,5 +28,5 @@
     {% endif %}
 
     <br>
-    Fehler gefunden? Kontaktieren Sie uns unter: <a href="mailto:lateinparadies.de.cool@gmail.com">lateinparadies.de.cool@gmail.com</a>!
+    Fehler gefunden? Melde ihn bitte auf <a href="https://github.com/Cicero-Interactive/Lateinparadies/issues">GitHub</a> oder kontaktiere uns unter unserer <a href="mailto:lateinparadies.de.cool@gmail.com">E-Mail-Adresse</a>!
 </div>
