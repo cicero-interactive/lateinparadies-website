@@ -12,10 +12,10 @@ module ChapterProcessingFilter
 			for chapter in chapterArray do
 				# Assign missing chapter numbers
 				if chapter["number"] == nil
-					chapter["number"] = chapterNumber + 1;
-					chapterNumber = chapter["number"];
+					chapter["number"] = chapterNumber + 1
+					chapterNumber = chapter["number"]
 				else
-					chapterNumber = chapter["number"];
+					chapterNumber = chapter["number"]
 				end
 
 				# Assign display name
@@ -39,13 +39,13 @@ module ChapterProcessingFilter
 
 				# Assign missing footnote numbers
 				if chapter["footnotes"]
-					footnoteNumber = 0;
+					footnoteNumber = 0
 					for footnote in chapter["footnotes"] do
 						if footnote["number"] == nil
-							footnote["number"] = footnoteNumber + 1;
-							footnoteNumber = footnote["number"];
+							footnote["number"] = footnoteNumber + 1
+							footnoteNumber = footnote["number"]
 						else
-							footnoteNumber = footnote["number"];
+							footnoteNumber = footnote["number"]
 						end
 					end
 				end
@@ -63,29 +63,9 @@ module ChapterProcessingFilter
 
 
 				unless chapter["latin"] && chapter["german"]
-					# Assign missing section numbers
-					sectionNumber = -1
+					sectionNumber = 0
+					lastSectionLines = 0
 					for section in chapter["sections"] do
-						if section["number"] == nil
-							section["number"] = sectionNumber + 2;
-							sectionNumber = section["number"];
-						else
-							sectionNumber = section["number"];
-						end
-
-						# Assign missing footnote numbers
-						if chapter["footnotes"]
-							footnoteNumber = 0;
-							for footnote in chapter["footnotes"] do
-								if footnote["number"] == nil
-									footnote["number"] = footnoteNumber + 1;
-									footnoteNumber = footnote["number"];
-								else
-									footnoteNumber = footnote["number"];
-								end
-							end
-						end
-
 						# Assign type
 						if section["type"] == nil 
 							section["type"] = "translation"
@@ -97,6 +77,34 @@ module ChapterProcessingFilter
 								section["style"] = "poem"
 							else
 								section["style"] = "default"
+							end
+						end
+
+						# Assign missing section numbers
+						if section["style"] == "poem"
+							if section["number"] == nil
+								if section["latin"] and sectionNumber > 0
+									section["number"] = sectionNumber + lastSectionLines
+								else
+									section["number"] = sectionNumber + 1
+								end
+								sectionNumber = section["number"]
+							else
+								sectionNumber = section["number"]
+							end
+							lastSectionLines = section["latin"].lines.count
+						end
+
+						# Assign missing footnote numbers
+						if chapter["footnotes"]
+							footnoteNumber = 0
+							for footnote in chapter["footnotes"] do
+								if footnote["number"] == nil
+									footnote["number"] = footnoteNumber + 1
+									footnoteNumber = footnote["number"]
+								else
+									footnoteNumber = footnote["number"]
+								end
 							end
 						end
 
