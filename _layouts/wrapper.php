@@ -15,7 +15,7 @@
 		<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 		<script src="{{ site.baseurl }}/assets/js/breadcrumb_cleaner.js"></script>-->
 		<meta charset="utf-8">
-		<!----><script type="text/javascript" src="http://livejs.com/live.js"></script><!---->
+		<!--<script type="text/javascript" src="http://livejs.com/live.js"></script>-->
 	</head>
 	
 	<body>
