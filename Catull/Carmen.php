@@ -45,6 +45,21 @@ chapters:
         werden wir jene durcheinanderwerfen, damit wir nicht wissen,
         oder uns kein Schlechter beneiden kann,
         wenn er nur weiß, dass es so und so viele Küsse sind.
+  - number: 87
+    style: poem
+    sections:
+      - latin: |
+          Nulla potest mulier tantum se dicere amatam
+          vere, quantum a me Lesbia amata mea est.
+        german: |
+          Keine Frau kann wahrhaftig sagen, dass sie so sehr geliebt worden ist,
+          wie meine Lesbia von mir geliebt worden ist.
+      - latin: |
+          Nulla fides ullo fuit umquam foedere tanta,
+          quanta in amore tuo ex parte reperta mea est.
+        german: |
+          Keine Treue ist jemals in irgendeinem Bündnis so groß gewesen,
+          wie sie in der Liebe zu dir von meiner Seite aus empfunden worden ist.
 source_latin: https://www.thelatinlibrary.com/catullus.shtml
 counter: https://www.webfreecounter.com/hit.php?id=gurxffpa&nd=9&style=44
 ---
