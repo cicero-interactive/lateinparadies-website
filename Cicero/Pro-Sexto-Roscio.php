@@ -1,9 +1,10 @@
 ---
 layout: translation
+id: a050c4ded6f86c519cd71671d5c60cd514d669b5
 title: Cicero&#58; Pro Sextio Roscio Übersetzung
 title_nav: Pro Sextio Roscio
 heading: Cicero&#58; Pro Sextio Roscio
-chapters: 
+chapters:
   - number: 46
     latin: >-
       Delum venit. Ibi ex fano Apollinis religiosissimo noctu clam sustulit signa pulcherrima atque antiquissima, eaque in onerariam navem. suam conicienda curavit. Postridie cum fanum spoliatum viderent ii qui Delum incolebant, graviter ferebant; est enim tanta apud eos eius fani religio atque antiquitas ut in eo loco ipsum Apollinem natum esse arbitrentur. Verbum tamen facere non audebant, ne forte ea res ad Dolabellam ipsum pertineret. Tum subito tempestates coortae sunt maximae, iudices, ut non modo proficisci cum cuperet Dolabella non posset sed vix in oppido consisteret: ita magni fluctus eiciebantur. Hic navis illa praedonis istius, onusta signis religiosis, expulsa atque eiecta fluctu frangitur; in litore signa illa Apollinis reperiuntur; iussu Dolabellae reponuntur. Tempestas sedatur, Dolabella Delo proficiscitur. 

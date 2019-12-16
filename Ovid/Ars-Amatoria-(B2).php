@@ -1,5 +1,6 @@
 ---
 layout: translation
+id: 0af161b9566f73288cbd71df5c2c31d8b9575d8e
 title: Ovid&#58; Ars Amatoria Übersetzung (Buch II)
 title_nav: Ars Amatoria (Buch II)
 heading: Ovid&#58; Ars Amatoria

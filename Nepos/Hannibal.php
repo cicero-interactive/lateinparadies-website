@@ -1,5 +1,6 @@
 ---
 layout: translation
+id: f8c48863918a7a3e1246ae3e6e9f97c5fa07348d
 title: Nepos&#58; Hannibal Übersetzung
 title_nav: Hannibal
 heading: Nepos&#58; Hannibal

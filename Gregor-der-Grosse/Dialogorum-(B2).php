@@ -1,5 +1,6 @@
 ---
 layout: translation
+id: 89984808a5aabf3c122058876c499ea6c3314ee5
 title: Gregor der Große&#58; Dialogorum Übersetzung (Buch II)
 title_nav: Dialogorum (Buch II)
 heading: Gregor der Große&#58; Dialogorum (Buch II)

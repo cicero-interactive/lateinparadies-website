@@ -1,5 +1,6 @@
 ---
 layout: translation
+id: 10c7a4449c05b3dc8556fba363c614713ab7f062
 title: Martial&#58; Epigramme Übersetzungen (Buch VI)
 title_nav: Epigramme (Buch VI)
 heading: Martial&#58; Epigramme

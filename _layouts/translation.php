@@ -129,3 +129,4 @@ layout: wrapper
 	</div>
 </main>
 {% include translation-sources.php %}
+{% include comments.php %}

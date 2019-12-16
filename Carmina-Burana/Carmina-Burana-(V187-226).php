@@ -1,5 +1,6 @@
 ---
 layout: translation
+id: 85cff79a262803e7c3d711cbd75e2ccee6fe8e04
 title: Carmina Burana Übersetzung (Kapitel 187-226)
 title_nav: Kapitel 187-186 (Trink- und Spielerlieder)
 heading: Carmina Burana

@@ -1,5 +1,6 @@
 ---
 layout: translation
+id: 4cb978e6122ec9feced71195f26a1d3ec1ced82c
 title: Carmina Burana Übersetzung (Kapitel 1-55)
 title_nav: Kapitel 56-186 (Liebeslieder)
 heading: Carmina Burana

@@ -1,5 +1,6 @@
 ---
 layout: translation
+id: 30d0efb63c483da40a6085fa674c633a33bd1ea1
 title: Martial&#58; Epigramme Übersetzungen (Buch I)
 title_nav: Epigramme (Buch I)
 heading: Martial&#58; Epigramme

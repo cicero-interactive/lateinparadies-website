@@ -1,5 +1,6 @@
 ---
 layout: translation
+id: d616827abd2a54e169f422972ac658fdb902032c
 title: Carmina Burana Übersetzung (Kapitel 227-228)
 title_nav: Kapitel 227-228 (geistliche Dramen)
 heading: Carmina Burana

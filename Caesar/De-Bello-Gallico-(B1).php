@@ -1,5 +1,6 @@
 ---
 layout: translation
+id: 5a37e501b4cdf930cf5d24ca9590b46f7ceda34b
 title: Cäsar&#58; De Bello Gallico Übersetzung (Buch I)
 title_nav: De Bello Gallico (Buch I)
 heading: Cäsar&#58; De Bello Gallico

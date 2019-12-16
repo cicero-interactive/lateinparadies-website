@@ -1,5 +1,6 @@
 ---
 layout: translation
+id: d25b34d553a09ba859695c21ac60fd77c7ac5f0c
 title: Martial&#58; Epigramme Übersetzungen (Buch III)
 title_nav: Epigramme (Buch III)
 heading: Martial&#58; Epigramme

@@ -1,5 +1,6 @@
 ---
 layout: translation
+id: dde6729d07663e381c6635bd0cb9af97fcd928c5
 title: Carmina Burana Übersetzung (Kapitel 1-55)
 title_nav: Kapitel 1-55 (moralisch-satirische Dichtungen)
 heading: Carmina Burana
