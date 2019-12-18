@@ -1,3 +1,12 @@
+<div id="alertCookies" class="alert alertYellow" style="position: sticky; top: 8px;">
+    <span class="closebtn" onclick="this.parentElement.style.display='none'; setCookie('closedAlertCookies', true, 1000);">&times;</span>
+    Um Ihnen ein besseres Nutzererlebnis zu bieten, verwenden wir Cookies. Durch Nutzung unserer Dienste stimmen Sie unserer Verwendung von Cookies zu. <a href="{{ site.baseurl }}/Datenschutzerklaerung.php">Weitere Informationen</a>
+</div>
+<script>
+    if (checkCookie("closedAlertCookies")) {
+        document.getElementById("alertCookies").style.display = "none";
+    }
+</script>
 <div class="alert alertBlue">
     <!--<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>-->
     <!--Cicero Interactive bedankt sich bei all den großzügigen Spendern,
@@ -9,7 +18,7 @@
 <div class="alert alertRed">
     <!--<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>-->
     Durch ein technisches Problem wurden alle "ä"-, "ö"- und "ü"-Zeichen in Kleinbuchstaben konvertiert.
-    Trotz detaillierter Fehlersuche kann es sein, dass ein paar übersehen wurden. Sollte Dir ein solcher Fehler auffallen, melde ihn bitte auf <a href="https://github.com/Cicero-Interactive/Lateinparadies/issues">GitHub</a> oder kontaktiere uns unter unserer <a href="mailto:lateinparadies.de.cool@gmail.com">E-Mail-Adresse</a>.
+    Trotz detaillierter Fehlersuche kann es sein, dass ein paar übersehen wurden. Sollte Dir ein solcher Fehler auffallen, melde ihn bitte auf <a href="https://github.com/Cicero-Interactive/Lateinparadies/issues">GitHub</a> oder kontaktiere uns unter unserer <a href="mailto:{{ site.email }}">E-Mail-Adresse</a>.
 </div>
 <div class="alert alertGreen">
     <!--<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>-->

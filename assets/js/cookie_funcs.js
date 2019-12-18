@@ -23,9 +23,9 @@ function getCookie(cname) {
 
 function checkCookie(cname) {
   var result = getCookie(cname);
-  if (result == "") {
-    return(false)
+  if (result == "" | result == null) {
+    return(false);
   } else {
-     return(true)
+     return(true);
   }
 }
