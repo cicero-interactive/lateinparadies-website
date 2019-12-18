@@ -13,7 +13,7 @@ counter: https://www.webfreecounter.com/hit.php?id=zeuxnko&nd=9&style=44
 		84381 Johanniskirchen</p><br>
 	<h2>Kontakt:</h2>
 	<p>Telefon: 08564 963480<br>
-		E-Mail: <a href="mailto:lateinparadies.de.cool@gmail.com">lateinparadies.de.cool@gmail.com</a></p><br>
+		E-Mail: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p><br>
 	<h2>Haftung f&uuml;r Inhalte</h2>
 	<p>Als Diensteanbieter sind wir gem&auml;&szlig; &sect; 7 Abs.1 TMG f&uuml;r eigene Inhalte auf diesen Seiten nach den
 		allgemeinen Gesetzen verantwortlich. Nach &sect;&sect; 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht

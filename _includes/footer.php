@@ -16,7 +16,7 @@
 			<li>-</li>
 			<li><a href="{{ site.baseurl }}/Kontakt.php">Kontakt</a></li>
 		</div>-->
-		Fragen oder Verbesserungsvorschläge? Kontaktieren Sie uns unter: <a href="mailto:{{ site.email }}">{{ site.email }}</a>!
+		Fragen oder Verbesserungsvorschläge? Kontaktiere uns unter: <a href="mailto:{{ site.email }}">{{ site.email }}</a>!
 	</div>
 	<div>
 		Besuche dieser Seite:<br>
