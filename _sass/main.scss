@@ -8,6 +8,10 @@ body {
 	font-family: Times New Roman;
 	color: $color_font;
 	font-size: 18px;
+
+	>div>* {
+		box-shadow: 2px 2px 8px 1px rgba(0, 0, 0, 0.3);
+	}
 }
 
 table, th, td {
@@ -21,8 +25,13 @@ a {
 	text-decoration: none;
 
 	&:hover {
-		color: $color_link_orange_hover;
+		text-decoration: underline;
 	}
+}
+
+hr {
+	border-top: 1px solid rgb(90, 90, 90);
+	border-bottom: 1px solid rgb(191, 191, 191);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -54,6 +63,18 @@ h6 {
 	font-size: 1.18em;
 }
 
+
+:focus-visible {
+	outline: 4px solid;
+	outline-offset: 1px;
+	-moz-outline-radius: 10px;
+}
+::-moz-focus-inner {
+	border: 0;
+}
+:active {
+	outline: none;
+}
 
 // SITE STRUCTURE
 
@@ -116,10 +137,10 @@ nav {
 
 		a {
 			color: $color_link_grey;
-			text-decoration: none;
 
 			&:hover {
 				color: $color_link_grey_hover;
+				text-decoration: none;
 			}
 		}
 	}
@@ -143,13 +164,13 @@ footer {
 	color: $color_grey;
 	background-image: url($baseurl + "/assets/img/color_purple.png");
 
-	>div:nth-child(2) a {
+	/*>div:nth-child(2) a {
 		color: $color_link_blue;
 
 		&:hover {
 			color: $color_link_blue_hover;
 		}
-	}
+	}*/
 	.copyright {
 		color: #ffffff;
 		font-size: 1.12em;
@@ -384,12 +405,24 @@ div.td {
 	background-image: url($baseurl + "/assets/img/color_blue.png");
 	text-align: center;
 
-	a {
+	/*a {
 		color: $color_link_blue;
 
 		&:hover {
 			color: $color_link_blue_hover;
 		}
+	}*/
+}
+
+.comments {
+	margin-top: 2px;
+	padding: 10px 10px;
+	background-image: url($baseurl + "/assets/img/color_blue.png");
+	text-align: center;
+
+	.disqus {
+		max-width: 1050px;
+		margin: auto;
 	}
 }
 
@@ -568,6 +601,10 @@ div.td {
 }
 .alertYellow {
 	background-color: #ff9800;
+	a {
+		color: $color_link_blue;
+		text-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px,
+	}
 }
 .alertGreen {
 	background-color: #4CAF50;
@@ -577,18 +614,18 @@ div.td {
 }
 
 .closebtn {
-	margin-left: 15px;
+	margin-right: -10px;
+	padding: 3px 15px;
 	color: white;
 	font-weight: bold;
 	float: right;
-	font-size: 1.3em;
-	line-height: 20px;
+	font-size: 2em;
 	cursor: pointer;
-	transition: 0.3s;
+
+	&:hover {
+		color: black;
+	}
 }
-.closebtn:hover {
-	color: black;
-} 
 
 
 
