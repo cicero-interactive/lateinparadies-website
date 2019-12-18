@@ -23,10 +23,12 @@
 		<div class="background ShowOnSmallScreen"></div>
 		<div style="width: 100%; max-width: 1100px; margin: auto;">
 			{% include alerts.php %}
-			{% include header.php %}
-			{% include nav.php %}
-			{{ content }}
-			{% include footer.php %}
+			<div id="main">
+				{% include header.php %}
+				{% include nav.php %}
+				{{ content }}
+				{% include footer.php %}
+			</div>
 		</div>
 	</body>
 </html>
