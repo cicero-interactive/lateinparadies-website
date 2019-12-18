@@ -22,7 +22,7 @@
 		Besuche dieser Seite:<br>
 		<a href="https://www.webfreecounter.com/" target="_blank"><img src="{{ page.counter }}" alt="hit counter"></a>
 	</div>
-	<div class="ShowOnSmallScreen"">
+	<div class="ShowOnSmallScreen">
 		<span class="copyright">
 			Copyright © 2016 - 2019 <a href="https://cicero-interactive.de.cool/" target="_blank">Cicero Interactive</a>.
 		</span>
