@@ -23,7 +23,7 @@ function getCookie(cname) {
 
 function checkCookie(cname) {
   var result = getCookie(cname);
-  if (result == "" | result == null) {
+  if (result == "") {
     return(false);
   } else {
      return(true);
