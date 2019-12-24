@@ -595,15 +595,19 @@ div.td {
 	color: white;
 	margin-bottom: 15px;
 	font-size: 0.9em;
+
+	a {
+		text-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px,
+	}
 }
 .alertRed {
 	background-color: #f44336;
 }
 .alertYellow {
 	background-color: #ff9800;
+
 	a {
 		color: $color_link_blue;
-		text-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px,
 	}
 }
 .alertGreen {
