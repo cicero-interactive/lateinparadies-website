@@ -254,6 +254,19 @@ div.td {
 	font-size: 1.18em;
 }
 
+.button {
+	padding: 5px;
+	border: 2px solid $color_orange;
+	border-radius: 5px;
+	display: inline-block;
+
+	&:hover {
+		text-decoration: none;
+		color: $color_font;
+		border: 2px solid $color_font;
+	}
+}
+
 .sectionLinksTranslation {
 	font-weight: bold;
 
@@ -281,7 +294,7 @@ div.td {
 	ul {
 		margin-top: 0px;
 		padding: 0px;
-	}
+	}	
 	li {
 		display: inline-block;
 	}
