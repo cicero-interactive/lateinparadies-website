@@ -17,11 +17,11 @@ layout: non-translation
 					{% if file.title_nav == "/"%}
 						{% continue %}
 					{% endif %}
-					<li style="width: 60%"><a href="{{ file.url }}">{{ file.title_nav }}</a></li>
+					<li style="width: 60%"><a href="{{ file.url | remove_first: "/" }}">{{ file.title_nav }}</a></li>
 				{% elsif file.title %}
-					<li style="width: 60%"><a href="{{ file.url }}">bb</a></li>
+					<li style="width: 60%"><a href="{{ file.url | remove_first: "/" }}">{{ file.title }}</a></li>
 				{% else %}
-					<li style="width: 60%"><a href="{{ file.url }}">{{ file.name | replace: '-', ' ' | replace: '.php', '' }}</a></li>
+					<li style="width: 60%"><a href="{{ file.url | remove_first: "/" }}">{{ file.name | replace: '-', ' ' | replace: '.php', '' }}</a></li>
 				{% endif %}
 			{% endif %}
 		{% endfor %}
