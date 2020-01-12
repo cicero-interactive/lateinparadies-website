@@ -1,5 +1,5 @@
 <li><a href="{{ site.baseurl }}/">Home</a></li>
-{% capture page_urls %}{{  page.url | remove: "/index.html"  }}{% endcapture %}
+{% capture page_urls %}{{ page.url | remove: "/index.php" }}{% endcapture %}
 {% assign splitted_url_parts = page_urls | split: '/' %}
 {% for url_part in splitted_url_parts %}
 	{% if url_part == site.baseurl %}
@@ -23,7 +23,7 @@
 			{% elsif page.title %}
 				{% capture last_breadcrumb %}{{ page.title }}{% endcapture %}
 			{% else %}
-				{% capture last_breadcrumb %}{{ url_part | remove: ".html" }}{% endcapture %}
+				{% capture last_breadcrumb %}{{ url_part | remove: ".php" }}{% endcapture %}
 			{% endif %}
 			<li>
 				<a href="{{ previous_url }}/{{ url_part }}">{{ last_breadcrumb }}</a>
