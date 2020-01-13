@@ -19,10 +19,10 @@
     <!--<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>-->
     Durch ein technisches Problem wurden alle "ä"-, "ö"- und "ü"-Zeichen in Kleinbuchstaben konvertiert.
     Trotz detaillierter Fehlersuche kann es sein, dass ein paar übersehen wurden. Sollte dir ein solcher Fehler auffallen, melde ihn bitte auf
-    <a href="https://github.com/Cicero-Interactive/Lateinparadies/issues" target="_blank">GitHub</a> oder kontaktiere uns unter unserer <a href="mailto:{{ site.email }}">E-Mail-Adresse</a>.
+    <a href="{{ site.github-issues }}" target="_blank">GitHub</a> oder kontaktiere uns unter unserer <a href="mailto:{{ site.email }}">E-Mail-Adresse</a>.
 </div>
 <div class="alert alertGreen">
     <!--<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>-->
     Das Lateinparadies wurde großflächig geupdatet! Die Änderungen seht ihr <a href="https://cicero-interactive.de.cool/news.php" target="_blank">hier</a>.
-    Außerdem sind wir nun open-source! Verfolgt die Entwicklung auf <a href="https://github.com/Cicero-Interactive/Lateinparadies" target="_blank">GitHub</a>.
+    Außerdem sind wir nun open-source! Verfolgt die Entwicklung auf <a href="{{ site.github }}" target="_blank">GitHub</a>.
 </div>
