@@ -3,27 +3,27 @@ layout: non-translation
 ---
 
 <div class="big4">
-	{% if page.author %}
+	{%- if page.author -%}
 		Wähle den gewünschten {{ page.author | replace: ' ', '-' }}-Text:
-	{% else %}
+	{%- else -%}
 		Wähle den gewünschten Abschnitt:
-	{% endif %}
+	{%- endif -%}
 </div>
 <div class="sectionLinksTranslation">
 	<ul>
-		{% for file in site.pages %}
-			{% if file.path contains page.dest_path %}
-				{% if file.title_nav %}
-					{% if file.title_nav == "/"%}
-						{% continue %}
-					{% endif %}
+		{%- for file in site.pages -%}
+			{%- if file.path contains page.dest_path -%}
+				{%- if file.title_nav -%}
+					{%- if file.title_nav == "/"-%}
+						{%- continue -%}
+					{%- endif -%}
 					<li style="width: 60%"><a href="{{ file.url | remove_first: "/" }}">{{ file.title_nav }}</a></li>
-				{% elsif file.title %}
+				{%- elsif file.title -%}
 					<li style="width: 60%"><a href="{{ file.url | remove_first: "/" }}">{{ file.title }}</a></li>
-				{% else %}
+				{%- else -%}
 					<li style="width: 60%"><a href="{{ file.url | remove_first: "/" }}">{{ file.name | replace: '-', ' ' | replace: '.php', '' }}</a></li>
-				{% endif %}
-			{% endif %}
-		{% endfor %}
+				{%- endif -%}
+			{%- endif -%}
+		{%- endfor -%}
 	</ul>
 </div>

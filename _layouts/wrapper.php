@@ -2,11 +2,11 @@
 <html>
 	<head>
 		<title>
-			{% if page.title == site.title-home %}
+			{%- if page.title == site.title-home -%}
 				{{ site.title-home }}
-			{% else %}
+			{%- else -%}
 				{{ page.title }} | {{site.title}}
-			{% endif %}
+			{%- endif -%}
 		</title>
 		<link rel="icon" href="{{ site.baseurl }}/assets/img/favicon.ico">
 		<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/stylesheet.css">
@@ -22,12 +22,12 @@
 	<body>
 		<div class="background ShowOnSmallScreen"></div>
 		<div style="width: 100%; max-width: 1100px; margin: auto;">
-			{% include alerts.php %}
+			{%- include alerts.php -%}
 			<div id="main">
-				{% include header.php %}
-				{% include nav.php %}
+				{%- include header.php -%}
+				{%- include nav.php -%}
 				{{ content }}
-				{% include footer.php %}
+				{%- include footer.php -%}
 			</div>
 		</div>
 	</body>
