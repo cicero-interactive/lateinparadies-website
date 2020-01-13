@@ -147,6 +147,7 @@ nav {
 }
 
 main {
+	display: block; // For IE, which doesn't know the "main" tag
 	background-image: url($baseurl + "/assets/img/color_blue.png");
 	text-align: center;
 	padding: 30px 15px 50px 15px;
