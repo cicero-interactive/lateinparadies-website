@@ -96,9 +96,9 @@ module ChapterProcessingFilter
 						end
 
 						# Assign missing footnote numbers
-						if chapter["footnotes"]
+						if section["footnotes"]
 							footnoteNumber = 0
-							for footnote in chapter["footnotes"] do
+							for footnote in section["footnotes"] do
 								if footnote["number"] == nil
 									footnote["number"] = footnoteNumber + 1
 									footnoteNumber = footnote["number"]

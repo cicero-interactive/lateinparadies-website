@@ -103,7 +103,7 @@ layout: wrapper
 									<div></div>
 									<p>
 										{{ section.german }}
-										{% if chapter.footnotes != nil %}
+										{% if section.footnotes != nil %}
 											<br><br>
 											<span class="footnotes">
 												{% for footnote in section.footnotes %}
