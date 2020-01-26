@@ -12,7 +12,7 @@ layout: wrapper
 
 	<div style="margin: auto">
 		{%- if page.chapters == nil -%}
-			<div class="alert alertYellow" style="max-width: 600px; margin: -30px auto 10px auto;">Diese Seite Seite ist momentan im Aufbau. Versuche es bitte in ein paar Tagen erneut!</div>
+			<div class="alert alertYellow" style="max-width: 650px; margin: -30px auto 10px auto;">Diese Seite Seite befindet sich momentan im Aufbau. Versuche es bitte in ein paar Tagen erneut!</div>
 		{%- endif -%}
 
 		{%- for chapter in page.chapters -%}
