@@ -25,4 +25,5 @@
     <!--<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>-->
     Das Lateinparadies wurde großflächig geupdatet! Die Änderungen seht ihr <a href="https://cicero-interactive.de.cool/news.php" target="_blank">hier</a>.
     Außerdem sind wir nun open-source! Verfolgt die Entwicklung auf <a href="{{ site.github }}" target="_blank">GitHub</a>.
+    Die  <a href="{{ site.baseurl }}/legacy/">alte Version</a> der Website existiert noch, falls jemand mit der neuen Probleme hat.
 </div>
