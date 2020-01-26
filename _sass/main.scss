@@ -78,6 +78,34 @@ h6 {
 
 // SITE STRUCTURE
 
+.alert {
+	padding: 20px;
+	color: white;
+	margin-bottom: 15px;
+	font-size: 0.9em;
+
+	a {
+		text-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px,
+	}
+}
+.alertRed {
+	background-color: #f44336;
+}
+.alertYellow {
+	background-color: #ff9800;
+
+	a {
+		color: $color_link_blue;
+	}
+}
+.alertGreen {
+	background-color: #4CAF50;
+}
+.alertBlue {
+	background-color: #2196F3;
+}
+
+
 header {
 	background-image: url($baseurl + "/assets/img/color_purple.png");
 	height: 150px;
@@ -265,6 +293,62 @@ div.td {
 		text-decoration: none;
 		color: $color_font;
 		border: 2px solid $color_font;
+	}
+}
+
+.infobox {
+	max-width: 900px;
+	margin: auto;
+	margin-bottom: 20px;
+	padding: 4px;
+	text-align: left;
+	border-radius: 10px;
+	background-color: rgba(0, 153, 255, 0.5);
+	box-shadow: 2px 2px 8px 1px rgba(0, 0, 0, 0.3);
+
+	&::after {
+		content: "";
+		clear: both;
+		display: block;
+	}
+
+	&__picture {
+		margin: 2px 7px 2px 2px;
+		width: 120px;
+		height: 165px;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+		float: left;
+		border-radius: 5px;
+		box-shadow: 2px 2px 8px 1px rgba(0, 0, 0, 0.1);
+	}
+
+	&__right {
+		&__title {
+			padding: 0px 5px 0px 5px;
+			margin-top: 0px;
+
+			hr {
+				display: block;
+				margin: 0px -7px;
+				border-top: 1px solid rgb(90, 90, 90);
+				border-bottom: 1px solid rgb(191, 191, 191);
+			}
+			p {
+				margin: auto;
+			}
+		}
+		&__content {
+			padding: 0px 5px;
+			color: rgb(215, 215, 215);
+			text-align: justify;
+
+			p {
+				margin: auto;
+				padding-top: 3px;
+			}
+		}
 	}
 }
 
@@ -603,33 +687,6 @@ div.td {
 
 
 
-
-.alert {
-	padding: 20px;
-	color: white;
-	margin-bottom: 15px;
-	font-size: 0.9em;
-
-	a {
-		text-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px,
-	}
-}
-.alertRed {
-	background-color: #f44336;
-}
-.alertYellow {
-	background-color: #ff9800;
-
-	a {
-		color: $color_link_blue;
-	}
-}
-.alertGreen {
-	background-color: #4CAF50;
-}
-.alertBlue {
-	background-color: #2196F3;
-}
 
 .closebtn {
 	margin-right: -10px;

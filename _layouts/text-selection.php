@@ -2,6 +2,8 @@
 layout: non-translation
 ---
 
+{% include infobox.php %}
+
 <div class="big4">
 	{%- if page.author -%}
 		Wähle den gewünschten {{ page.author | replace: ' ', '-' }}-Text:
