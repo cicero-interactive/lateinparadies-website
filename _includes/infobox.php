@@ -1,5 +1,5 @@
 <div class="infobox">
-	{%- assign author_photo_url = baseurl | append: "/assets/img/" | append: page.author | append: ".png" -%}
+	{%- assign author_photo_url = site.baseurl | append: "/assets/img/" | append: page.author | append: ".png" -%}
 
 	{%- capture author_photo -%}
 		{%- file_exists {{ author_photo_url }} -%}
