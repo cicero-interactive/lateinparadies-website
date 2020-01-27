@@ -1,13 +1,11 @@
 <div class="infobox">
-	{%- assign author_photo_url = site.baseurl | append: "/assets/img/" | append: page.author | append: ".png" -%}
+	<?php
+		$author_photo_url = "{{ site.basurl }}/assets/img/{{ page.author }}.png";
+		if (file_exists($_SERVER['DOCUMENT_ROOT'].$author_photo_url)) { ?>
+			<div class="infobox__picture" style="background-image: url('<?php echo $author_photo_url ?>');"></div>
+	<?php
+		} ?>
 
-	{%- capture author_photo -%}
-		{%- file_exists {{ author_photo_url }} -%}
-	{%- endcapture -%}
-	{%- if author_photo == "true" -%}
-		<div class="infobox__picture" style="background-image: url(' {{ author_photo_url }} ');"></div>
-	{%- endif -%}
-	
 	<div class="infobox__right">
 		<div class="infobox__right__title">
 			<p class="big4">
