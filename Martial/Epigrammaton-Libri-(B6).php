@@ -12,13 +12,11 @@ chapters:
       - latin: |
           Laudat, amat, cantat nostros mea Roma libellos,
           meque sinus omnes, me manus omnis habet.
-        german: |
-          Mein Rom lobt, liebt, singt meine Bücher,
-          mich haben alle Taschen, mich hat jede Hand.
-      - latin: |
           Ecce rubet quidam, pallet, stupet, oscitat, odit.
           Hoc uolo: nunc nobis carmina nostra placent.
         german: |
+          Mein Rom lobt, liebt, singt meine Bücher,
+          mich haben alle Taschen, mich hat jede Hand.
           Schau da, ein Gewisser errötet, erblasst, stutzt oder hasst.
           Dies will ich: Meine Gedichte gefallen mir nun.
 source_latin: https://www.thelatinlibrary.com/martial/mart6.shtml

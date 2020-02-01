@@ -17,111 +17,81 @@ chapters:
       - latin: |
           O Fortuna,
           velut Iuna
-        german: |
-          Oh Fortuna,
-          wie der Mond
-      - latin: |
           statu variabilis,
           semper crescis
-        german: |
-          veränderlich im Zustand,
-          immer wächst du
-      - latin: |
           aut decrescis;
           vita detestabilis
-        german: |
-          oder schrumpfst du,
-          das abscheuliche Leben
-      - latin: |
           nunc obdurat
           et tunc curat
-        german: |
-          ist jetzt hart
-          und sorgt sich dann
-      - latin: |
           Iudo mentis aciem,
           egestatem,
-        german: |
-          spielerisch um die Schärfe des Geistes,
-          die Armut,
-      - latin: |
           potestatem
           dissolvit ut glaciem.
         german: |
+          Oh Fortuna,
+          wie der Mond
+          veränderlich im Zustand,
+          immer wächst du
+          oder schrumpfst du,
+          das abscheuliche Leben
+          ist jetzt hart
+          und sorgt sich dann
+          spielerisch um die Schärfe des Geistes,
+          die Armut,
           die Macht
           löst es auf wie Eis.
       - style: verse-seperator
       - latin: |
           Sors inmanis
           et inanis,
-        german: |
-          Grausames und
-          eitles Schicksal,
-      - latin: |
           rota tu volubilis,
           status malus,
-        german: |
-          du rollendes Rad,
-          schlechter Zustand,
-      - latin: |
           vana salus
           semper dissolubilis,
-        german: |
-          vergängliches Heil,
-          immer auflösbar,
-      - latin: |
           obumbrata
           et velata
-        german: |
-          in Dunkel gehüllt
-          ergreifst du auch mich,
-      - latin: |
           michi quoque niteris;
           nunc per ludum
-        german: |
-          ich ertrage nun
-          durch dein
-      - latin: |
           dorsum nudum
           fero tui sceleris.
         german: |
+          Grausames und
+          eitles Schicksal,
+          du rollendes Rad,
+          schlechter Zustand,
+          vergängliches Heil,
+          immer auflösbar,
+          in Dunkel gehüllt
+          ergreifst du auch mich,
+          ich ertrage nun
+          durch dein
           verbrecherisches Spiel
           einen nackten Rücken.
       - style: verse-seperator
       - latin: |
           Sors salutis
           et virtutis
-        german: |
-          Schicksal des Heils
-          und der Tugend,
-      - latin: |
           michi nunc contraria,
           est affectus
-        german: |
-          mir jetzt feindlich,
-          ist ein Aufbäumen
-      - latin: |
           et defectus
           semper in angaria.
-        german: |
-          und eine Erschöpfung
-          immer im Frondienst.
-      - latin: |
           Hac in hora
           sine mora
-        german: |
-          In dieser Stunde,
-          ohne Verzug,
-      - latin: |
           corde pulsum tangite;
           quod per sortem
-        german: |
-          zupf die Saite;
-          weil durch das Schicksal
-      - latin: |
           sternit fortem,
           mecum omnes plangite!
         german: |
+          Schicksal des Heils
+          und der Tugend,
+          mir jetzt feindlich,
+          ist ein Aufbäumen
+          und eine Erschöpfung
+          immer im Frondienst.
+          In dieser Stunde,
+          ohne Verzug,
+          zupf die Saite;
+          weil durch das Schicksal
           der Starke fällt,
           klagt alle laut mit mir!
 source_latin: http://daten.digitale-sammlungen.de/0008/bsb00085130/images/index.html?id=00085130&groesser=&fip=xsyztsxdsydenfsdreayaewqsdaseayayztseaya
