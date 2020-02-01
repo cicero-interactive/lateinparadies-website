@@ -63,11 +63,9 @@ module ChapterProcessingFilter
 
 
 				unless chapter["latin"] && chapter["german"]
-					sectionNumber = 0
-					lastSectionLines = 0
 					for section in chapter["sections"] do
 						# Assign type
-						if section["type"] == nil 
+						if section["type"] == nil
 							section["type"] = "translation"
 						end
 
@@ -80,6 +78,40 @@ module ChapterProcessingFilter
 							end
 						end
 
+						if section["style"] == "poem" && section["latin"] != nil && section["german"] != nil
+							# Divide section in smaller sections
+							latinVerses = section["latin"].split(/\n/)
+							germanVerses = section["german"].split(/\n/)
+							if latinVerses.size > 2
+								verseNum = -2
+								for i in 0..latinVerses.length-1
+									# Create new section for every two verses, but ignore the first two of the original section (therefore the -2 above)
+									verseNum += 1
+									if verseNum == -1
+										section["latin"] = latinVerses[i]
+										section["german"] = germanVerses[i]
+									elsif verseNum == 0
+										section["latin"] += "\n" << latinVerses[i]
+										section["german"] += "\n" << germanVerses[i]
+									else
+										if verseNum == 1 && i == latinVerses.length-1
+											sectionNew = {"style" => "poem", "latin" => latinVerses[i], "german" => germanVerses[i]}
+											chapter["sections"].insert(chapter["sections"].find_index(section) + i/2, sectionNew)
+										elsif verseNum == 2
+											verseNum = 0;
+											sectionNew = {"style" => "poem", "latin" => latinVerses[i-1] << "\n" << latinVerses[i], "german" => germanVerses[i-1] << "\n" << germanVerses[i]}
+											chapter["sections"].insert(chapter["sections"].find_index(section) + i/2, sectionNew)
+										end
+									end
+								end
+							end
+						end
+					end
+
+
+					sectionNumber = 0
+					lastSectionLines = 0
+					for section in chapter["sections"] do
 						# Assign missing section numbers
 						if section["style"] == "poem"
 							if section["number"] == nil
