@@ -33,6 +33,7 @@ counter: https://www.webfreecounter.com/hit.php?id=zuuumxnkf&nd=9&style=44
 			<li><a href="Martial.php">Martial</a></li>
 			<li><a href="Nepos.php">Nepos</a></li>
 			<li><a href="Ovid.php">Ovid</a></li>
+			<li><a href="Plinius-Minor.php">Plinius der Jüngere</a></li>
 			<li><a href="Sueton.php">Sueton</a></li>
 		</ul>
 	</div>
