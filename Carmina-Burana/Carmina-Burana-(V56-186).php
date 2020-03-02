@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Carmina Burana Übersetzung (Kapitel 227-228) | Lateinparadies</title>
+		<title>Carmina Burana Übersetzung (Kapitel 56-186) | Lateinparadies</title>
 		<link rel="icon" href="../images/favicon.ico">
 		<link rel="stylesheet" href="../stylesheet.css">
 		<meta name="viewport" content="width=device-width, initial-scale=0.70">
@@ -40,7 +40,7 @@
 											<span class="spc"><li>>></li></span>
 											<li><a href="../Carmina-Burana.php">Carmina Burana</a></li>
 											<span class="spc"><li>>></li></span>
-											<li><a href="">Kapitel 227-228 (geistliche Dramen)</a></li>
+											<li><a href="">Kapitel 56-186 (Liebeslieder)</a></li>
 											<div class="impr ShowOnBigScreen">
 												<li>&nbsp;</li>
 												<li><a href="../Impressum.php">Impressum&nbsp;</a></li>
@@ -107,7 +107,7 @@
 									<td>
 										<font size="3" color="#CCCCCC">
 											<div style="padding: 0px 20px 0px 20px">Besuche dieser Seite:<br>
-												<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zmqnpn&nd=9&style=44" alt="web counter"></a>
+												<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zrevqnpa&nd=9&style=44" alt="web counter"></a>
 											</div>
 											</font>
 										</td>

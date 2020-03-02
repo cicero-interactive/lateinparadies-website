@@ -1,13 +1,13 @@
 <html>
 	<head>
-		<title>Carmina Burana Übersetzung (Kapitel 227-228) | Lateinparadies</title>
+		<title>Cicero: In Verrem Übersetzung (Buch I) | Lateinparadies</title>
 		<link rel="icon" href="../images/favicon.ico">
 		<link rel="stylesheet" href="../stylesheet.css">
 		<meta name="viewport" content="width=device-width, initial-scale=0.70">
 		<meta name="Copyright" content="Copyright (c) 2016-2019 by Cicero Interactive"/>
 		<meta charset="utf-8">
-	</head>	
-	
+	</head>	 
+
 	<body>
 		<div class="background ShowOnSmallScreen"></div>
 		<table style="width:100%; max-width: 1100px; margin: auto">
@@ -38,9 +38,9 @@
 										<font size="4">
 											<li><a href="../">Home</a></li>
 											<span class="spc"><li>>></li></span>
-											<li><a href="../Carmina-Burana.php">Carmina Burana</a></li>
+											<li><a href="../Nepos.php">Cicero</a></li>
 											<span class="spc"><li>>></li></span>
-											<li><a href="">Kapitel 227-228 (geistliche Dramen)</a></li>
+											<li><a href="">In Verrem II (Buch I)</a></li>
 											<div class="impr ShowOnBigScreen">
 												<li>&nbsp;</li>
 												<li><a href="../Impressum.php">Impressum&nbsp;</a></li>
@@ -48,22 +48,56 @@
 												<li><a href="../Datenschutzerklaerung.php">Datenschutzerklärung&nbsp;</a></li>
 											</div>
 										</font>
+										<br>
+										<hr>
 									</ul>
-									<hr style="margin: 6px 0px 8px 0px">
 								</div>
 							</td>
 						</tr>
 						
 					<!--CONTENT-->
 						<tr>
-							<td background="../images/color_blue.png" style="text-align: center">
-								<br><br>
-								<font size="7" color="#F2F2F2">
-									<u>Carmina Burana</u>
-								</font>
-								<br><br><br>
-								<font size="4" color="#F2F2F2">In Arbeit!</font>
-								<br><br><br>
+							<td background="../images/color_blue.png" style="text-align: center; padding-left:15px; padding-right:15px">
+								<div style="max-width: 1000px; margin: auto">
+									<br><br>
+									<font size="7" color="#F2F2F2">
+										<u>Cicero: Pro Sexto Roscio</u>
+									</font>
+									<br><br><br>
+									
+									<div class="cntrdtxt" id="Ch46">
+										<ul>
+											<li><font size="6" color="#FFCC00"><u>Kapitel 46</u></font></li>
+										</ul>
+									</div>
+									<table class="trlChapter">
+										<tr>
+											<td>
+												<p>
+													<font size="4" color="#F2F2F2">
+														Delum venit. Ibi ex fano Apollinis religiosissimo noctu clam sustulit signa pulcherrima atque antiquissima,
+													 	eaque in onerariam navem. suam conicienda curavit. Postridie cum fanum spoliatum viderent ii qui Delum incolebant,
+													  	graviter ferebant; est enim tanta apud eos eius fani religio atque antiquitas ut in eo loco ipsum Apollinem natum esse arbitrentur.
+														Verbum tamen facere non audebant, ne forte ea res ad Dolabellam ipsum pertineret. Tum subito tempestates coortae sunt maximae,
+													    iudices, ut non modo proficisci cum cuperet Dolabella non posset sed vix in oppido consisteret: ita magni fluctus eiciebantur.
+														Hic navis illa praedonis istius, onusta signis religiosis, expulsa atque eiecta fluctu frangitur;
+														in litore signa illa Apollinis reperiuntur; iussu Dolabellae reponuntur. Tempestas sedatur, Dolabella Delo proficiscitur. 
+													</font>
+												</p>
+											</td>
+											<td></td>
+											<td>
+												<p>
+													<font size="4" color="#F2F2F2">
+														Alle diese, die ihr in diesem Prozess anwesend seht, glauben, dass das durch ein neues Verbrechen ausgeheckte Unrecht verteidigt gehört,
+														sie selbst aber wagen es nicht, diese aufgrund der ungünstigen Zeitumstände zu verteidigen.
+													</font>
+												</p>
+											</td>
+										</tr>
+									</table>
+									<br><br><br>
+								</div>
 							</td>
 						</tr>
 						<tr style="height: 2px"></tr>
@@ -73,7 +107,7 @@
 							<td class="credits" background="../images/color_blue.png">
 								<font size="4" color="#CCCCCC">
 									<br>
-									Quelle des lateinischen Textes: <a target="_blank" href="http://daten.digitale-sammlungen.de/0008/bsb00085130/images/index.html?id=00085130&groesser=&fip=xsyztsxdsydenfsdreayaewqsdaseayayztseaya">digitale-sammlungen.de</a></div>
+									Quelle des lateinischen Textes: <a target="_blank" href="http://www.thelatinlibrary.com/cicero/ver.shtml">TheLatinLibrary</a></div>
 									<br>
 									Fehler gefunden? Kontaktieren Sie uns unter: <a href="mailto:lateinparadies.de.cool@gmail.com">lateinparadies.de.cool@gmail.com</a>!
 									<br><br>
@@ -91,11 +125,11 @@
                                         <td>
 											<font size="3" color="#CCCCCC">
 												<div style="padding: 0px 20px 0px 20px">Besuche insgesamt:<br>
-												<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zvmxnka&nd=9&style=44" alt="hit counter"></a>
-											</div>
-										</font>
-									</td>
-									<td class="credits ShowOnBigScreen" style="text-align: center">
+													<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zvmxnka&nd=9&style=44" alt="hit counter"></a>
+												</div>
+											</font>
+										</td>
+										<td class="credits ShowOnBigScreen" style="text-align: center">
 											<font size="4" color="#FFFFFF">
 												Copyright © 2016 - 2019 Cicero Interactive.
 											</font>
@@ -104,11 +138,11 @@
 												Fragen oder Verbesserungsvorschläge? Kontaktieren Sie uns unter: <a href="mailto:lateinparadies.de.cool@gmail.com">lateinparadies.de.cool@gmail.com</a>!
 											</font>
 										</td>
-									<td>
-										<font size="3" color="#CCCCCC">
-											<div style="padding: 0px 20px 0px 20px">Besuche dieser Seite:<br>
-												<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zmqnpn&nd=9&style=44" alt="web counter"></a>
-											</div>
+										<td>
+											<font size="3" color="#CCCCCC">
+												<div style="padding: 0px 20px 0px 20px">Besuche dieser Seite:<br>
+													<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zmqppo&nd=9&style=44" alt="hit counter"></a>
+												</div>
 											</font>
 										</td>
 									</tr>
