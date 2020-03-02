@@ -102,7 +102,7 @@ chapters:
           Veneris in thalamos ducunt omnes vie,
           non est in tot turribus turris Alethie.
         german: |
-          Wenn du Hippotylus heute zur Brücke Pavias bringst,
+          Wenn du Hippolytus heute zur Brücke Pavias bringst,
           wird er daraus folgend morgen kein Hippolytus mehr sein.
           Alle Wege führen in das Schlafgemach der Venus,
           unter so vielen Türmen hat die Tugend keinen Turm.
@@ -180,7 +180,7 @@ chapters:
           vinum tale generat copiam sermonum.
         german: |
           Einem jeden gibt die Natur seine eigene Gabe:
-          ich trinke, wenn ich Verse mache, guten Wein,
+          Ich trinke, wenn ich Verse mache, guten Wein,
           und was die Fässer der Wirte an Reinstem enthalten;
           solcher Wein bringt der Worte ganze Fülle hervor.
       - style: verse-seperator
