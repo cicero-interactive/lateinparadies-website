@@ -422,10 +422,15 @@ div.td {
 		color: $color_grey;
 	}
 	.story {
+		box-sizing: border-box;
 		grid-column: 1/10;
+		margin: 12px auto;
 		width: 100%;
 		max-width: 1000px;
-		margin: auto;
+		padding: 6px;
+		border-radius: 10px;
+		background-color: rgba(0, 153, 255, 0.5);
+		box-shadow: 2px 2px 8px 1px rgba(0, 0, 0, 0.3);
 	}
 
 	.chapter-item {

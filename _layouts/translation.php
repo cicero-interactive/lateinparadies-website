@@ -116,7 +116,7 @@ layout: wrapper
 							{%- endif -%}
 						{%- comment -%} If section contains sidestory {%- endcomment -%}
 						{%- elsif section.type == "story" -%}
-							<div class="story"><hr>{{ section.content }}<hr></div>
+							<div class="story">{{ section.content }}</div>
 						{%- endif -%}
 					{%- endfor -%}
 				{%- endif -%}
