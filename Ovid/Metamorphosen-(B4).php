@@ -120,6 +120,130 @@ chapters:
           Als die wilde Löwin ihren Durst mit viel Wasser gestillt hatte,
           zerfetzte sie mit blutbespritztem Maul den dünnen Umhang,
           den sie zufällig und ohne Thisbe selbst gefunden hatte, während sie in die Wälder zurückkehrte.
+      - style: verse-seperator
+      - latin: |
+          serius egressus vestigia vidit in alto
+          pulvere certa ferae totoque expalluit ore
+          Pyramus; ut vero vestem quoque sanguine tinctam
+          repperit, "una duos" inquit "nox perdet amantes,
+          e quibus illa fuit longa dignissima vita;
+          nostra nocens anima est. ego te, miseranda, peremi,
+          in loca plena metus qui iussi nocte venires
+          nec prior huc veni. nostrum divellite corpus
+          et scelerata fero consumite viscera morsu,
+          o quicumque sub hac habitatis rupe leones!
+          sed timidi est optare necem." velamina Thisbes
+          tollit et ad pactae secum fert arboris umbram,
+          utque dedit notae lacrimas, dedit oscula vesti,
+          "accipe nunc" inquit "nostri quoque sanguinis haustus!"
+          quoque erat accinctus, demisit in ilia ferrum,
+          nec mora, ferventi moriens e vulnere traxit.
+          ut iacuit resupinus humo, cruor emicat alte,
+          non aliter quam cum vitiato fistula plumbo
+          scinditur et tenui stridente foramine longas
+          eiaculatur aquas atque ictibus aera rumpit.
+        german: |
+          Pyramus, der später weggegangen war, sah im tiefen Sand
+          deutlich sichtbare Spuren eines wilden Tieres und erblasste am ganzen Gesicht.
+          Sobald er auch den mit Blut benetzten Umhang entdeckt hatte,
+          sagte er: „Eine Nacht wird zwei Liebende zerstören“.
+          Von diesen <span class="annotation">[beiden]</span> war jene eines langen Lebens sehr würdig;
+          unsere Seele ist schuldig. "Ich habe dich, Armselige, getötet, der ich befohlen habe,
+          dass du in der Nacht an einen Ort voller Angst kommst,
+          und ich bin nicht früher hergekommen. Zerreißt unseren Körper,
+          und zerfleischt die Eingeweide mit einem wilden Biss,
+          o welche Löwen auch immer unter diesen Felsen wohnen!
+          Es ist die Art eines Feiglings <span class="annotation">[wie mir]</span>, sich den Tod zu wünschen." Er hob den Mantel der Thisbe auf
+          und nahm ihn mit sich zum Schatten des vereinbarten Baums,
+          und als er dem bekannten Kleidungsstück Tränen und Küsse gab,
+          sagte er: "Nimm nun Schlücke auch meines Blutes!"
+          Er stieß das Schwert, mit dem er umgürtet war, in den Unterleib
+          und der Sterbende zog es unverzüglich aus der heißen Wunde.
+          Und wie er da so rücklings auf der Erde lag, spritzte das Blut hoch empor,
+          nicht anders, wie wenn ein Rohr, an dem das Blei schadhaft geworden ist,
+          platzt und wenn es zischend aus dem schmalen Riss einen langen Wasserstrahl
+          herausspritzen lässt und in Strahlen die Luft durchbricht.
+      - style: verse-seperator
+      - latin: |
+          arborei fetus adspergine caedis in atram
+          vertuntur faciem, madefactaque sanguine radix
+          purpureo tinguit pendentia mora colore.
+          'Ecce metu nondum posito, ne fallat amantem,
+          illa redit iuvenemque oculis animoque requirit,
+          quantaque vitarit narrare pericula gestit;
+          atque locum et visa cognoscit in arbore formam,
+          sic facit incertam pomi color: haeret, an haec sit.
+          dum dubitat, tremebunda videt pulsare cruentum
+          membra solum, retroque pedem tulit, oraque buxo
+          pallidiora gerens exhorruit aequoris instar,
+          quod tremit, exigua cum summum stringitur aura.
+          sed postquam remorata suos cognovit amores,
+          percutit indignos claro plangore lacertos
+          et laniata comas amplexaque corpus amatum
+          vulnera supplevit lacrimis fletumque cruori
+          miscuit et gelidis in vultibus oscula figens
+          "Pyrame," clamavit, "quis te mihi casus ademit?
+          Pyrame, responde! tua te carissima Thisbe
+          nominat; exaudi vultusque attolle iacentes!"
+          ad nomen Thisbes oculos a morte gravatos
+          Pyramus erexit visaque recondidit illa.
+          'Quae postquam vestemque suam cognovit et ense
+          vidit ebur vacuum, "tua te manus" inquit "amorque
+          perdidit, infelix! est et mihi fortis in unum
+          hoc manus, est et amor: dabit hic in vulnera vires.
+          persequar extinctum letique miserrima dicar
+          causa comesque tui: quique a me morte revelli
+          heu sola poteras, poteris nec morte revelli.
+          hoc tamen amborum verbis estote rogati,
+          o multum miseri meus illiusque parentes,
+          ut, quos certus amor, quos hora novissima iunxit,
+          conponi tumulo non invideatis eodem;
+          at tu quae ramis arbor miserabile corpus
+          hunc tegis unius, mox es tectura duorum,
+          signa tene caedis pullosque et luctibus aptos
+          semper habe fetus, gemini monimenta cruoris."
+          dixit et aptato pectus mucrone sub imum
+          incubuit ferro, quod adhuc a caede tepebat.
+        german: |
+          Die Früchte des Baumes werden durch das Anspritzen des Blutes
+          in ein dunkles Aussehen umgewandelt. Und die Wurzel, nass vom Blut befeuchtet,
+          färbt die herabhängenden Maulbeeren mit purpurroter Farbe.
+          Siehe da, nachdem die Furcht noch nicht abgelegt worden war, und um den Geliebten nicht zu enttäuschen,
+          kehrt jene zurück und sucht den jungen Mann mit den Augen und mit dem Herz,
+          und sie verlangt danach zu erzählen, welch große Gefahr sie vermieden hat.
+          Sie erkennt zwar den Ort und den Umriss des emporragenden Baumes wieder,
+          so macht sie aber die Farbe der Früchte ungewiss: sie zweifelt, ob es dieser ist.
+          Während sie zweifelt, sah sie zuckende Glieder,
+          den blutbefleckten Boden schlagen und sie wich zurück und das Gesicht, blasser als Buchsbaumholz,
+          erschrak sie, gleich wie das Wasser,
+          das zittert, wenn die Oberflächen von einem sanften Luftzug gestreift wird.
+          Aber nachdem sie nach kurzem Verweilen ihren Geliebten erkannt hatte,
+          schlug sie ihre unschuldigen Arme mit lautem Wehklagen
+          und raufte sich die Haare, und den geliebten Körper umarmend
+          füllte sie die Wunden mit Tränen und mischte die Tränen mit Blut
+          und rief, während sie Küsse auf das kalte Gesicht anbrachte:
+          "Pyramus, welches Unglück hat dich mir entrissen?
+          Pyramus, antworte! Deine liebste Thisbe
+          ruft dich. Höre mich und erhebe das am Boden liegende Gesicht!"
+          Beim Namen "Thisbe" schlug Pyramus die vom Tod schweren Augen auf
+          und schloss sie wieder, nachdem er jene gesehen hatte.
+          Nachdem diese ihr Kleidungsstück erkannt und
+          die vom Schwert leere elfenbeinerne Scheide gesehen hatte, sagte sie: "Deine Hand und Liebe
+          haben dich zugrunde gerichtet, Unglücklicher! Auch ich habe eine Hand, die tapfer für dieses eine ist,
+          auch ich habe die Liebe: Diese Liebe wird mir die Kraft geben, mir Wunden zuzufügen.
+          Ich werde dem Toten nachfolgen und ich werde ärmste Ursache
+          und Begleiterin deines Todes genannt werden; und du, der du mir nur durch den Tod
+          entrissen werden konntest, wirst mir nicht einmal vom Tod entrissen werden können.
+          Dennoch seid im Namen uns beider gebeten,
+          o ihr ärmsten Väter, meiner und seiner, dass ihr nicht missgönnt,
+          dass diejenigen, die eine feste Liebe und eine Todesstunde verband,
+          in demselben Grabhügel bestattet werden.
+          Aber du Baum, der du mit deinen Ästen den Körper eines einzelnen
+          Bedauernswerten bedeckst, bald wirst du zwei bedecken,
+          bewahre die Zeichen des Blutes und trage als Zeichen des Todes
+          immer dunkle, der Trauer angepasste Früchte, als Andenken an zweifach vergossenes Blut!"
+          So sprach sie und stürzte in das Schwert, dessen Spitze sie
+          unterhalb der Brust angesetzt hatte, das vom Blut noch warm war.
 source_latin: https://www.thelatinlibrary.com/ovid/ovid.met4.shtml
 counter: https://www.webfreecounter.com/hit.php?id=gvxqnop&nd=9&style=44
 ---
