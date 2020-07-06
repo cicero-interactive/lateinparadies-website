@@ -5,7 +5,7 @@
 	</div>
 	<div class="ShowOnBigScreen">
 		<div class="copyright">
-			Copyright © 2016 - 2019 <a href="https://cicero-interactive.de.cool/" target="_blank">Cicero Interactive</a>.
+			Copyright © 2016 - <?php echo date("Y"); ?> <a href="https://cicero-interactive.de.cool/" target="_blank">Cicero Interactive</a>.
 		</div>
 		<!--<div class="nav_btm">
 			<li><a href="{{ site.baseurl }}/Sitemap.php">Sitemap</a></li>
@@ -24,7 +24,7 @@
 	</div>
 	<div class="ShowOnSmallScreen">
 		<span class="copyright">
-			Copyright © 2016 - 2019 <a href="https://cicero-interactive.de.cool/" target="_blank">Cicero Interactive</a>.
+			Copyright © 2016 - <?php echo date("Y"); ?> <a href="https://cicero-interactive.de.cool/" target="_blank">Cicero Interactive</a>.
 		</span>
 		<div class="nav_btm">
 			<hr>
