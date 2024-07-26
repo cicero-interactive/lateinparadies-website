@@ -1,4 +1,4 @@
-{%- comment -%} <div id="alertCookies" class="alert alertYellow" style="position: sticky; top: 8px;">
+<div id="alertCookies" class="alert alertYellow" style="position: sticky; top: 8px;">
     <span class="closebtn" onclick="this.parentElement.style.display='none'; setCookie('closedCookieAlert', true, 1000);">&times;</span>
     Um euch ein besseres Nutzererlebnis zu bieten, verwenden wir Cookies. Durch Nutzung unserer Dienste stimmst du unserer Verwendung von Cookies zu. <a href="{{ site.baseurl }}/Datenschutzerklaerung.php">Weitere Informationen</a>
 </div>
@@ -6,7 +6,7 @@
     if (checkCookie("closedCookieAlert") && getCookie("closedCookieAlert") == "true") {
         document.getElementById("alertCookies").style.display = "none";
     }
-</script> {%- endcomment -%}
+</script>
 {%- comment -%} <div class="alert alertBlue">
     <!--<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>-->
     <!--Cicero Interactive bedankt sich bei all den großzügigen Spendern,
