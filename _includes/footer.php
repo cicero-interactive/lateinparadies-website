@@ -1,11 +1,11 @@
 <footer>
-	<div>
+	<div>{%- comment -%} 
 		Besuche insgesamt:<br>
 		<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=zvmxnka&nd=9&style=44" alt="hit counter"></a>
-	</div>
+	{%- endcomment -%}</div>
 	<div class="ShowOnBigScreen">
 		<div class="copyright">
-			Copyright © 2016 - <?php echo date("Y"); ?> <a href="https://cicero-interactive.de.cool/" target="_blank">Cicero Interactive</a>.
+			Copyright © 2016 - <?php echo date("Y"); ?> <!--<a href="https://cicero-interactive.de.cool/" target="_blank">-->Cicero Interactive<!--</a>-->.
 		</div>
 		<!--<div class="nav_btm">
 			<li><a href="{{ site.baseurl }}/Sitemap.php">Sitemap</a></li>
@@ -18,10 +18,10 @@
 		</div>-->
 		Fragen oder Verbesserungsvorschläge? Kontaktiere uns unter: <a href="mailto:{{ site.email }}">{{ site.email }}</a>!
 	</div>
-	<div>
+	<div>{%- comment -%}
 		Besuche dieser Seite:<br>
 		<a href="https://www.webfreecounter.com/" target="_blank"><img src="{{ page.counter }}" alt="hit counter"></a>
-	</div>
+	{%- endcomment -%}</div>
 	<div class="ShowOnSmallScreen">
 		<span class="copyright">
 			Copyright © 2016 - <?php echo date("Y"); ?> <a href="https://cicero-interactive.de.cool/" target="_blank">Cicero Interactive</a>.
