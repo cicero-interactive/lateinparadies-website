@@ -129,4 +129,4 @@ layout: wrapper
 	</div>
 </main>
 {%- include translation-sources.php -%}
-{%- include comments.php -%}
+{%- comment -%} {%- include comments.php -%} {%- endcomment -%}
