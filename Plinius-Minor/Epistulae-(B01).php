@@ -6,7 +6,7 @@ title_nav: Epistulae (Buch I)
 heading: Plinius&#58; Epistulae
 chapters:
   - latin: >-
-      C. Plinius Septicio claro suo S. Frequenter hortatus es, ut epistulas, si quas paulo curatius scripsissem, colligerem publicaremque. Collegi non servato temporis ordine — neque enim historiam componebam —, sed ut quaeque in manus venerat. Superest ut nec te consilii nec me paeniteat obsequii. Ita enim fiet, ut eas quae adhuc neglectae iacent requiram et si quas addidero non supprimam. Vale. 
+      C. Plinius Septicio claro suo S. Frequenter hortatus es, ut epistulas, si quas paulo curatius scripsissem, colligerem publicaremque. Collegi non servato temporis ordine — neque enim historiam componebam —, sed ut quaeque in manus venerat. Superest ut nec te consilii nec me paeniteat obsequii. Ita enim fiet, ut eas quae adhuc neglectae iacent requiram et si quas addidero non supprimam. Vale.
     german: >-
       C. Plinius grüßt seinen Septicius. Du hast mich oft ermahnt, meine Briefe, die ich mit etwas mehr Sorgfalt erstellt hatte, zu sammeln und zu veröffentlichen. Das habe ich getan ohne Rücksicht auf die chronologische Folge – denn ich wollte ja kein Geschichtswerk schreiben -, sondern wie sie mir gerade in die Hände fielen. Nun kommt es darauf an, dass weder du deinen Rat zu bereuen brauchst noch ich meine Gehorsamkeit. Dann werde ich nämlich die, die jetzt noch unberücksichtigt geblieben sind hervorsuchen und, falls ich neue schreibe, diese nicht zurückhalten. Lebe wohl.
   - number: 11

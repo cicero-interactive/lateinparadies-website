@@ -46,7 +46,7 @@ chapters:
           und je mehr das Feuer bedeckt wurde, desto mehr loderte es auf.
           Gespalten war die gemeinsame Trennwand beider Häuser von einem dünnen Ritz,
           der einst beim Bau der Mauer entstanden war.
-          Diesen über lange Jahrhunderte von niemandem bemerkten Fehler habt - 
+          Diesen über lange Jahrhunderte von niemandem bemerkten Fehler habt -
           was bemerkt die Liebe nicht? - als erste ihr Liebenden gesehen
           und habt ihn zu einem Weg für eure Stimme gemacht;
           und sicher pflegten die Schmeicheleien in Form von leisestem Gemurmel durch jenen hinüberzugehen.
@@ -85,7 +85,7 @@ chapters:
           arboris: arbor ibi niveis uberrima pomis,
           ardua morus, erat, gelido contermina fonti.
           pacta placent; et lux, tarde discedere visa,
-          praecipitatur aquis, et aquis nox exit ab isdem. 
+          praecipitatur aquis, et aquis nox exit ab isdem.
         german: |
           Damit sich die Umhergehenden nicht auf dem weiten Feld verirren,
           beschließen sie, sich am Grab des Ninus zu treffen

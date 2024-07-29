@@ -4,7 +4,7 @@ id: 5a37e501b4cdf930cf5d24ca9590b46f7ceda34b
 title: Cäsar&#58; De Bello Gallico Übersetzung (Buch I)
 title_nav: De Bello Gallico (Buch I)
 heading: Cäsar&#58; De Bello Gallico
-chapters: 
+chapters:
   - latin: >-
       Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur. Hi omnes lingua, institutis, legibus inter se differunt. Gallos ab Aquitanis Garumna flumen, a Belgis Matrona et Sequana dividit. Horum omnium fortissimi sunt Belgae, propterea quod a cultu atque humanitate provinciae longissime absunt, minimeque ad eos mercatores saepe commeant atque ea quae ad effeminandos animos pertinent important, proximique sunt Germanis, qui trans Rhenum incolunt, quibuscum continenter bellum gerunt. Qua de causa Helvetii quoque reliquos Gallos virtute praecedunt, quod fere cotidianis proeliis cum Germanis contendunt, cum aut suis finibus eos prohibent aut ipsi in eorum finibus bellum gerunt. [...]
     german: >-

@@ -1,31 +1,33 @@
-function setCookie(cname, cvalue, exdays) {
-  var d = new Date();
-  d.setTime(d.getTime() + (exdays*24*60*60*1000));
-  var expires = "expires=" + d.toGMTString();
-  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+function setCookie(id, value, daysToExpiration) {
+	let date = new Date();
+	date.setTime(date.getTime() + (daysToExpiration*24*60*60*1000));
+
+	let expires = "expires=" + date.toGMTString();
+	document.cookie = id + "=" + value + ";" + expires + ";path=/";
 }
 
-function getCookie(cname) {
-  var name = cname + "=";
-  var decodedCookie = decodeURIComponent(document.cookie);
-  var ca = decodedCookie.split(';');
-  for(var i = 0; i < ca.length; i++) {
-    var c = ca[i];
-    while (c.charAt(0) == ' ') {
-      c = c.substring(1);
-    }
-    if (c.indexOf(name) == 0) {
-      return c.substring(name.length, c.length);
-    }
-  }
-  return "";
+function getCookie(id) {
+	let joinedCookies = decodeURIComponent(document.cookie);
+	let cookies = joinedCookies.split(';');
+	let assignment = id + "=";
+
+	for (let i = 0; i < cookies.length; i++) {
+		let cookie = cookies[i];
+
+		while (cookie.charAt(0) == ' ') {
+			cookie = cookie.substring(1);
+		}
+
+		if (cookie.indexOf(assignment) == 0) {
+			return cookie.substring(assignment.length, cookie.length);
+		}
+	}
+
+	return "";
 }
 
-function checkCookie(cname) {
-  var result = getCookie(cname);
-  if (result == "") {
-    return(false);
-  } else {
-     return(true);
-  }
+function isPresent(cookieId) {
+	let result = getCookie(cookieId);
+
+	return result != "";
 }

@@ -4,7 +4,7 @@ id: c311190ab35a2fad4e38b844b236faf274224300
 title: Jacobus de Voragine&#58; Legenda Aurea Übersetzung
 title_nav: Legenda Aurea
 heading: Jacobus de Voragine&#58; Legenda Aurea
-chapters: 
+chapters:
   - number: 49
     name: De Sancto Benedicto
     sections:

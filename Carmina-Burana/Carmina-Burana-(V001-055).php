@@ -4,7 +4,7 @@ id: dde6729d07663e381c6635bd0cb9af97fcd928c5
 title: Carmina Burana Übersetzung (Kapitel 1-55)
 title_nav: Kapitel 1-55 (moralisch-satirische Dichtungen)
 heading: Carmina Burana
-chapters: 
+chapters:
   - number: 2
     latin: >-
       "Responde, qui tanta cupis!", modo Copia dicat. "Pone modum! Quae vis, dono." - "Volo plena sit arca." - "Plena sit!" - "Adde duas!"" - "Addo." - "Si quattuor essent, Sufficerent." - "Sic semper agis: cum plurima dono, Plus queris, nec plenus eris, donec morieris."
